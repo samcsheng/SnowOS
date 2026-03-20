@@ -308,11 +308,6 @@ export default function InstructorSchedulePage() {
             const isDayToday = date === TODAY
             const isSelected = date === selectedDate
             return (
-              {/* Ref lives on the NON-sticky wrapper. A sticky child's
-                  getBoundingClientRect() returns its *stuck* position when it
-                  is above the viewport, making the scroll target ≈ current
-                  scrollTop (no movement). The parent wrapper is never sticky,
-                  so its rect is always the natural flow position. */}
               <div
                 key={date}
                 ref={el => {
