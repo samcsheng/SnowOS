@@ -7,9 +7,7 @@ import { useData } from '@/app/lib/store/use-data'
 import { StatusBadge } from '@/app/components/status-badge'
 import { DisciplineBadge } from '@/app/components/discipline-badge'
 import { Button } from '@/components/ui/button'
-import { Card, CardContent } from '@/components/ui/card'
 import { Checkbox } from '@/components/ui/checkbox'
-import { Separator } from '@/components/ui/separator'
 import { formatTimeRange, formatDate } from '@/app/lib/utils/date-helpers'
 import { LEVEL_LABELS } from '@/app/lib/utils/report-helpers'
 import { ArrowLeft, Play, CheckCircle, FileText, Users, MapPin, Clock } from 'lucide-react'
@@ -31,8 +29,8 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
   if (!lesson || !template) {
     return (
       <div className="text-center py-12">
-        <p className="text-muted-foreground">Lesson not found</p>
-        <Button variant="ghost" onClick={() => router.back()} className="mt-4">
+        <p className="text-[#666666]">Lesson not found</p>
+        <Button variant="ghost" onClick={() => router.back()} className="mt-4 rounded-full">
           <ArrowLeft className="h-4 w-4 mr-2" /> Back
         </Button>
       </div>
@@ -60,27 +58,33 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
 
   const actionButton = {
     scheduled: (
-      <Button className="w-full" size="lg" onClick={handleStartLesson}>
-        <Play className="h-4 w-4 mr-2" /> Start Lesson
-      </Button>
+      <button
+        onClick={handleStartLesson}
+        className="w-full bg-[#FDBE00] text-[#000000] font-semibold rounded-full py-3 flex items-center justify-center gap-2 hover:bg-[#f0b400] transition-colors"
+      >
+        <Play className="h-4 w-4" /> Start Lesson
+      </button>
     ),
     in_progress: (
-      <Button className="w-full" size="lg" variant="secondary" onClick={handleCompleteLesson}>
-        <CheckCircle className="h-4 w-4 mr-2" /> Complete Lesson
-      </Button>
+      <button
+        onClick={handleCompleteLesson}
+        className="w-full bg-[#000000] text-white font-semibold rounded-full py-3 flex items-center justify-center gap-2 hover:bg-[#222222] transition-colors"
+      >
+        <CheckCircle className="h-4 w-4" /> Complete Lesson
+      </button>
     ),
     completed: (
       <Link href={`/instructor/report/${lesson.id}`}>
-        <Button className="w-full" size="lg">
-          <FileText className="h-4 w-4 mr-2" /> Write Report
-        </Button>
+        <button className="w-full bg-[#FDBE00] text-[#000000] font-semibold rounded-full py-3 flex items-center justify-center gap-2 hover:bg-[#f0b400] transition-colors">
+          <FileText className="h-4 w-4" /> Write Report
+        </button>
       </Link>
     ),
     reported: (
       <Link href={`/instructor/report/${lesson.id}`}>
-        <Button className="w-full" size="lg" variant="outline">
-          <FileText className="h-4 w-4 mr-2" /> View Report
-        </Button>
+        <button className="w-full bg-white text-[#000000] font-semibold rounded-full py-3 border border-[#000000] flex items-center justify-center gap-2 hover:bg-[#F8F8F8] transition-colors">
+          <FileText className="h-4 w-4" /> View Report
+        </button>
       </Link>
     ),
   }[lesson.status as LessonStatus]
@@ -89,59 +93,52 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
     <div>
       {/* Header */}
       <div className="flex items-center gap-3 mb-6">
-        <Button variant="ghost" size="icon" onClick={() => router.back()}>
-          <ArrowLeft className="h-5 w-5" />
-        </Button>
+        <button
+          onClick={() => router.back()}
+          className="w-9 h-9 rounded-full border border-[#CCCCCC] flex items-center justify-center hover:bg-[#F8F8F8] transition-colors"
+        >
+          <ArrowLeft className="h-4 w-4 text-[#000000]" />
+        </button>
         <div className="flex-1">
-          <div className="flex items-center gap-2">
-            <h1 className="text-xl font-bold">{template.name}</h1>
+          <div className="flex items-center gap-2 flex-wrap">
+            <h1 className="text-xl font-bold text-[#000000]" style={{ fontFamily: 'var(--font-heading)' }}>
+              {template.name}
+            </h1>
             <DisciplineBadge discipline={template.discipline_id} />
           </div>
-          <p className="text-sm text-muted-foreground">{formatDate(lesson.start_time)}</p>
+          <p className="text-sm text-[#666666]">{formatDate(lesson.start_time)}</p>
         </div>
         <StatusBadge status={lesson.status} />
       </div>
 
       {/* Lesson Info */}
       <div className="grid grid-cols-3 gap-3 mb-6">
-        <Card>
-          <CardContent className="p-3 text-center">
-            <Clock className="h-4 w-4 mx-auto mb-1 text-muted-foreground" />
-            <p className="text-xs text-muted-foreground">Time</p>
-            <p className="text-sm font-medium">{formatTimeRange(lesson.start_time, lesson.end_time)}</p>
-          </CardContent>
-        </Card>
-        <Card>
-          <CardContent className="p-3 text-center">
-            <MapPin className="h-4 w-4 mx-auto mb-1 text-muted-foreground" />
-            <p className="text-xs text-muted-foreground">Location</p>
-            <p className="text-sm font-medium">{template.location}</p>
-          </CardContent>
-        </Card>
-        <Card>
-          <CardContent className="p-3 text-center">
-            <Users className="h-4 w-4 mx-auto mb-1 text-muted-foreground" />
-            <p className="text-xs text-muted-foreground">Level</p>
-            <p className="text-sm font-medium">
-              {template.level_numeric ? LEVEL_LABELS[template.level_numeric] || `L${template.level_numeric}` : 'Any'}
-            </p>
-          </CardContent>
-        </Card>
+        {[
+          { icon: Clock, label: 'Time', value: formatTimeRange(lesson.start_time, lesson.end_time) },
+          { icon: MapPin, label: 'Location', value: template.location },
+          { icon: Users, label: 'Level', value: template.level_numeric ? LEVEL_LABELS[template.level_numeric] || `L${template.level_numeric}` : 'Any' },
+        ].map(({ icon: Icon, label, value }) => (
+          <div key={label} className="bg-white rounded-xl p-3 text-center border border-[#CCCCCC]">
+            <Icon className="h-4 w-4 mx-auto mb-1 text-[#999999]" />
+            <p className="text-xs text-[#666666]">{label}</p>
+            <p className="text-sm font-semibold text-[#000000]">{value}</p>
+          </div>
+        ))}
       </div>
 
       {/* Co-Instructors */}
       {instructors.length > 1 && (
         <div className="mb-6">
-          <h2 className="text-sm font-semibold text-muted-foreground mb-2 uppercase tracking-wide">Instructors</h2>
+          <h2 className="text-xs font-semibold text-[#999999] mb-2 uppercase tracking-widest">Instructors</h2>
           <div className="space-y-2">
             {instructors.map(inst => (
-              <div key={inst.id} className="flex items-center gap-3 p-2 rounded-lg bg-muted/50">
-                <div className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center text-sm font-medium">
+              <div key={inst.id} className="flex items-center gap-3 p-3 rounded-xl bg-white border border-[#CCCCCC]">
+                <div className="w-8 h-8 rounded-full bg-[#FDBE00] flex items-center justify-center text-sm font-bold text-[#000000]">
                   {inst.user?.name?.charAt(0) || '?'}
                 </div>
                 <div>
-                  <p className="text-sm font-medium">{inst.user?.name}</p>
-                  <p className="text-xs text-muted-foreground capitalize">{inst.assignment.role}</p>
+                  <p className="text-sm font-semibold text-[#000000]">{inst.user?.name}</p>
+                  <p className="text-xs text-[#666666] capitalize">{inst.assignment.role}</p>
                 </div>
               </div>
             ))}
@@ -149,16 +146,16 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
         </div>
       )}
 
-      <Separator className="my-4" />
+      <div className="h-px bg-[#CCCCCC] my-4" />
 
       {/* Guest List */}
       <div className="mb-6">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide">
+          <h2 className="text-xs font-semibold text-[#999999] uppercase tracking-widest">
             Guests ({guests.length})
           </h2>
           {lesson.status === 'scheduled' && guests.length > 1 && (
-            <span className="text-xs text-muted-foreground">Select guests for your group</span>
+            <span className="text-xs text-[#666666]">Select guests for your group</span>
           )}
         </div>
         <div className="space-y-2">
@@ -166,7 +163,7 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
             <Link
               key={guest.id}
               href={`/instructor/guest/${guest.id}`}
-              className="flex items-center gap-3 p-3 rounded-lg bg-muted/30 hover:bg-muted/60 transition-colors"
+              className="flex items-center gap-3 p-3 rounded-xl bg-white border border-[#CCCCCC] hover:border-[#000000] transition-colors"
             >
               {(lesson.status === 'scheduled' || lesson.status === 'in_progress') && instructors.length > 1 && (
                 <Checkbox
@@ -175,12 +172,12 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
                   onClick={(e) => e.stopPropagation()}
                 />
               )}
-              <div className="w-9 h-9 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center text-sm font-medium">
+              <div className="w-9 h-9 rounded-full bg-[#D5CDC2] text-[#000000] flex items-center justify-center text-sm font-bold">
                 {guest.first_name.charAt(0)}{guest.last_name.charAt(0)}
               </div>
               <div className="flex-1">
-                <p className="text-sm font-medium">{guest.first_name} {guest.last_name}</p>
-                <p className="text-xs text-muted-foreground">Room {guest.room_number}</p>
+                <p className="text-sm font-semibold text-[#000000]">{guest.first_name} {guest.last_name}</p>
+                <p className="text-xs text-[#666666]">Room {guest.room_number}</p>
               </div>
             </Link>
           ))}

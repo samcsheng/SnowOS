@@ -1,18 +1,21 @@
 import type { Metadata } from "next"
-import { Geist, Geist_Mono } from "next/font/google"
+import { Newsreader, Inter } from "next/font/google"
 import "./globals.css"
 import { DataProvider } from "@/app/lib/store/data-provider"
 import { RoleSwitcher } from "@/app/components/role-switcher"
 import { Toaster } from "@/components/ui/sonner"
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const newsreader = Newsreader({
+  variable: "--font-newsreader",
   subsets: ["latin"],
+  weight: ["700"],
+  style: ["normal", "italic"],
 })
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
+  weight: ["400", "600"],
 })
 
 export const metadata: Metadata = {
@@ -28,9 +31,9 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${newsreader.variable} ${inter.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
+      <body className="min-h-full flex flex-col bg-[#F8F8F8]">
         <DataProvider>
           <RoleSwitcher />
           <main className="flex-1">{children}</main>

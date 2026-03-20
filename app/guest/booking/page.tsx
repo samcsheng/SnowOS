@@ -2,9 +2,6 @@
 
 import { useState, useMemo } from 'react'
 import { useData } from '@/app/lib/store/use-data'
-import { Card, CardContent } from '@/components/ui/card'
-import { Button } from '@/components/ui/button'
-import { Badge } from '@/components/ui/badge'
 import { DisciplineBadge } from '@/app/components/discipline-badge'
 import { EmptyState } from '@/app/components/empty-state'
 import { getToday, addDays, formatDate, formatTimeRange } from '@/app/lib/utils/date-helpers'
@@ -22,7 +19,6 @@ export default function BookingPage() {
     return state.guests.find(g => g.user_id === user.id)
   }, [state.users, state.guests, state.currentUserId])
 
-  // Already booked lesson IDs for this guest
   const bookedLessonIds = useMemo(() => {
     if (!guest) return new Set<string>()
     return new Set(
@@ -37,7 +33,6 @@ export default function BookingPage() {
       if (lesson.status !== 'scheduled') return false
       const template = getTemplateForLesson(lesson.id)
       if (!template) return false
-      // Check capacity
       if (template.max_capacity) {
         const guests = getGuestsForLesson(lesson.id)
         if (guests.length >= template.max_capacity) return false
@@ -46,7 +41,6 @@ export default function BookingPage() {
     })
   }, [selectedDate, getLessonsForDate, getTemplateForLesson, getGuestsForLesson])
 
-  // Date options: today + next 4 days
   const dateOptions = useMemo(() => {
     const today = getToday()
     return Array.from({ length: 5 }, (_, i) => addDays(today, i))
@@ -60,11 +54,13 @@ export default function BookingPage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold mb-1">Book a Lesson</h1>
-      <p className="text-sm text-muted-foreground mb-6">Browse available lessons and book your spot</p>
+      <h1 className="text-2xl font-bold text-[#000000] mb-1" style={{ fontFamily: 'var(--font-heading)' }}>
+        Book a Lesson
+      </h1>
+      <p className="text-sm text-[#666666] mb-6">Browse available lessons and book your spot</p>
 
-      {/* Date Selection */}
-      <div className="flex gap-2 mb-6 overflow-x-auto pb-2 -mx-4 px-4">
+      {/* CM Tab date picker */}
+      <div className="bg-[#F8F8F8] rounded-xl p-1.5 flex gap-1 mb-6 overflow-x-auto">
         {dateOptions.map(date => {
           const d = new Date(date + 'T00:00:00')
           const isSelected = date === selectedDate
@@ -72,20 +68,21 @@ export default function BookingPage() {
             <button
               key={date}
               onClick={() => setSelectedDate(date)}
-              className={`flex flex-col items-center min-w-[56px] px-3 py-2 rounded-lg text-sm transition-colors ${
-                isSelected ? 'bg-primary text-primary-foreground' : 'bg-muted/50 hover:bg-muted'
+              className={`flex flex-col items-center min-w-[52px] px-3 py-2 rounded-full text-sm transition-colors flex-shrink-0 ${
+                isSelected
+                  ? 'bg-[#000000] text-white'
+                  : 'text-[#333333] hover:bg-[#000000]/10'
               }`}
             >
-              <span className="text-xs font-medium">
+              <span className={`text-xs font-semibold ${isSelected ? 'text-white' : 'text-[#666666]'}`}>
                 {d.toLocaleDateString('en-US', { weekday: 'short' })}
               </span>
-              <span className="text-lg font-bold">{d.getDate()}</span>
+              <span className="text-base font-bold">{d.getDate()}</span>
             </button>
           )
         })}
       </div>
 
-      {/* Available Lessons */}
       {availableLessons.length === 0 ? (
         <EmptyState
           icon={CalendarOff}
@@ -102,43 +99,46 @@ export default function BookingPage() {
             if (!template) return null
 
             return (
-              <Card key={lesson.id} className={isBooked ? 'opacity-60' : ''}>
-                <CardContent className="p-4">
-                  <div className="flex items-start justify-between gap-3">
-                    <div className="flex-1">
-                      <div className="flex items-center gap-2 mb-1">
-                        <span className="font-semibold">{template.name}</span>
-                        <DisciplineBadge discipline={template.discipline_id} />
-                        {template.level_numeric && (
-                          <Badge variant="outline" className="text-xs">
-                            {LEVEL_LABELS[template.level_numeric] || `L${template.level_numeric}`}
-                          </Badge>
-                        )}
-                      </div>
-                      <p className="text-sm text-muted-foreground">
-                        {formatTimeRange(lesson.start_time, lesson.end_time)} &middot; {template.location}
-                      </p>
-                      {instructors.length > 0 && (
-                        <p className="text-xs text-muted-foreground mt-1">
-                          {instructors.map(i => i.user?.name).join(', ')}
-                        </p>
+              <div key={lesson.id} className={`bg-white rounded-xl border border-[#CCCCCC] p-4 ${isBooked ? 'opacity-60' : ''}`}>
+                <div className="flex items-start justify-between gap-3">
+                  <div className="flex-1">
+                    <div className="flex items-center gap-2 mb-1 flex-wrap">
+                      <span className="font-bold text-[#000000]" style={{ fontFamily: 'var(--font-heading)' }}>
+                        {template.name}
+                      </span>
+                      <DisciplineBadge discipline={template.discipline_id} />
+                      {template.level_numeric && (
+                        <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold border border-[#CCCCCC] text-[#333333]">
+                          {LEVEL_LABELS[template.level_numeric] || `L${template.level_numeric}`}
+                        </span>
                       )}
-                      <p className="text-xs text-muted-foreground mt-0.5">
-                        {guests.length}{template.max_capacity ? `/${template.max_capacity}` : ''} booked
-                      </p>
                     </div>
-                    {isBooked ? (
-                      <Badge className="bg-green-100 text-green-700">
-                        <Check className="h-3 w-3 mr-1" /> Booked
-                      </Badge>
-                    ) : (
-                      <Button size="sm" onClick={() => handleBook(lesson.id)}>
-                        Book
-                      </Button>
+                    <p className="text-sm text-[#666666]">
+                      {formatTimeRange(lesson.start_time, lesson.end_time)} &middot; {template.location}
+                    </p>
+                    {instructors.length > 0 && (
+                      <p className="text-xs text-[#999999] mt-1">
+                        {instructors.map(i => i.user?.name).join(', ')}
+                      </p>
                     )}
+                    <p className="text-xs text-[#999999] mt-0.5">
+                      {guests.length}{template.max_capacity ? `/${template.max_capacity}` : ''} booked
+                    </p>
                   </div>
-                </CardContent>
-              </Card>
+                  {isBooked ? (
+                    <span className="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-semibold bg-[#088A20] text-white">
+                      <Check className="h-3 w-3 mr-1" /> Booked
+                    </span>
+                  ) : (
+                    <button
+                      onClick={() => handleBook(lesson.id)}
+                      className="px-4 py-1.5 rounded-full text-sm font-semibold bg-[#FDBE00] text-[#000000] hover:bg-[#f0b400] transition-colors"
+                    >
+                      Book
+                    </button>
+                  )}
+                </div>
+              </div>
             )
           })}
         </div>
