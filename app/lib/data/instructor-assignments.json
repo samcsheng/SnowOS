@@ -1,0 +1,4517 @@
+[
+  {
+    "id": "d8c9f757-6060-46ee-830d-6963dd6c271c",
+    "lesson_id": "b0962dfb-43e2-4b36-b195-ee1801a106e7",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "ee0c7571-c968-4b04-8302-8d0312aab8e0",
+    "lesson_id": "91f9a15d-5670-475d-bcf5-fe8b1a1d254d",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "79f3862a-1479-4422-b17d-33612304a0a5",
+    "lesson_id": "d988a1ea-8b4b-43a4-b91a-bc0257b8a64a",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "955e4542-b8f6-4fbf-8143-51ebf0c4bed1",
+    "lesson_id": "243572c7-ee4f-4d2c-9f64-3c0078ac4931",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "ecb4a895-120a-4aac-b749-a916187861b9",
+    "lesson_id": "243572c7-ee4f-4d2c-9f64-3c0078ac4931",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "0a4cd31b-67d7-40b7-ab96-5b52212a3d3c",
+    "lesson_id": "ebcd8f99-64e5-494a-9137-17fd4eb373b1",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "b62b4592-a814-4535-b13d-adb45a955bfc",
+    "lesson_id": "5c146d01-571e-40df-b30a-f39e22c5a17f",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "09e1b81b-59d4-4d72-bd35-0c93c366fd80",
+    "lesson_id": "54995240-1917-4a72-baaf-2bd2686a466c",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "d6d7788d-ccab-4a48-851e-6d75d475d5ba",
+    "lesson_id": "54995240-1917-4a72-baaf-2bd2686a466c",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "f0ed2a1b-7e09-4f46-bbe6-bc2f2f20895b",
+    "lesson_id": "2e1e2339-d98b-488e-bd77-ab77be4ff85f",
+    "instructor_id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "f712e8f9-dc96-45aa-bbaf-49499bb1d976",
+    "lesson_id": "2e1e2339-d98b-488e-bd77-ab77be4ff85f",
+    "instructor_id": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "654b5197-ecb5-42c4-a30c-882f4fb0885e",
+    "lesson_id": "d8b9909c-b168-47dc-99b4-454b163f9416",
+    "instructor_id": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "f0a4440f-6610-4645-9f07-8d6ff39f6893",
+    "lesson_id": "d8b9909c-b168-47dc-99b4-454b163f9416",
+    "instructor_id": "4825a832-6d52-4287-a811-be9028359c59",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "d97e45cb-2265-4745-a311-09bbdec07212",
+    "lesson_id": "ffd47b5a-432b-4036-8741-38c529bacdac",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "1a43128b-8390-4ad9-9607-081855584b1c",
+    "lesson_id": "4893f481-f08f-4e30-b6a0-0d5c7c47da24",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "ee2e4f94-bba4-44da-9157-63bb5f3125e1",
+    "lesson_id": "8e21dc6f-0f9b-4fff-a8d1-72a4d5cac58d",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "b0fa7576-1a8d-4c36-b2da-3c1dd469d7b4",
+    "lesson_id": "8e21dc6f-0f9b-4fff-a8d1-72a4d5cac58d",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "7a1cb781-1fbe-4be1-bd21-e6f97302beb2",
+    "lesson_id": "e5c0028a-5856-493b-8ce2-fbfdb7f7d036",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "0debd34f-3a93-4d8c-aaa4-b1115440967e",
+    "lesson_id": "8276f6b1-95f8-4c4a-a7ee-ed7d0d4d754b",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "6a6b1efe-8a17-4c3d-be63-cdeeb181afb0",
+    "lesson_id": "3bccc28e-a7a8-4ba8-8d0d-c0aa4826394f",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "8e861079-6f79-4d08-bb86-a7ae71e8d55a",
+    "lesson_id": "3bccc28e-a7a8-4ba8-8d0d-c0aa4826394f",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "3e197f94-2090-4d92-a208-d309d5cf149e",
+    "lesson_id": "64eac501-403d-4c49-9244-c986ff35a430",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "c8a33e3a-9d28-461a-a786-299d2c4549ca",
+    "lesson_id": "64eac501-403d-4c49-9244-c986ff35a430",
+    "instructor_id": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "1220796e-1848-4b30-97fa-c5d9ed0793a4",
+    "lesson_id": "e9b63b02-a5a0-495d-8275-c96428a46185",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "3e7e033c-dd3c-414c-b31f-3be71b53351e",
+    "lesson_id": "f9b4dd7f-a0d2-4d54-a37b-83cab4017dff",
+    "instructor_id": "0e7909a8-2ab6-473b-832d-8ea0f229d493",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "ab87f38a-1406-475c-bb41-2361067bfd50",
+    "lesson_id": "2e902f20-e6ee-4385-b630-94d2950cf090",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "124101c8-3b66-43ff-85bc-b4922872a03b",
+    "lesson_id": "d2719c39-73bc-4467-bb79-b67ba2978cbc",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "661894e5-fd78-4ff2-88e4-a7c6b186488b",
+    "lesson_id": "1250d8a0-8762-4e11-91a0-8903fc7dd067",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "0dec5382-790f-41d0-b6b9-3ee242d70e88",
+    "lesson_id": "1250d8a0-8762-4e11-91a0-8903fc7dd067",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "1f6c7b5d-99c9-4853-b608-0625f0724357",
+    "lesson_id": "ef3d5497-fb66-47f6-b696-981c87709686",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "9143360c-835b-4125-98b8-b03782b19925",
+    "lesson_id": "e942f454-23ce-44b6-8e04-ad3c9c0e6b6b",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "e14a08f2-1909-41b0-88aa-95bfff3e0e53",
+    "lesson_id": "e942f454-23ce-44b6-8e04-ad3c9c0e6b6b",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "ae1b4619-4c24-4f4c-bfb9-109999049430",
+    "lesson_id": "0986552f-855a-4e69-b006-c598bd6179f6",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "9f76470f-6918-4469-aacc-cc7550dcd780",
+    "lesson_id": "0986552f-855a-4e69-b006-c598bd6179f6",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "9cea6912-0450-4522-9b8a-22efe65ffd3e",
+    "lesson_id": "28c041fa-13df-4540-90b3-c91b88fdf3b2",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "f3a183f7-d4f3-4e81-982c-92d6545afd27",
+    "lesson_id": "28c041fa-13df-4540-90b3-c91b88fdf3b2",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "assistant",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "f49bd4f8-b14f-45a8-ab20-be48c52745b9",
+    "lesson_id": "2460b0a2-46a1-4fd4-b939-8ec8b9c6f342",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "fc7f9415-653f-4a75-9045-8579264660cf",
+    "lesson_id": "2460b0a2-46a1-4fd4-b939-8ec8b9c6f342",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "842aa883-6d9d-4552-9eb6-14f6cb295f7f",
+    "lesson_id": "0666bb60-522e-4ba6-b7c4-946be4b9fc28",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "6dd5e24d-b28b-43a2-b4dc-252ae110438c",
+    "lesson_id": "ab76acb5-47e9-46bd-9418-337ecf6e62d7",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "id": "c0e6cff6-965a-4e2d-9d9d-c89a3407125b",
+    "lesson_id": "ab76acb5-47e9-46bd-9418-337ecf6e62d7",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "d381e6f2-ee10-4bc9-9f39-1262a615ee52",
+    "lesson_id": "6c074156-e44b-41cc-9277-6213dc07d5f0",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "a1d4301a-8c5e-4daf-9ae9-5abe7a885c04",
+    "lesson_id": "6c074156-e44b-41cc-9277-6213dc07d5f0",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "2c159e1c-27b4-42f2-97d2-727d542f9285",
+    "lesson_id": "13e9e712-98d7-450f-8e51-9fba55de5e0e",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "244aee25-5592-4c7c-a04b-5864561a3829",
+    "lesson_id": "13e9e712-98d7-450f-8e51-9fba55de5e0e",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "0459f7bf-ee60-4f9f-8caa-fe3d02ac4422",
+    "lesson_id": "6ed8e045-70af-4ef2-a043-01421776ddfd",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "239e5094-bd54-4719-8760-4efc2d3f1d7c",
+    "lesson_id": "7991dfe8-6116-4acf-96e5-b6622dcc9128",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "c3754c7d-4c55-4405-a20e-7f56cee46cca",
+    "lesson_id": "7991dfe8-6116-4acf-96e5-b6622dcc9128",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "0b9e8676-809c-4930-80fd-7b69bc28fe6f",
+    "lesson_id": "b98f1434-f901-4ee8-8427-6f6ef7f0ed74",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "275a6cc9-6b55-4eb3-850a-0c6f24459eb6",
+    "lesson_id": "b98f1434-f901-4ee8-8427-6f6ef7f0ed74",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "de5d02f9-fe91-4d82-ac64-2c10153d4304",
+    "lesson_id": "8fcd9a56-beb9-49ef-871e-83d28020770e",
+    "instructor_id": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "ab044027-4678-4e35-b94b-265502f5786b",
+    "lesson_id": "df0d559a-6cea-4cd0-8cfb-b75592b9e2a2",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "b77685f6-3cbf-44c3-b2c2-11654117e48e",
+    "lesson_id": "3ef97f6a-e683-41dc-a185-a0739a3ba995",
+    "instructor_id": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "44c46b69-ade6-4a4c-b043-c136f4463473",
+    "lesson_id": "58bf076d-991d-447e-8c74-3fba291fb065",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "94272b81-4eac-494f-83e6-782dc8b9bb35",
+    "lesson_id": "a45a44ae-ae8c-4b85-aee1-c95e8dd7a964",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "edcca189-b759-470e-899f-a1c3c1356ee0",
+    "lesson_id": "a45a44ae-ae8c-4b85-aee1-c95e8dd7a964",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "a3eb9638-e336-4671-aa55-d4e3f28961c9",
+    "lesson_id": "ba2e75cb-af03-45b7-91d8-09e36ce7eca0",
+    "instructor_id": "610303c8-3c7e-430f-8089-df13a3e341f7",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "cd3436b5-bf87-4718-a68b-42d5f1d2e7ae",
+    "lesson_id": "ba2e75cb-af03-45b7-91d8-09e36ce7eca0",
+    "instructor_id": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "fea3ec43-9a2f-40d7-908d-ed6bb58c2fe5",
+    "lesson_id": "6d575b95-6c41-4d57-b48e-d1cf255b5b74",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "4a3bf3cb-0b0e-4dd6-98cb-05503a4631b1",
+    "lesson_id": "387a0ae6-c52e-409e-b5a6-a8e89f2ce7f4",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "5d22507b-09b6-4324-9b18-3e625c94ccf3",
+    "lesson_id": "387a0ae6-c52e-409e-b5a6-a8e89f2ce7f4",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "8427c6ed-ecd3-47b1-9311-81ae2c8d302a",
+    "lesson_id": "3cb148d6-07bb-498f-b71d-23ab3162ffed",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "8e692bd3-b901-4e3f-ac21-321d449fd409",
+    "lesson_id": "0205205d-3e22-4adf-9b47-0e39ec4f520e",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "7ee15856-416f-4479-9e03-612015162eb4",
+    "lesson_id": "0205205d-3e22-4adf-9b47-0e39ec4f520e",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "ac3caf4c-8da8-41ce-a927-3cf7c59e4892",
+    "lesson_id": "e8906715-c280-48e1-85a0-818715c18fcf",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "2096b7d7-7f65-466e-99a1-9f12130b757b",
+    "lesson_id": "e8906715-c280-48e1-85a0-818715c18fcf",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "df9d4da6-6944-4abf-9765-4907e35c5d13",
+    "lesson_id": "e50ac88c-6fbc-4feb-a053-508a9a89a9f7",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "ffddae77-1386-48fa-b861-3b6d9ab3565c",
+    "lesson_id": "ce0e3012-1120-45e6-b8dc-929c967620dc",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "54d38e8d-324e-4a70-8272-97f9c5e5e8c4",
+    "lesson_id": "ce0e3012-1120-45e6-b8dc-929c967620dc",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "7cf817b0-1045-4088-9b59-7b584f904a5e",
+    "lesson_id": "845116a8-2ef1-4e63-81a4-620b330dd29c",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "614a0646-da5c-4625-a797-b5e33e8e1b6f",
+    "lesson_id": "788eded3-71d9-411a-8d17-27ac36961c26",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "69d42ce2-a63c-4481-b117-f16f40ba5afd",
+    "lesson_id": "6cb0f822-959d-4f86-91d5-17585a7d1dab",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "52f299af-5d59-4906-b39b-d228e9c57b52",
+    "lesson_id": "05a2248a-77ad-46f9-97ca-201a89b2cb32",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "585ba6b3-8d82-4c77-a617-fb76e7c6e7ef",
+    "lesson_id": "cbf34a0d-4e27-41fa-8939-06ac021d9d02",
+    "instructor_id": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "7c46221a-6147-44c1-8045-3ffa4a32b0a5",
+    "lesson_id": "692c2726-a48c-46bc-8fbd-0676655b38ec",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "a4f6c49a-4d4e-4910-99f4-690f5167bb17",
+    "lesson_id": "79f23674-7ef6-4e4c-bb5e-8db0b0b56ee4",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "03821131-b2ee-48b0-9a13-676bf84262f8",
+    "lesson_id": "79f23674-7ef6-4e4c-bb5e-8db0b0b56ee4",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "8a2a4d92-db41-487c-8df3-4d31336b84c6",
+    "lesson_id": "92a131ac-04b1-40e7-8177-e646db350bb3",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "f790d6d5-7cc1-4d0f-a0e8-1bac6dd79a34",
+    "lesson_id": "78a4c38c-0b18-451b-97fe-a0493dd96fb5",
+    "instructor_id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "2e3bdf53-dee5-4aca-b671-9cac9bf77c84",
+    "lesson_id": "78a4c38c-0b18-451b-97fe-a0493dd96fb5",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "65dbec3b-bd5e-4942-9b66-8afe7e6d3c3c",
+    "lesson_id": "493a92ca-61f4-4936-85e7-50ac9a5f3b68",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "496baf32-fd90-4248-a099-b9a28fc04d43",
+    "lesson_id": "b3259c8c-e3bb-4b69-bdfc-785f6451faad",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "c1cb8f2f-a618-441b-a250-622569f2e514",
+    "lesson_id": "b3259c8c-e3bb-4b69-bdfc-785f6451faad",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "a309594d-1011-44f8-b054-ef3148ff6c00",
+    "lesson_id": "196be867-d325-4dcb-a4cc-8b0a42b25fb7",
+    "instructor_id": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "c9df8b14-6e8c-45e4-94ab-23fe247b83eb",
+    "lesson_id": "e1620b3c-343f-446f-8f49-62c0e7cb91df",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-08T01:00:00.000Z"
+  },
+  {
+    "id": "d012a76e-f38e-4717-bed7-a3c37a24fd8b",
+    "lesson_id": "e1620b3c-343f-446f-8f49-62c0e7cb91df",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "09510d3a-d2ef-4deb-bf4c-4c4a3c1a8ccc",
+    "lesson_id": "269ee434-38af-4f9c-9a85-ff7249ded732",
+    "instructor_id": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "570cb579-651b-4698-8346-e32809cb3669",
+    "lesson_id": "b36a0fed-f9ea-46f5-a3c5-14c2b2292e2b",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "82d6c821-1346-42d2-ade3-8ed6ea68e394",
+    "lesson_id": "4c42588d-31ec-48c8-8c7a-cbe67d80328c",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "ea269f39-9355-422c-afca-d7d23f5d649c",
+    "lesson_id": "4c42588d-31ec-48c8-8c7a-cbe67d80328c",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "ed8def85-0673-4b85-a0b1-1ce42a6def63",
+    "lesson_id": "b781fcbb-2939-4a1c-8b59-a9b81746d024",
+    "instructor_id": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "926fc9b5-45c2-48ff-a665-0864c775cb4c",
+    "lesson_id": "86e6b8a3-4e94-479b-867a-c3108c06caae",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "041a69fb-d2d7-4e0f-9b67-33136633a251",
+    "lesson_id": "86e6b8a3-4e94-479b-867a-c3108c06caae",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "efdb8378-0d37-421d-9e6b-6a64543df138",
+    "lesson_id": "7c8c1b4c-88dc-417c-ae35-49eb86c38e9e",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "4e187955-3342-4149-9d2d-ab27e6f004af",
+    "lesson_id": "7c8c1b4c-88dc-417c-ae35-49eb86c38e9e",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "873d3ca7-6b70-4706-b76a-63c19e095097",
+    "lesson_id": "1980c703-609b-43a6-bfd7-42a517480664",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "a704f853-3ce9-4652-82c3-acc610fbc92e",
+    "lesson_id": "001ea6f8-50c9-4a01-9994-896456cf8aae",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "d1452ab8-ed2a-4df1-a55e-0a885538f708",
+    "lesson_id": "001ea6f8-50c9-4a01-9994-896456cf8aae",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "c17d94f1-d959-4750-bef8-586895e5ab1e",
+    "lesson_id": "99189251-4c66-49e5-ab84-9d224c746490",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "b7e67012-b0d3-44d5-ad96-37894e55584a",
+    "lesson_id": "99189251-4c66-49e5-ab84-9d224c746490",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "9202de4a-345c-4c86-b026-d72c066f054f",
+    "lesson_id": "6ccfbc47-8690-4965-a4c3-16b163d15984",
+    "instructor_id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "c9504d18-342b-4037-b057-959f2a4582f5",
+    "lesson_id": "6ccfbc47-8690-4965-a4c3-16b163d15984",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "6d041c78-b7f3-428f-b09e-bc19371ec17a",
+    "lesson_id": "355ef6a2-a4fa-4ec0-ac07-77b2db590b55",
+    "instructor_id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "e392de8a-c0ec-4352-bf90-466aceed47c5",
+    "lesson_id": "355ef6a2-a4fa-4ec0-ac07-77b2db590b55",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "assistant",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "03fddb42-001f-4c78-9335-29d2953e3f94",
+    "lesson_id": "004caa3a-ff93-49b7-8283-c59c6752ac3f",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "08d30a0e-64b3-422c-b4a6-6b8050d9b3c5",
+    "lesson_id": "428d61af-bac7-4966-9aea-cc5aed289014",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "0148f9e3-6bd0-42ee-be29-c241438714f0",
+    "lesson_id": "428d61af-bac7-4966-9aea-cc5aed289014",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "assistant",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "3fe36535-635c-472b-8329-d288946601c8",
+    "lesson_id": "15d5b215-e458-4148-a3b1-0ad1b541aa27",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "f1943eb7-1dc8-406a-b9ea-72f7fc24318b",
+    "lesson_id": "15d5b215-e458-4148-a3b1-0ad1b541aa27",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "181f47f9-377d-4b98-befc-174da1582470",
+    "lesson_id": "dbdd2c0e-7d15-49e7-ab99-042c6b6b9532",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "216cc252-c763-469e-b328-ed9b51325d92",
+    "lesson_id": "574d87fa-51eb-43f4-8d75-d754fb06f01a",
+    "instructor_id": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "5a28dc49-81da-43ce-bdc2-2bbe22951d68",
+    "lesson_id": "69a4c9dc-a102-4163-be8f-be4cb16422e8",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "4c0b6ecc-14c9-4e29-8214-f04c6f41b7a7",
+    "lesson_id": "4cad839f-6a06-4489-a6ff-e720ddc0564c",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "b84c2b4e-0450-4fbc-a238-e79faf9b0931",
+    "lesson_id": "4cad839f-6a06-4489-a6ff-e720ddc0564c",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "125b7467-6b22-4b58-942f-ac53501fa014",
+    "lesson_id": "48455828-7268-4411-827b-50dc507f0dd5",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "779d8a6d-6b4d-4bfb-9452-18b4097bf9b3",
+    "lesson_id": "48455828-7268-4411-827b-50dc507f0dd5",
+    "instructor_id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "fae1c0fc-fd39-4e72-b1eb-4dea54eafef3",
+    "lesson_id": "b7cb8d32-8cf0-4d6d-a01a-bf5020f7dfa3",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "c74fa184-9314-4d60-918f-d3c3492784e1",
+    "lesson_id": "9d7582c7-9baa-4617-bb64-1b8df2fadb7c",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "6f26f66b-9227-4139-bc5e-0d57fe774613",
+    "lesson_id": "9d7582c7-9baa-4617-bb64-1b8df2fadb7c",
+    "instructor_id": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "249cac25-44f3-477e-acb8-d613bb72ccc7",
+    "lesson_id": "234633d8-17c6-47fa-a783-ac04c4a86452",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "10436ffd-d0e2-46ef-a408-b162bc2534ea",
+    "lesson_id": "a58b8249-93d7-4ce7-a0be-951968d554be",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "d688e001-9c6b-4907-8a7e-11750c48140d",
+    "lesson_id": "b1d7cbfa-4436-42ee-92d7-91943b46f9af",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "6af1817d-cae1-405d-b00d-30e372b96bf9",
+    "lesson_id": "14630f15-ab7d-479a-b507-fbfcc1746a91",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "fbdef624-79ec-4111-b21a-447d2ea08e1f",
+    "lesson_id": "d755258c-9285-4956-b671-38ebd0742030",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "957c0616-5e9b-4247-bfb9-61226def1b1f",
+    "lesson_id": "d755258c-9285-4956-b671-38ebd0742030",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "124ddb29-4f73-42cc-a6c6-5ab8a87fde09",
+    "lesson_id": "a83f0c8b-bf25-4d46-875b-c1b32f33dd9d",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "4702a48e-e22b-43d4-8ab3-34234a2fd319",
+    "lesson_id": "a83f0c8b-bf25-4d46-875b-c1b32f33dd9d",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "f97de77e-1b0f-46c7-8830-738ee40524e8",
+    "lesson_id": "a7f668ad-be1e-42ca-b2b9-765add2aa7b5",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "a93e0ed4-29cb-41c3-b822-48f66f7736ac",
+    "lesson_id": "a7f668ad-be1e-42ca-b2b9-765add2aa7b5",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "4298e6ae-6693-46e5-9910-7ec267c0107b",
+    "lesson_id": "3832f446-0b7c-43d8-98a1-5cf0fd70d476",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "d3fd9bf3-687e-4aaa-bf02-89d6ac238c34",
+    "lesson_id": "3832f446-0b7c-43d8-98a1-5cf0fd70d476",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "assistant",
+    "assigned_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "id": "89b13fe9-e878-431e-ad09-7699d0c93244",
+    "lesson_id": "827bb511-ed4f-40b5-a88b-f00289a2c543",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "12e1917b-666d-4da7-906b-19872de7addf",
+    "lesson_id": "827bb511-ed4f-40b5-a88b-f00289a2c543",
+    "instructor_id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "ca81d177-0a07-437b-8686-823556be4a72",
+    "lesson_id": "a9277a93-fb18-4e97-b4a5-7cdcbd53076a",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "1f43c097-9416-4a76-ad24-5fce0f24c1a9",
+    "lesson_id": "b17db75d-e82a-4f99-8c38-a9c57b7647f9",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "f575357e-1fb7-49a7-80c7-74e8e4d0323f",
+    "lesson_id": "8229928a-9ed9-43f4-93bb-75f7bc87d2e5",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "32c48089-0ae1-4503-afd8-fd685a0d0801",
+    "lesson_id": "3f3d6e96-3110-4be5-b152-a2940c395f49",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "0841e46e-3995-48e5-a0fb-ac73273b0db5",
+    "lesson_id": "f0d0638d-ff25-497e-9d96-358e57afe998",
+    "instructor_id": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "63a460f6-9b5a-41ba-ac96-6c91665b5287",
+    "lesson_id": "f0d0638d-ff25-497e-9d96-358e57afe998",
+    "instructor_id": "4825a832-6d52-4287-a811-be9028359c59",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "14bc47b8-1972-49cc-8f9b-6fc38f0064fd",
+    "lesson_id": "014f397f-98c2-4977-9f7f-9bbbc2be105a",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "69532e02-6a4d-4693-989c-26661460e3bf",
+    "lesson_id": "c5e94970-adf5-4d64-9379-173e0e65059a",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "0a51e17f-9c73-4fac-9528-716a3e29fe24",
+    "lesson_id": "7363d335-f679-4113-86b6-9f675fd7cefe",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "82104afa-072d-415a-83e2-c51f0becd3f8",
+    "lesson_id": "9c0f58c3-11ff-4d5c-a10c-5bdb7a93721b",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "670dd524-0e16-47bd-92f6-34129fbd00d2",
+    "lesson_id": "9c0f58c3-11ff-4d5c-a10c-5bdb7a93721b",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "ebefce08-568c-4ccc-802a-9367f68c8fa0",
+    "lesson_id": "93a679df-6870-4d6f-91aa-f58e2672bc1e",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "06e10c23-1570-455a-90b3-a2fc90171c24",
+    "lesson_id": "b35342d6-3945-4f89-b925-23b4b780c30b",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "5864eb28-7991-4223-9fb2-58ad142916de",
+    "lesson_id": "b35342d6-3945-4f89-b925-23b4b780c30b",
+    "instructor_id": "7cb9bc3a-57ee-4f55-afb2-28450d9b375f",
+    "role": "assistant",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "53f98f08-5ceb-4f55-a6c1-5fc488a9ab95",
+    "lesson_id": "5e96fe8d-0810-43ff-a7f5-3935730ba4e4",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "8e4ba58d-b092-450e-88b9-4b9c3eb22c14",
+    "lesson_id": "e581b0a7-9611-4888-93ac-1c5f2bf10db5",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "fa768371-1a54-4195-a0b7-19aca23b7aa0",
+    "lesson_id": "c37abcc4-fc13-4973-a2f5-b29620f8e337",
+    "instructor_id": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "092ffc6b-2594-4eb0-aa21-d84e5f9a5ef0",
+    "lesson_id": "872c426c-1852-4ab7-a6d4-6a1438d172dd",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "a13751d7-a241-441c-adbf-6e83141d9fef",
+    "lesson_id": "b7d31dee-89b6-482b-a51d-e928393ca5ea",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "c944209a-adb0-407c-855f-ad56d13ec0c2",
+    "lesson_id": "5d7fb825-1d58-487c-acb7-44cd8bc27ff0",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "ab723214-6e27-44a7-86d8-2c71fcc2e857",
+    "lesson_id": "cac64c5d-1eee-4a82-8da6-45ff39eb1be0",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "c2fc4514-e2e0-44c2-9f61-8bd64cdedeae",
+    "lesson_id": "f31a2d6c-aaca-4d6e-a6c2-1fed3e676d91",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "c9828146-f077-4f6e-ad91-f5c6485cf721",
+    "lesson_id": "5be88790-e33e-4ab4-95aa-398aa4302464",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "04b52a12-5f81-4a76-923c-e0d88db88e5f",
+    "lesson_id": "5be88790-e33e-4ab4-95aa-398aa4302464",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "assistant",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "b2189ddb-9023-45a3-ac71-75422f2bb8f9",
+    "lesson_id": "b541f167-ea27-4b52-8e06-652804f0fd2e",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "f12fddd6-fe33-4356-9904-43d5e96a44be",
+    "lesson_id": "5136ac9f-4952-4e43-82fc-2adc993a7866",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "b2fbc006-0b9d-4f09-bd4f-0e24d4c34ea8",
+    "lesson_id": "a27d2ac7-3c6b-4c1a-a19f-1510a306908e",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "52d205f1-a823-432e-afb7-1fe3377b18f3",
+    "lesson_id": "011ae416-9cd6-4e5e-ba06-7fee816b7560",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "260f79ae-e504-4402-8f33-d5b6d2b4475c",
+    "lesson_id": "011ae416-9cd6-4e5e-ba06-7fee816b7560",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "4be262cf-113d-4ea8-9790-16d5530b60db",
+    "lesson_id": "09f30972-8eff-42e4-8ec0-b68250bb1936",
+    "instructor_id": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "f26657ce-aa61-4a63-95f1-f626db8ef5c7",
+    "lesson_id": "a309bc0e-5701-4944-ada9-19b28543be4b",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "860d88f2-cbe8-45b5-b3c7-73fbe630cc68",
+    "lesson_id": "a309bc0e-5701-4944-ada9-19b28543be4b",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "05e110e9-a5da-49bf-a284-ab83c95b8001",
+    "lesson_id": "792770d3-8954-4628-8331-a8319cee68c6",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "8fc4f9c2-b4fc-4c7d-85f9-c9522028eadd",
+    "lesson_id": "792770d3-8954-4628-8331-a8319cee68c6",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "assistant",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "84e89173-06a5-4e34-a4f5-6d6799e6e246",
+    "lesson_id": "5db8f720-6e41-40f3-b68e-a1010706d281",
+    "instructor_id": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "ec816ebe-0e8b-430a-92c4-43cbeed39f2e",
+    "lesson_id": "b8904e36-f953-47bd-a10d-e633eb8f82c3",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "f3e5187a-3a6c-429c-8a0a-4684e931fed0",
+    "lesson_id": "86b890b4-6448-4980-b2ac-8ff746df874a",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "68de69b1-0c13-40b7-b06d-3509b1186f0b",
+    "lesson_id": "465763f6-e858-490d-a834-306dcf16a7a6",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "d1dafa43-3676-4a17-b8a9-10e8bcf88814",
+    "lesson_id": "57b0f9db-3d86-42ef-9cb1-35cb311fbf30",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "22bdff0b-8d3b-4776-aa13-d8edc63e4a69",
+    "lesson_id": "57b0f9db-3d86-42ef-9cb1-35cb311fbf30",
+    "instructor_id": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "b852326d-a58c-48b7-8e09-e4ce5c230832",
+    "lesson_id": "768d7b67-28fd-4e82-8a77-464754c6de67",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "839c3060-3f40-4172-bedd-b7be04078d76",
+    "lesson_id": "c774619f-1b55-4ef9-8869-7fb3e8c46e1a",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "5fb3468f-1cbe-4a5a-ac28-0195eb66565b",
+    "lesson_id": "b39dffd0-af3b-4af8-a296-351575040124",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "daf5d626-3b27-43ca-84b0-bf79b96724d8",
+    "lesson_id": "11b2df86-658f-44fc-8732-795ccfca49bb",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "ea090919-6c6b-4995-ba92-7ce40f8c9425",
+    "lesson_id": "3056244e-6a56-4a8c-b0d7-879d9b931448",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "79182789-9998-4810-a781-48982b25f3d0",
+    "lesson_id": "3056244e-6a56-4a8c-b0d7-879d9b931448",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "1cd97e1a-c931-4031-88f0-12d52da7bafa",
+    "lesson_id": "4a71b579-aad7-461b-8569-d9eece7a9e51",
+    "instructor_id": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "293d6441-034a-4348-807a-bafdc9594d97",
+    "lesson_id": "59269944-8644-484c-88af-00b231d932ff",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "821e3eea-db97-4e09-9907-597e28e37512",
+    "lesson_id": "6d6df540-4fd3-4547-a84f-98aa4c9cbd9c",
+    "instructor_id": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "aa47a951-883e-41fc-a27f-1dabc42c4e16",
+    "lesson_id": "6d6df540-4fd3-4547-a84f-98aa4c9cbd9c",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "d098a35e-b052-4b14-ae57-f0bc45ca3868",
+    "lesson_id": "a1c29972-4776-4190-9983-f4ba85d1e7e4",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "3e705ffd-67c5-4cec-987e-9190caca7dfe",
+    "lesson_id": "2ab9ac68-268b-4cf3-9b9f-31f72b6d449c",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "236d4c82-03e9-481a-aca8-0ebb96062d42",
+    "lesson_id": "603eee0d-a920-45cb-8267-9aa183628fdb",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "fa862a71-0da1-4d70-960b-c89e562cdfb6",
+    "lesson_id": "8745d627-dfab-43c4-b03d-7741e3dff86b",
+    "instructor_id": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "60d3d1dd-42b8-41e3-bbad-c85b156e8809",
+    "lesson_id": "1a294568-f14e-421d-9dea-a41352912512",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "d75e9a14-8412-44a2-848a-41b9df7c0d06",
+    "lesson_id": "ac025567-0284-4c6a-b427-b003ac8a2501",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "c4b84317-ba54-44a2-b1ed-38f6a44c9784",
+    "lesson_id": "ed30385b-c4e1-4428-895e-0d024075dfe3",
+    "instructor_id": "af91b692-af07-4e51-9a7e-7aee5c18bcd1",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "5932c6d2-8a09-40e1-98ec-146f17f19eb8",
+    "lesson_id": "ed30385b-c4e1-4428-895e-0d024075dfe3",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "5c7220c0-9aa9-4811-87a5-e19ba08f592f",
+    "lesson_id": "c5c72cf0-e4db-4242-9e55-95ed8fe03785",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "6da9e9b6-b7c8-4e38-94a5-ef390c9ce1b8",
+    "lesson_id": "c5c72cf0-e4db-4242-9e55-95ed8fe03785",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "61127c2d-9073-42fc-a825-5ca0abdefdb7",
+    "lesson_id": "a2bfe3f4-9446-4a21-bab7-3064141f898f",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "0ce619bf-ba5c-4485-9d19-97124c80abcd",
+    "lesson_id": "a2bfe3f4-9446-4a21-bab7-3064141f898f",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "8863a160-24f5-4ea6-8853-7986268966d1",
+    "lesson_id": "081faca2-ec6a-4ccb-831e-7582265c6bdb",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "40deba0b-de79-44dc-878d-56f835bbd013",
+    "lesson_id": "081faca2-ec6a-4ccb-831e-7582265c6bdb",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "ad410f6c-065c-45c3-a08f-70dc2daa7d21",
+    "lesson_id": "e005e848-8ccc-408c-a0c9-efcd05ffb250",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "87e354ca-2541-45d4-a2c6-e827878c430f",
+    "lesson_id": "e005e848-8ccc-408c-a0c9-efcd05ffb250",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "assistant",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "d21e9e42-ec96-4ff5-9764-b1ae6f42e4c3",
+    "lesson_id": "9462e153-0856-4173-b883-7feafc4a0464",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "05ddf99a-9a17-436f-8592-f23c769aa64c",
+    "lesson_id": "9462e153-0856-4173-b883-7feafc4a0464",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "eb525075-a9bb-4af9-b522-644b963714e1",
+    "lesson_id": "84f35118-a206-4cb7-96d3-2730dd51a294",
+    "instructor_id": "7cb9bc3a-57ee-4f55-afb2-28450d9b375f",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "8b163c1e-1387-4c8c-9247-7e5a2c0c97d7",
+    "lesson_id": "84f35118-a206-4cb7-96d3-2730dd51a294",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "da63cc59-3181-4e06-b769-0e5b72e398a7",
+    "lesson_id": "77f24118-657c-4bb8-b726-6db32dc6772c",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "c8d2a22d-8bd0-4832-ab5a-b2270de1dd58",
+    "lesson_id": "234d72a1-593d-430b-b2bf-5baff9ba7907",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "cb046144-7813-4a21-9d3a-2e2f1b688afe",
+    "lesson_id": "3dd8c0ed-0309-4773-b6aa-6af1cbfcade4",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "5589f525-f462-4437-87c5-dec05cc4577a",
+    "lesson_id": "a2fa344f-0e50-4a47-999c-917e88b83da6",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "84e61b9d-ac36-4ceb-a2ce-786231c914ec",
+    "lesson_id": "a2fa344f-0e50-4a47-999c-917e88b83da6",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "4ba0e66f-bce2-4c81-8e86-9e23fa09109c",
+    "lesson_id": "d7e5030a-e296-45ce-b8e4-bbaf99f2fbed",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "d2add834-0e23-4b7a-80fc-7aaf33771def",
+    "lesson_id": "d7e5030a-e296-45ce-b8e4-bbaf99f2fbed",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "0fa0d464-5dc0-4248-8b44-ad3cc70d2943",
+    "lesson_id": "9aab9fe0-cf0b-40fd-8f7b-03893f114271",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "fa0db8a7-8b80-4f7d-8390-cb69eb046a95",
+    "lesson_id": "b4b1b9fc-87dc-4461-a776-bfd822af8769",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "5317111d-6086-4ffe-8a0a-4206a16a4693",
+    "lesson_id": "ff9aa7b9-f0ef-48cd-96c8-3ec78e8f270c",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "390db937-514b-4eab-aedb-c367cb1ea801",
+    "lesson_id": "267e9ca9-e343-40bd-a8e1-f0f42b6eacef",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "09368068-a347-4783-8848-c66e2abc88ff",
+    "lesson_id": "2efdf572-0b4b-4bb0-b173-50754d0c6060",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "id": "ce75dbbe-3b1e-4f7e-aa4d-e4ed571aba09",
+    "lesson_id": "1f112812-78af-4718-88da-1e85d969445d",
+    "instructor_id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "66f2e7ae-853b-49cf-bc68-18f457dbd556",
+    "lesson_id": "7fb7421d-9a89-4415-8e90-dc51862c3f6a",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "6c8e2d74-d865-4cfc-b6e7-49c229a91f71",
+    "lesson_id": "a4b8854d-c8c9-439f-945e-2f2dc3e14fe0",
+    "instructor_id": "610303c8-3c7e-430f-8089-df13a3e341f7",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "28a87139-09eb-4af0-a7f0-dd520bbdb616",
+    "lesson_id": "c2ff4ee0-67d2-422c-95c0-6d3c501538f4",
+    "instructor_id": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "6b765648-c693-4001-9954-d0ef4e03c9d2",
+    "lesson_id": "fd5dcc56-72c0-465b-88c3-307d7d6548c9",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "5ef08971-cc60-460c-86f4-be826a54006d",
+    "lesson_id": "c4dd134c-c934-4cbc-b80b-6cc1c51065e8",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "78dc4d35-01b5-4617-950d-8ad4c509dc7d",
+    "lesson_id": "c4dd134c-c934-4cbc-b80b-6cc1c51065e8",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "cf8addc5-89f6-4cbf-9cbd-0657ae5f7f0f",
+    "lesson_id": "7a4a9a0f-b77d-4406-bf8a-3cb19020aee9",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "c9a99634-d98e-47c6-8c59-5ae449ed73d2",
+    "lesson_id": "d9c0a6ba-76c6-461b-aefc-4e4169f04849",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "395b7f44-74e5-419b-b75f-37fc79cbfa4f",
+    "lesson_id": "2dd846e2-653e-49e6-b97a-aa481fa82d76",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "6a77f25b-1187-467e-ba1d-c26b82f40e15",
+    "lesson_id": "d7e36565-a2e8-4815-a5cf-2b9576301985",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "6ff23824-fb5a-43a6-abfa-9012f977d280",
+    "lesson_id": "d7e36565-a2e8-4815-a5cf-2b9576301985",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "c8bc4c86-c377-4cbb-92e6-1e9543d8ccc2",
+    "lesson_id": "3c280da6-453d-4c2f-b498-e2d645708bb8",
+    "instructor_id": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "161f70cb-0057-4186-acc5-0d63f2f75d6d",
+    "lesson_id": "e7223899-4d52-427b-b1a3-d2bc90333908",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "800769ab-dcf7-45d5-a84b-962b95e77561",
+    "lesson_id": "e7223899-4d52-427b-b1a3-d2bc90333908",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "9d30bda9-e776-4c06-9092-bd8b741a6e06",
+    "lesson_id": "8f484e83-2e35-412f-a67b-c51194561718",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "e9f3bd64-70f3-42d3-a033-c52dffa23989",
+    "lesson_id": "19d0846e-6921-4876-bbde-d7279bfde81d",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "2f45d1c3-f81e-4611-909c-8ce8f5989fc9",
+    "lesson_id": "3ce7faca-31a2-4260-a378-ba989b4a9423",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "4b5da29a-bb2c-429d-a03e-f228788994cf",
+    "lesson_id": "ad106002-b545-4aa5-8262-81a71ba17360",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "385e8673-e520-4ca6-ba4e-2471642e81f4",
+    "lesson_id": "6247516e-aa3b-4b41-a66f-ced3678dc70e",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "4da15a7b-8340-4a3b-9c75-04c5a5990fe4",
+    "lesson_id": "40ceaf6e-e103-4ff1-b24f-e3a804e71c5e",
+    "instructor_id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "56f92671-c061-4557-bcf5-64efce502dcd",
+    "lesson_id": "40ceaf6e-e103-4ff1-b24f-e3a804e71c5e",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "cd244597-e8d5-46ba-9642-f4fd778d592c",
+    "lesson_id": "67830481-24b9-402f-bf5e-d485091514b4",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "572f20a7-998e-407b-bf57-64bae688018d",
+    "lesson_id": "67830481-24b9-402f-bf5e-d485091514b4",
+    "instructor_id": "7cb9bc3a-57ee-4f55-afb2-28450d9b375f",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "72b8f71d-2b1d-4323-8470-a1731c43a232",
+    "lesson_id": "61201ac0-6409-407f-9a56-e1d8256dcff3",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "7ab268d0-1eae-4b65-9602-edf3eac67568",
+    "lesson_id": "0986354f-bd97-4a81-af84-8dd42054be00",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "f718bbd5-aa9a-464d-8661-3e35822f929f",
+    "lesson_id": "30e4646b-cf67-4a16-9ca3-a2e8ef09a906",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "18b56ab3-2ac7-4e4f-b33c-d735dd3d2bab",
+    "lesson_id": "f4d858f0-30c3-42ba-a21a-7dc6bc42f8ab",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "f2071032-dfcd-4d7a-bee1-b3b4d3e86f55",
+    "lesson_id": "f4d858f0-30c3-42ba-a21a-7dc6bc42f8ab",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "a75739a6-1b01-462f-aa81-a4e5afcdb8c5",
+    "lesson_id": "f8ab045c-c5c6-4764-97a3-69fb11e3e08e",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "2296d0e8-1e78-404f-b79e-b0f02d89c6fc",
+    "lesson_id": "f8ab045c-c5c6-4764-97a3-69fb11e3e08e",
+    "instructor_id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "022c3b90-e3f2-4598-9eb2-02bcb48fcef9",
+    "lesson_id": "6cbf9748-9f80-467a-bb9c-9f538f57e132",
+    "instructor_id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "b6995fb5-4b7e-4cf4-a5c0-e9cab1761a9f",
+    "lesson_id": "9dce23ae-a51d-41d0-b3ea-ffcc3624f0ba",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "383505ae-4335-4a49-ac19-42b0b2c587ea",
+    "lesson_id": "9dce23ae-a51d-41d0-b3ea-ffcc3624f0ba",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "assistant",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "6f113a14-aaec-4611-89ef-833e5429ffd7",
+    "lesson_id": "8c3c7dcb-fc22-4667-b842-90f1c88c76df",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "ecf709f0-f30f-412c-ac24-e1837bffa58b",
+    "lesson_id": "7e268ff3-6ae8-44a8-8a5c-5ed42c59b614",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "f4d43866-584f-4d25-91ce-a0b52ead1287",
+    "lesson_id": "7e268ff3-6ae8-44a8-8a5c-5ed42c59b614",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "f3b70a0e-22f9-4d2b-9e6c-d14a48159d75",
+    "lesson_id": "048d4240-1d29-4dd1-9965-d9718a6931ce",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "97c969e1-c4c3-4b67-9354-9153cc79b283",
+    "lesson_id": "bec66b58-b832-4466-b031-8c99ab91d72b",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "9be1c711-e4fc-405f-bf6d-3618625ca572",
+    "lesson_id": "af2d249c-702d-44c3-9deb-5993b4cea2dc",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "38786a81-4ec1-4191-882e-9743a2a954f4",
+    "lesson_id": "60bf95f7-5f73-49e4-8520-ed22d2f1d913",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "14b9ee84-4e84-40d5-8311-bbf56a8ed14f",
+    "lesson_id": "8779b5de-7526-4c11-a18b-c9a02d30d8a7",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "55e192bd-f7dd-464a-b561-51a16e9b5537",
+    "lesson_id": "f1cecb38-78c5-4646-ba70-83d8b32d1529",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "lead",
+    "assigned_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "4997927a-95fe-4e7a-a89e-c57a1b82f2e4",
+    "lesson_id": "c3e71e02-0f92-4c5b-8e96-08e74d35e164",
+    "instructor_id": "fd79770c-2cc4-4127-8a64-ecb8dcd8c8a3",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "d8c32217-19e5-4341-9934-23887b758bed",
+    "lesson_id": "e97e3648-674e-4dc5-9778-b5804e994efd",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "edca23c4-3ccd-42ad-bc02-5e95f8793c33",
+    "lesson_id": "4f247cdf-b993-46e4-b189-ee07ddf319a6",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "cef5316a-e711-4bcb-837f-1c9008785b07",
+    "lesson_id": "d2c85ef6-314d-4874-9180-747f3aab183c",
+    "instructor_id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "1e7c4747-472b-4776-b650-915dfdd86c1f",
+    "lesson_id": "6097de59-c6cc-4d70-9e7d-1114d41c5d16",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "2eec593a-c84a-4c0d-b848-6ba8f001824b",
+    "lesson_id": "80d75809-c82e-4b75-861c-2edfbb38e836",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "8d8789c1-cbf1-4bcf-9b67-e371819ecbc3",
+    "lesson_id": "c183638b-e7bd-46ad-8d8a-3467497287c1",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "07cde76d-1431-4e92-b75a-443631dcdf92",
+    "lesson_id": "3693472c-205b-4f08-9317-7460ed4547a9",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "340159c4-70dc-4479-b83d-135a99fb07d8",
+    "lesson_id": "c2653f7a-eaf7-4880-a859-b1e464ff60ae",
+    "instructor_id": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "5fc7861f-3766-4eb1-bcee-e5f5f6a7180c",
+    "lesson_id": "ba9aee84-b964-4bfc-bdb1-bd0ae36bb0b6",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "4cae2154-0fa0-471a-99f7-00a6df6f0148",
+    "lesson_id": "ae51ccd2-23e1-4807-8bd2-442c9cba8f35",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "2fa31649-f364-4fd2-853e-2dea52264876",
+    "lesson_id": "a7e5b315-7349-417e-9eef-28bfdedb3b60",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "e384faec-e812-4c59-a025-a4456ada1e62",
+    "lesson_id": "4b6b7b25-a876-4a5b-8617-eaeda25cff0b",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "cca8f8cf-5e55-4e7e-af19-b91477402ad7",
+    "lesson_id": "b4dcdb7a-e735-4273-ba97-4a8ebaeb3f97",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "fbfbcd82-65c1-4162-b590-f9b14a2599ea",
+    "lesson_id": "47e418e3-6e29-4a80-a704-264742b31f78",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "11a714a8-14e1-44e0-be39-4c6d26883007",
+    "lesson_id": "c4235173-3339-431a-bdc3-102e6c777cec",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "1ad3a528-fb0c-4172-a12a-d648f7fa1f4f",
+    "lesson_id": "62d73952-da81-48fc-9b9b-70bc94a49d2b",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "3be9818a-b319-45e8-8e05-4832ee38d871",
+    "lesson_id": "6a3a45b8-00c4-47eb-86e9-5589f336861a",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "269de478-164c-43a2-9b8d-3b514ce0a3a0",
+    "lesson_id": "d759bfe7-501e-4a19-9022-1f9d5f7131ea",
+    "instructor_id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "8445a915-f621-4ff3-82d0-a17199cd4292",
+    "lesson_id": "d759bfe7-501e-4a19-9022-1f9d5f7131ea",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "311bb647-9a67-42fa-85c2-063a7a16c6b2",
+    "lesson_id": "4e9e39af-e12c-43b2-9472-fc97b5ba3e19",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "adb20867-e14a-47fa-b632-64b1fd6c83a7",
+    "lesson_id": "4e9e39af-e12c-43b2-9472-fc97b5ba3e19",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "c4966653-9bcb-4f94-96a8-a3ab9ae5f7f7",
+    "lesson_id": "bd8965d7-4d9f-4e9f-a41c-41274f336c83",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "1e921373-3c2c-47db-bc9c-fcb9bd0e83a0",
+    "lesson_id": "2d35d67e-6971-4250-b9e5-34da5f380b69",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "76f23cd6-ff94-48a6-9502-63c28c15899d",
+    "lesson_id": "2d35d67e-6971-4250-b9e5-34da5f380b69",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "68e65d04-86d2-4f19-84bb-2e2aaaf8accc",
+    "lesson_id": "507754a2-c6ac-4667-9ea6-db21b55f47d2",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "9a879df7-32f3-4e05-b178-b36096153684",
+    "lesson_id": "31f68f5e-c576-4d1a-a5db-a2a3b686875f",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "188de20d-dbc8-4dac-b78e-033c33d08061",
+    "lesson_id": "31f68f5e-c576-4d1a-a5db-a2a3b686875f",
+    "instructor_id": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "role": "assistant",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "a647d2b2-605d-426a-a2df-baca640e283f",
+    "lesson_id": "d2522a4d-f455-4805-98fe-d7442c01e806",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "2bd3b5aa-56f0-4d00-9a8a-65dfd7c4e9a1",
+    "lesson_id": "68295221-3d36-4691-9de0-d5cfbfa01e00",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "a7be5bf3-405e-460e-98e7-228846523741",
+    "lesson_id": "d8dc92e4-7033-47ad-b62a-1b665a80fd8c",
+    "instructor_id": "4825a832-6d52-4287-a811-be9028359c59",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "b5131820-dc98-422a-af5f-ca373ed40fce",
+    "lesson_id": "1d6dab17-9af8-4653-8866-99d49ac01b04",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "4e321d47-9a82-487a-a38a-2c783d09a02e",
+    "lesson_id": "3672b4c1-6da4-45bb-88d2-3b9c254e7a1d",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "160fd17f-7983-4839-99d8-34c2fe6be5ae",
+    "lesson_id": "3672b4c1-6da4-45bb-88d2-3b9c254e7a1d",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "554f2a88-3df0-4297-a45d-2b17a5478aae",
+    "lesson_id": "76b107a0-e044-4657-be95-6b4ac5ab440f",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "0fc86f20-c971-4fa4-8451-031ee8f61f7d",
+    "lesson_id": "55ac24fb-781d-4eb5-8f58-b1f378ecb3ae",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "bf2ca821-0bd8-4338-b1ce-ebdbc402fb7d",
+    "lesson_id": "55ac24fb-781d-4eb5-8f58-b1f378ecb3ae",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "358a2198-c9c5-427b-bd89-9d04a6dd3edf",
+    "lesson_id": "c02c3f7d-512b-4405-b896-ea8eb37030b8",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-13T00:00:00.000Z"
+  },
+  {
+    "id": "558b783b-64a0-442e-ac35-b990c9509015",
+    "lesson_id": "c02c3f7d-512b-4405-b896-ea8eb37030b8",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "d673d90c-8877-4486-a78d-516dbb01e564",
+    "lesson_id": "5958e164-3d24-469e-92c3-8d31cbf42bdb",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "ff240aeb-b0d9-4d26-bdcd-4551989f19a3",
+    "lesson_id": "c515d50d-a39f-41fd-92ee-d9fa5f01b4d2",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "214e3241-e3dd-4bb0-a543-a829655dd48c",
+    "lesson_id": "892469e6-c391-44af-8231-0d9103c5ac1e",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "7cd866b9-0458-40bd-9e82-eda09247d498",
+    "lesson_id": "892469e6-c391-44af-8231-0d9103c5ac1e",
+    "instructor_id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "1e909ef7-b174-454f-a865-aa380e4e6aa6",
+    "lesson_id": "c5a9cd0a-a8f1-4b28-8bc1-f8431f723ac6",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "26c00bb7-0ee1-47f3-b7f6-3f8a7a889151",
+    "lesson_id": "c5a9cd0a-a8f1-4b28-8bc1-f8431f723ac6",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "4acc74e1-1d58-49a0-9cf2-b4c25112c0c1",
+    "lesson_id": "54777bde-140c-44bd-89d8-ee17bfdf2423",
+    "instructor_id": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "223758f4-654c-476b-b141-340341ef0541",
+    "lesson_id": "54777bde-140c-44bd-89d8-ee17bfdf2423",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "27f09aa7-a5c4-4a79-a905-5d93f48b270f",
+    "lesson_id": "0c6112bc-a425-479e-9c64-6f889e5d6487",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "b3867dbe-7ea4-4dfe-8025-5e6614e6e284",
+    "lesson_id": "d512db85-fcd3-4c46-b2e4-bda70d2d35d0",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "b23c39ff-658b-4ba8-b418-ae7bfdbbb443",
+    "lesson_id": "0d465d22-a033-4457-8286-15613d8ac35e",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "5a038cb9-e93a-4aee-a6b3-76abe7956a00",
+    "lesson_id": "0d465d22-a033-4457-8286-15613d8ac35e",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "d4c4b97b-3239-418a-9c54-2afe0b528ad3",
+    "lesson_id": "6d3d6d4f-f041-495a-9bda-a9f523cf0c3e",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "3e99759d-07cc-4c3e-af27-04681966c1b5",
+    "lesson_id": "de8f096a-0bef-4590-b4dd-60942b0e812b",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "25a85c6b-d5e6-4f60-9865-9c3d614ff9b3",
+    "lesson_id": "65893cc2-0c58-4a30-b230-2fd6b2432225",
+    "instructor_id": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "42290757-5485-420c-a051-f0261db08dfe",
+    "lesson_id": "65893cc2-0c58-4a30-b230-2fd6b2432225",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "9c5fb0a9-96cf-4f26-90df-40fefc3a820f",
+    "lesson_id": "0e67e65c-f95f-42e7-8074-8ceede0294a0",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "350657b7-adcf-4f9f-b0d4-23f2206a7e33",
+    "lesson_id": "22f52f8c-2850-42ce-95c3-1d546c920806",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "3e177ceb-3ea1-48c6-ad93-ffaa3c8498b0",
+    "lesson_id": "22f52f8c-2850-42ce-95c3-1d546c920806",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "73145ef1-fb1a-4775-a762-33b0f187e103",
+    "lesson_id": "6e293471-9570-4e57-9902-e8088290a38e",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "f7650c6a-797f-4d38-81b9-cfa715adbd4f",
+    "lesson_id": "479ca00c-aa13-41a0-8737-834538121e3f",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "b619af8a-ed96-42e2-8b45-0824e679177f",
+    "lesson_id": "479ca00c-aa13-41a0-8737-834538121e3f",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "910ccd4d-ddfb-4579-8af8-3053fa616f71",
+    "lesson_id": "4ce87b6a-aedb-46ed-b589-dbd26b0b0517",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "b0b4193e-3833-4b98-842a-cdc24cac4b58",
+    "lesson_id": "4ce87b6a-aedb-46ed-b589-dbd26b0b0517",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "02b044e1-4239-45ff-9296-397be6037195",
+    "lesson_id": "f20c9740-5a6f-433a-892f-b672d0f55d11",
+    "instructor_id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "a14b65f5-f49e-4b2f-af68-8f562d977fac",
+    "lesson_id": "c3fcdef9-e91f-4bd8-a0d2-a16e5c52d527",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "d5d81373-7c29-4b7b-8101-ebd89c67fbd9",
+    "lesson_id": "970ff129-1cfe-4d42-9128-27cb492bc6fc",
+    "instructor_id": "af91b692-af07-4e51-9a7e-7aee5c18bcd1",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "fd79ee27-1aaa-4a54-a2c0-8da29834ba1d",
+    "lesson_id": "970ff129-1cfe-4d42-9128-27cb492bc6fc",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "37b3ba6c-1c8e-4cd1-a58b-372a422275ec",
+    "lesson_id": "c2645de4-7f0f-43e0-8273-d2320850fd6a",
+    "instructor_id": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "e11263cb-fda4-4e30-9fbe-05e9101f0140",
+    "lesson_id": "62defa7b-70a4-47d4-b2a1-181bd6b8abde",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "585839de-410c-4716-8bd5-6472f063f458",
+    "lesson_id": "2f5782b0-2c67-40eb-b3a0-ed061af2c4c6",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "583fcf1e-a8b4-4f0b-a360-014b6fbb35d2",
+    "lesson_id": "27256362-0d9f-4cb9-be27-b2924421f6e9",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "0a10d381-e77c-4dbe-856c-1cfa409f484b",
+    "lesson_id": "27256362-0d9f-4cb9-be27-b2924421f6e9",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "33296c12-5ce3-4679-87f0-01895097a285",
+    "lesson_id": "9ad23ebc-9f63-47a0-ae57-7810714ef6bf",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "2a668e20-63bb-4113-9bf2-17ffc700f3e7",
+    "lesson_id": "7f6fca3e-232c-4afe-b4de-5e66117afb09",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "dadf4195-966f-4785-954e-b80f603e2548",
+    "lesson_id": "ca6a5827-7dea-4469-b106-721c27539267",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "96645817-9d6d-4cab-9be5-80903a45cba5",
+    "lesson_id": "ca6a5827-7dea-4469-b106-721c27539267",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "d87fee5d-900e-4ec7-89b6-b6eb764461d3",
+    "lesson_id": "fef441c5-9e99-4c66-a0b2-6d0201a6213d",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "0e7ac476-d53b-4236-8380-06c71d81a08d",
+    "lesson_id": "fef441c5-9e99-4c66-a0b2-6d0201a6213d",
+    "instructor_id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "59f30abf-e4e9-4d43-ac23-f6e8e31cc39e",
+    "lesson_id": "c0c249a0-bbb4-43aa-b3e8-bd0bcc939381",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "ffb3ba59-504f-453d-bc4c-3adfab740edb",
+    "lesson_id": "c0c249a0-bbb4-43aa-b3e8-bd0bcc939381",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "e9c2154a-454b-488a-ad01-4da88bea5205",
+    "lesson_id": "45bb1145-bfee-49f3-9398-c161c3e28ddf",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "1bff01ec-cf22-439b-90e0-d8497bd4c237",
+    "lesson_id": "45bb1145-bfee-49f3-9398-c161c3e28ddf",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "80ce80fc-69ed-4e81-b892-e2b5e48ba783",
+    "lesson_id": "7386c5cb-1055-48bb-832a-493b521cfa30",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "b806e1fe-48a3-4c20-bbdb-9fbbdd90f113",
+    "lesson_id": "7386c5cb-1055-48bb-832a-493b521cfa30",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "assistant",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "c43a80d5-3cf1-484e-96fe-8b28bc2cfdfd",
+    "lesson_id": "35edd1b3-f433-47f3-9847-adc46ce3cf0d",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "0bbcc863-8f1f-4188-9fbf-5cc73c2919c2",
+    "lesson_id": "020b63ea-fd9d-4247-bdfc-6a4a7de6b57e",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "29506acf-fff7-4166-8279-1e6f49056a3c",
+    "lesson_id": "020b63ea-fd9d-4247-bdfc-6a4a7de6b57e",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "assistant",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "c8792d64-9df9-49c5-8f07-1caa7c812f0a",
+    "lesson_id": "9dca6856-395b-47d0-a268-845d6f3b5b6e",
+    "instructor_id": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "role": "lead",
+    "assigned_at": "2026-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "aa7dbb5c-d0ab-4997-a20c-10dec811f437",
+    "lesson_id": "c8e14c0d-1846-4b3d-910c-f07b2bccb48a",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "9946ef18-8530-459a-ae0b-9a72e1d31198",
+    "lesson_id": "3c06e2be-b1ae-4beb-858e-74094a461a4b",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "ce6c88dd-50d4-4728-9bd6-0c127141cacd",
+    "lesson_id": "3c06e2be-b1ae-4beb-858e-74094a461a4b",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "492dbece-4bc4-46bc-addd-b3a17fb74661",
+    "lesson_id": "d8d66542-5ffe-4b32-a610-26bff298ae8b",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "390f768b-8bdd-4229-a270-98505413b4fd",
+    "lesson_id": "161d88da-102a-4b9e-8385-6483b14e57a3",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "9ac70432-5647-4896-9fb3-5298ac59c929",
+    "lesson_id": "f07a40fb-b86b-4d7d-b306-da26c7fcf56e",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "8fd7a594-9d2a-4f6a-91a5-232761e6a895",
+    "lesson_id": "8a342ef3-04d9-4f6b-9467-042624c46872",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "171c320d-cb38-427b-81e4-923b4b778565",
+    "lesson_id": "61fe3a50-bcd3-4342-80f1-e6018806403f",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "9811cd9d-688d-4ecf-a3d5-f8766e46c3b5",
+    "lesson_id": "56982e98-2de7-4f3b-9c2f-89bbf3dd53d0",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "967a4434-0b47-4380-bc52-c8a4dc0c5f16",
+    "lesson_id": "ef2eed35-50ce-4395-b3e8-22d4799e26db",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "4f1000cc-f4fc-44c3-a12e-75663348815b",
+    "lesson_id": "ef2eed35-50ce-4395-b3e8-22d4799e26db",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "824a0e70-3b22-4049-933d-3d795b98218d",
+    "lesson_id": "eb083855-302e-490b-b5cc-2a0b417cdeec",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "9706dbd6-9b26-4c65-a0fc-62451074d70c",
+    "lesson_id": "15dd53a2-d0d9-4466-924c-ef562ff3a5c9",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "c139dcd9-c6ac-4683-9f2e-009b1ed21d19",
+    "lesson_id": "15dd53a2-d0d9-4466-924c-ef562ff3a5c9",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "a947730e-138a-4fe9-983c-9e65c4280f54",
+    "lesson_id": "9937e3d9-dc8e-4be3-9545-f783209b35e7",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "fc1c8e9d-f0d1-4a42-a03f-e22f2924a0a4",
+    "lesson_id": "9937e3d9-dc8e-4be3-9545-f783209b35e7",
+    "instructor_id": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "3f3c0abf-ff36-430c-8da9-75e13ce000af",
+    "lesson_id": "c721a1d5-061f-472f-a3be-7f48665080c5",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "bd2eada7-207a-4030-b1f1-2a3c4d5ff574",
+    "lesson_id": "9459faac-0567-4912-81cc-dcab1630861c",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "d1087ad6-1aa8-48ce-a938-cc6ffd6234a5",
+    "lesson_id": "c6816050-bb3a-416f-95a3-8f3b829f2691",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "23a200de-5a6c-4d82-a5d5-8f65152ae18d",
+    "lesson_id": "612525d2-5499-4931-916f-2898af4625f4",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "0aa6c879-6dd7-4c81-80f1-991f39ced460",
+    "lesson_id": "f72a85fb-6bce-4a3d-93c7-b2f73a3362c1",
+    "instructor_id": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "fb60e091-66ea-4293-b9fd-30827165b72b",
+    "lesson_id": "b49a1301-7aa0-409d-9851-dcef7d93f6d3",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "cf7df4cc-8701-455f-b393-6ff23e0220b0",
+    "lesson_id": "1bbe3b7a-75ae-4722-ad33-927a0915eacc",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "29e8d5f3-0e58-4e8f-987e-31bd98652d20",
+    "lesson_id": "1bbe3b7a-75ae-4722-ad33-927a0915eacc",
+    "instructor_id": "7cb9bc3a-57ee-4f55-afb2-28450d9b375f",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "8acfdd9d-2598-49a4-b793-e4f5f23f7dea",
+    "lesson_id": "a0e72b06-e6ea-4c54-96d6-b7c9e95d0080",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "b176b52c-e50d-46a4-b238-45f7c88e6498",
+    "lesson_id": "a0e72b06-e6ea-4c54-96d6-b7c9e95d0080",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "1bf6253f-3d96-4f13-8f3f-bc9e189eb29f",
+    "lesson_id": "b03cea2d-b085-4407-88b3-bfef30376faf",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "6f7a7232-2168-42d6-9b31-c0d179bfd7e2",
+    "lesson_id": "b03cea2d-b085-4407-88b3-bfef30376faf",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "1feade41-bad6-41b6-ae8c-becf444ed8d2",
+    "lesson_id": "a0145ea5-c4e5-4014-9a29-f063c6909ca3",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "9b5d33bc-b9d4-4551-a5c6-d2459558794d",
+    "lesson_id": "f1ccba23-a492-4e54-990e-514b853acd09",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "bd061781-55ee-4481-bc8e-8bd579ca1dae",
+    "lesson_id": "b8eb61e8-1795-4762-a593-e5d6d480181c",
+    "instructor_id": "fd79770c-2cc4-4127-8a64-ecb8dcd8c8a3",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "442e1625-38cc-4cb0-a0f6-082990e98287",
+    "lesson_id": "5bc4beeb-27d2-42aa-b923-056be06e0451",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "37efa00a-5375-4767-b808-99397a721c1d",
+    "lesson_id": "c1f96563-1fc3-454f-87a8-cbafd556015a",
+    "instructor_id": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "3c1af445-84c9-4eaf-a2d4-54a43c6fadbf",
+    "lesson_id": "c1f96563-1fc3-454f-87a8-cbafd556015a",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "673df0bb-0e10-4a68-b7ca-2836edecfd5d",
+    "lesson_id": "d69866fe-19c0-4bfd-b3a8-ed27a84487cc",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "4e177543-12d0-45aa-849d-0bb4a22c49ee",
+    "lesson_id": "d69866fe-19c0-4bfd-b3a8-ed27a84487cc",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "bab42d6f-2396-48df-81b1-29839df3f6df",
+    "lesson_id": "add3bf26-15bf-4bf9-b26b-ba387b73fa3c",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "f2aae859-ff25-42a6-a3bf-1d42b5b6a884",
+    "lesson_id": "bc27c447-78c7-4d67-87a4-74afac2172df",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "fb1a50de-2484-4f15-8cb9-2f817f552034",
+    "lesson_id": "c98865cb-4a6a-4537-ae4a-d1c509e4bd36",
+    "instructor_id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "role": "lead",
+    "assigned_at": "2026-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "8aae9ef1-7f8e-45bf-8c10-ed0013a20c62",
+    "lesson_id": "097bd6ad-9566-4068-9dab-db62f2995df5",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "4256065e-e662-488b-8f34-43968b1a5f1f",
+    "lesson_id": "33346fca-4fd6-4e11-bc1d-c7c6ab3c5c90",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "27c9964e-f0dc-4b3c-b952-1df390596957",
+    "lesson_id": "7ceb67c6-c7ae-4a63-8807-65e0d6a85f6e",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "c7f9453c-07a0-4c11-864b-bf23fe90f923",
+    "lesson_id": "7ceb67c6-c7ae-4a63-8807-65e0d6a85f6e",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "af69925a-69ed-47c3-b699-ccb3185b7d42",
+    "lesson_id": "e7bf5781-2853-43bd-8cf3-0644106d0ed9",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "71ceb4c7-f7ae-4b18-b1e1-6af83827b043",
+    "lesson_id": "6256d7d2-9487-45a9-a501-e209fafeb868",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "947a0411-70c8-4fe2-96b5-fe19452a3700",
+    "lesson_id": "6256d7d2-9487-45a9-a501-e209fafeb868",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "2d3b02ab-9904-44de-a0a6-5daa16b2095a",
+    "lesson_id": "d2def88b-9d0f-4072-907e-f1955c3d448d",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "e15f6dc2-ed1d-4548-a78f-6ee6ee121883",
+    "lesson_id": "ce4ecd6e-0910-4ef8-b59d-e6f7ee6dd5bc",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "6df9fbdd-0b88-467f-b06f-e8b11af02d10",
+    "lesson_id": "64107d70-5547-41ff-9da8-e566f3099000",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "ba160cd1-1540-475c-bc0f-18f6d2a0d6de",
+    "lesson_id": "fd15cee1-8751-48b0-a206-afe14821756e",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "c6175dc0-da88-45e8-a99a-fb8bc22a2617",
+    "lesson_id": "32506e5c-76b0-423b-ab0a-b7680e011d67",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "cbdbf51b-d568-4758-a722-daf84ec61b79",
+    "lesson_id": "902e4de9-06fe-41fe-8fa2-5047d82799c2",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "0ef8d39c-3d18-4516-8ec8-da6f4ecc028b",
+    "lesson_id": "efe3ad96-1d4b-4824-9f9e-7ff0b36dece7",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "77fdb083-74c2-46d2-a091-ab26b2c1bf21",
+    "lesson_id": "f77ffa53-644b-45d1-b474-94c51771e158",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "29703e48-e60c-447d-8a84-2c9b39691c40",
+    "lesson_id": "1e2d0548-6283-445a-b29b-9ca24f569aac",
+    "instructor_id": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "76e02fed-5061-478d-a341-8c9d240037f4",
+    "lesson_id": "1e2d0548-6283-445a-b29b-9ca24f569aac",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "a0b8223e-5d3d-47c1-908c-7c405623fe5e",
+    "lesson_id": "d771c499-3297-4c21-8e27-88d1043538d4",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "597da365-2020-49a6-86b4-a036a7eed406",
+    "lesson_id": "d771c499-3297-4c21-8e27-88d1043538d4",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "7f280992-014e-40d1-8972-23c1b96914cc",
+    "lesson_id": "64d3527e-4589-4ea0-bf98-2cccb0e2e9cd",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "7021f936-2ff4-42ae-b204-df0d11efb038",
+    "lesson_id": "64d3527e-4589-4ea0-bf98-2cccb0e2e9cd",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "09051021-fadd-460e-87d8-2c9c152e8aba",
+    "lesson_id": "b70e441e-908e-454b-b264-bc63b0a3f343",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "6fd1703e-a3d4-4ba7-b65d-94da3ff4aa15",
+    "lesson_id": "b382c596-dd19-413b-839a-84d456cdbc0d",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "095bebb7-1cd7-483f-a090-1761158b7d29",
+    "lesson_id": "af1dfb07-92cb-43c7-ade2-1a1917c63c50",
+    "instructor_id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "5e75b9b8-cae4-4984-ab5d-33d3be80182f",
+    "lesson_id": "af1dfb07-92cb-43c7-ade2-1a1917c63c50",
+    "instructor_id": "92152a74-4fbc-4791-baaf-8d2886f6ec0f",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "cabaef16-deee-41ae-a2d7-56fa51957365",
+    "lesson_id": "dedef966-5abb-4208-a00b-7fc3e793ae24",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "3c0ee224-da16-42fd-82a9-319085adce4e",
+    "lesson_id": "164111e0-b49f-48ea-9650-cd7df65d7506",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "70d11287-577e-4aed-bc01-40da48f5c072",
+    "lesson_id": "df8c9c77-2b70-4f90-a091-65c6b3f2efb3",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "7dfa284c-9626-4a65-a6f5-914f3fbd8c7e",
+    "lesson_id": "df8c9c77-2b70-4f90-a091-65c6b3f2efb3",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "b6739808-bbec-41cc-92c0-167080a4cb79",
+    "lesson_id": "292f8377-7fef-4204-8d07-c76272226b33",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "3eb04120-324d-4191-aab5-fe10b4adeec6",
+    "lesson_id": "0038f010-9945-4f81-a63f-bfe5c1f6def1",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "566b8ca9-1152-457b-8e28-3046b12c7ca8",
+    "lesson_id": "c4ab6b2a-3ba7-4513-8b61-a1b5d6b21097",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "2e69a16d-90dc-4d82-9c63-bea16deaa1b1",
+    "lesson_id": "d173c6bf-45df-44dc-8166-f99afe20b085",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "9e6c192f-9438-4447-990d-d39d964bd253",
+    "lesson_id": "d173c6bf-45df-44dc-8166-f99afe20b085",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "46533fff-b6c3-4988-8333-08b80fc9321a",
+    "lesson_id": "1951ad9d-6d84-4a44-86b1-128f7745020f",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "a6ec0d5e-43ae-46b2-afaa-83fb449e872e",
+    "lesson_id": "f4675318-5fc6-472c-bfbc-75f1cfbc969d",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "048eef1a-4269-4e83-a47b-7f9d11f1415c",
+    "lesson_id": "16657785-b0ce-475f-a483-3bb1c7b13ee1",
+    "instructor_id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "a25a0229-9489-48e6-aa8a-babd9242a5b9",
+    "lesson_id": "16657785-b0ce-475f-a483-3bb1c7b13ee1",
+    "instructor_id": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "role": "assistant",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "024fe427-1b7d-4438-b166-9cd5262d72b6",
+    "lesson_id": "d56438a8-acb2-48dd-b353-139db718faf8",
+    "instructor_id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "a6de04eb-1b13-4035-9b61-21c70debd12d",
+    "lesson_id": "af409034-5a02-4153-96d6-64836f5badd6",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "a1970aaa-d34b-4c6c-a331-372cb98aa354",
+    "lesson_id": "11286ec0-1edc-4759-96f9-c9d1b8ad62f5",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "5d107a9f-34cd-4b42-b281-df485d05ab21",
+    "lesson_id": "a533e302-080f-488a-8d48-428338ebdc5a",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "a5120e28-f890-46dd-8b0a-af8fb383ade2",
+    "lesson_id": "fbb0b152-b674-43e0-87b4-e934f75ae368",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-16T00:00:00.000Z"
+  },
+  {
+    "id": "69a9cb0e-93f8-49d5-a008-c3b5f0200429",
+    "lesson_id": "e4ca1635-3f05-4a97-b86f-fc0f7879e548",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "01cd8a3d-0778-4b31-8882-734d443725fa",
+    "lesson_id": "6070a405-586b-4feb-bcc7-c1d0240699ac",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "f072bcbc-2344-44a2-af74-7dd671f8c889",
+    "lesson_id": "2eab5e10-3668-4ccf-8da2-7a5842a4a480",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "5bd22ce9-6601-443e-8e00-d7a1c522f7e3",
+    "lesson_id": "fc5561e8-9d22-43b3-95cb-46574434db04",
+    "instructor_id": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "0d900553-e2b2-44c7-be0a-e22cb9732adf",
+    "lesson_id": "f4a69b6a-d6eb-4b41-b126-0b364b53ae07",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "23fd2910-a8fb-4677-9ef4-0150b0655731",
+    "lesson_id": "f4a69b6a-d6eb-4b41-b126-0b364b53ae07",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "124557c3-3ba3-4e3c-b9c2-6ca648dc07ca",
+    "lesson_id": "df94dbb9-310c-4825-b17b-d531b779f99e",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "59200cf5-adcc-4c93-9038-2f11f03cfa81",
+    "lesson_id": "df94dbb9-310c-4825-b17b-d531b779f99e",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "649b9afb-fe6d-403a-a3f3-d09b53f95cc5",
+    "lesson_id": "2e1dc63c-0064-4705-9de0-cff8db434407",
+    "instructor_id": "4825a832-6d52-4287-a811-be9028359c59",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "60075be7-1950-4968-8004-7da9da19164b",
+    "lesson_id": "704b379c-45ce-4cb1-93c7-9a5378928593",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "9447ab69-1aa2-4733-a4d6-f18eb802b695",
+    "lesson_id": "704b379c-45ce-4cb1-93c7-9a5378928593",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "fcf18079-bbe8-4562-b3ca-6c95a0cd8ec3",
+    "lesson_id": "8f345d82-d885-4ee6-b69d-41ca79e871eb",
+    "instructor_id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "652d1f0f-18f4-4035-a9bf-e86cc6e07f6c",
+    "lesson_id": "e24b8982-bc5f-4611-a933-c534c9e31e3d",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "125ead45-de65-4569-9149-616949670826",
+    "lesson_id": "e24b8982-bc5f-4611-a933-c534c9e31e3d",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "136522fc-b5a5-4039-9ebc-68472952fcb7",
+    "lesson_id": "3a8d732a-3951-462f-930b-13d36ba2e61d",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "921524b2-09fd-4f4d-b2fa-7ca7c0dffb10",
+    "lesson_id": "878fe20e-d965-42b8-b040-de15813303a2",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "dab6a67e-cb2f-4bd2-bacd-741204e54a56",
+    "lesson_id": "971440f3-8808-410a-b344-85243f87d7fe",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "7c7c9bd2-ce7b-4a9d-8c3c-263555e8599b",
+    "lesson_id": "9d96a1e0-6f73-407e-9e19-17fc1fb3f55e",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "23686d68-2ff6-4cd7-acc8-5a7d65b2870c",
+    "lesson_id": "9d96a1e0-6f73-407e-9e19-17fc1fb3f55e",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "f06a6b32-b60e-41e4-9eb9-9b5bb940fd28",
+    "lesson_id": "aab65d35-9ffc-4926-bba1-e0389eedec91",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "3e7ea121-3256-44ba-a19d-33c774dfe1c1",
+    "lesson_id": "aab65d35-9ffc-4926-bba1-e0389eedec91",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "4e1c3e51-f575-4c76-a173-b33dfaf7e9ef",
+    "lesson_id": "8d5acbc7-6539-4ed5-be0b-f153ccb07181",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "256d9d6d-8390-4057-a357-ebc7461e9e8d",
+    "lesson_id": "8d5acbc7-6539-4ed5-be0b-f153ccb07181",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "133ea9cb-efe4-4198-b9d5-d4811a8a2780",
+    "lesson_id": "a07a0e1d-029d-44a4-8da6-9bcc72c3a46a",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "4ef6b0ee-7b90-4725-8dc6-2652539bb391",
+    "lesson_id": "635a62bf-a5e3-4e9f-8e13-8b0e1c895885",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "c0cb9e0a-0a66-4dae-a5d2-1e0755bae2d6",
+    "lesson_id": "8f158f25-d9df-4d40-849e-f9655ced56fd",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "7c5208d4-fcb7-4ccc-bf43-0f25c8382b5a",
+    "lesson_id": "8f158f25-d9df-4d40-849e-f9655ced56fd",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "5847a45b-4ccb-41bd-96a3-c9fa49b5b7fc",
+    "lesson_id": "0b85e61a-90f3-4438-b938-3e6b071f4eae",
+    "instructor_id": "610303c8-3c7e-430f-8089-df13a3e341f7",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "5cf6b265-3d63-45da-b43a-3287a53185b9",
+    "lesson_id": "342194e4-e15a-42bd-8646-19db12c2d45d",
+    "instructor_id": "fd79770c-2cc4-4127-8a64-ecb8dcd8c8a3",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "2f697cac-3e82-4f06-8465-bc04ebeb2b63",
+    "lesson_id": "4ca5844f-53ed-4386-a726-0d594efb2419",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "557e13de-b257-4d9d-a657-0a7850bd320a",
+    "lesson_id": "1d262708-fd10-4887-bd59-025d884e1f2e",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "41308b79-5312-4cbc-925f-71a1d9ca70e8",
+    "lesson_id": "1d262708-fd10-4887-bd59-025d884e1f2e",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "62bab01a-733b-4f95-8c78-b506b1fee18f",
+    "lesson_id": "1d338688-0256-43ad-a020-cd473d7ff9cb",
+    "instructor_id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "2a2de6ac-b4e3-4ef0-baee-cad9731343c5",
+    "lesson_id": "0c0a6045-299e-4f7a-8d68-c6ecccdad1eb",
+    "instructor_id": "92152a74-4fbc-4791-baaf-8d2886f6ec0f",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "b5dc6538-40fd-4db9-895f-aadaa5e5e1eb",
+    "lesson_id": "18111a51-c2bc-437c-8495-301b11fd4576",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "358e7a14-9c2b-47d9-8599-0f25b2ed72ca",
+    "lesson_id": "07e58774-fe44-4e36-a344-d8bf2d939a1a",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "bcbfbbb6-d8a0-456e-a637-dfa8f1a113e2",
+    "lesson_id": "07e58774-fe44-4e36-a344-d8bf2d939a1a",
+    "instructor_id": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "d4de11b9-8f9d-47fa-a633-0e3dc6ee59f1",
+    "lesson_id": "672c2ac5-5181-413a-9f4f-087e7d6cce56",
+    "instructor_id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "8f723aa9-d305-417c-8c40-3a2c4de5ed2f",
+    "lesson_id": "672c2ac5-5181-413a-9f4f-087e7d6cce56",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "56819aad-9e05-44ff-8224-c49fc4d415d1",
+    "lesson_id": "2e9158d8-709b-45b4-9f23-9092fc192b10",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "d18db834-61b4-45a0-bfc3-cc77db7a17b7",
+    "lesson_id": "2e9158d8-709b-45b4-9f23-9092fc192b10",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "c5c36ebb-692e-40eb-acf9-304392e42f2e",
+    "lesson_id": "d7213e94-eb0d-4e9f-af2c-e42174f5e386",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "4d04f276-bf38-4134-99dd-36981c7ade9e",
+    "lesson_id": "f16d1acd-9b11-437f-9360-fb50c41ba565",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "c2b07163-79dc-402c-99ea-414f58c88644",
+    "lesson_id": "f16d1acd-9b11-437f-9360-fb50c41ba565",
+    "instructor_id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "role": "assistant",
+    "assigned_at": "2026-03-17T00:00:00.000Z"
+  },
+  {
+    "id": "bca547d6-2483-44b9-9547-8f04e6e3206d",
+    "lesson_id": "e06a426a-2feb-4391-99ce-09bb52c8d256",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "0a9e611c-4558-491d-a1f3-0ff84162bacd",
+    "lesson_id": "e06a426a-2feb-4391-99ce-09bb52c8d256",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "c9ab6f72-527a-4ebf-a3cb-200a14991d75",
+    "lesson_id": "4fbab851-2c1c-4f19-a0a6-767ff149f2ee",
+    "instructor_id": "92152a74-4fbc-4791-baaf-8d2886f6ec0f",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "859b2000-f277-465e-bc39-7b44a0bdb6a8",
+    "lesson_id": "4fbab851-2c1c-4f19-a0a6-767ff149f2ee",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "1eb398a5-7834-4218-98d3-5f2f11ca4ec1",
+    "lesson_id": "db30f4fd-1a52-4f33-9991-15a439420a2b",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "0e042203-52dd-470f-a122-3e95b7166700",
+    "lesson_id": "fadcc54b-afc4-40e2-a4d4-16821fde9a61",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "9819edbd-f38f-482e-a737-9a9dc794400f",
+    "lesson_id": "fadcc54b-afc4-40e2-a4d4-16821fde9a61",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "4e3508ab-627b-4f83-8f1b-fc11656e9ce7",
+    "lesson_id": "e6f2884c-0bfe-490b-b23c-9d52a974db4d",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "2060a130-d138-4d73-ac27-b4adbdaacd2c",
+    "lesson_id": "e6f2884c-0bfe-490b-b23c-9d52a974db4d",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "8990741b-c188-41b7-8964-4682514b347b",
+    "lesson_id": "c5c5c196-fecf-4579-9c37-8009cc108cb8",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "f74c8f21-d066-4e9f-bdd0-37dfbdce357d",
+    "lesson_id": "51db63c6-0318-493f-8f03-3ba2f2367f87",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "6cc2c79c-cfbb-41fd-afda-581e597dcef8",
+    "lesson_id": "504c1261-c87f-430b-b6b3-419e66613438",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "f0f42814-aa5a-42e0-82ea-446a00ed7dce",
+    "lesson_id": "c0aa4c06-fc25-4c1f-8bb2-bf0921214fbe",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "7759fcd3-8fb3-478d-b2df-a3bf0f547faa",
+    "lesson_id": "1f5d61bd-25fa-4a7e-8bb6-1fdc569a47f2",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "e7d835eb-0367-4701-a41c-4aaa8f4e751b",
+    "lesson_id": "44106569-c000-4cfd-a150-326ca1fc3a90",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "f39539c8-0872-4e11-b72b-a4b9eedd9259",
+    "lesson_id": "44106569-c000-4cfd-a150-326ca1fc3a90",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "a7890199-0481-4940-bb34-8698b960cf60",
+    "lesson_id": "7ac473ff-005f-4dc5-a43b-a5529a05a136",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "af422602-c99f-4c55-8e3b-6dbb38a82c19",
+    "lesson_id": "090e297b-0d5b-4cb6-a82a-b8d371a00ed2",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "b812db58-7075-4599-bbe3-9f09ed17ceca",
+    "lesson_id": "1c7bd572-ec03-45d1-ab64-f380245a6b4d",
+    "instructor_id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "5280c7df-5835-4a6c-8904-fb2286454923",
+    "lesson_id": "1c7bd572-ec03-45d1-ab64-f380245a6b4d",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "982bde38-5e3a-4ec5-98c1-130d6da134a8",
+    "lesson_id": "d5e16543-dcac-414a-91ba-5463d16b5ab9",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "db75b630-65f7-4b92-974f-55920b8b8db8",
+    "lesson_id": "d5e16543-dcac-414a-91ba-5463d16b5ab9",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "3af6d127-a906-4394-97cf-eae0714f7f81",
+    "lesson_id": "0a11599a-1ff0-435f-80d6-7342e38bc816",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "e49d54c8-effb-4e26-81dc-9dfbe4740614",
+    "lesson_id": "f3d5c6de-faf7-43c8-a518-4074696f93a9",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "13903d5d-b7be-437a-9013-397fc7cfb51b",
+    "lesson_id": "220194ff-3157-4a29-9fad-e075f8beddc1",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "911af92e-517b-4c3c-98fe-d114be60a11f",
+    "lesson_id": "220194ff-3157-4a29-9fad-e075f8beddc1",
+    "instructor_id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "e931c9c9-8533-438c-acc8-b2468cf110ad",
+    "lesson_id": "5089b1c0-59db-4e43-81ac-f7fd0fd68bb2",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "621b412d-cac7-4a1c-940b-387888ffbe9d",
+    "lesson_id": "1223154e-2bfc-4079-9336-4f415f6de8e3",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "3d42c4d0-01ce-4aa3-8091-b0383bdc1f5a",
+    "lesson_id": "b73a6495-de2c-4c5f-a231-cfed9de62a23",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "4bb6ff5d-0418-4eea-80b8-1e603e8962de",
+    "lesson_id": "b73a6495-de2c-4c5f-a231-cfed9de62a23",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "95264d9c-4ba5-4fb5-9100-762e49cc940e",
+    "lesson_id": "fa32d15d-d9fc-4b7e-812e-34ebce2fb460",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "8c2e7b97-3e17-43be-81b1-1d2b5a9e73a9",
+    "lesson_id": "afcd1137-3cf0-435d-9e6b-9d82305f1e53",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "41ad77c8-3104-49b5-a4f4-6ca5189bc61b",
+    "lesson_id": "e2135b92-7836-4aa4-97ad-5f279326be08",
+    "instructor_id": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "a35f2bac-11cf-4e78-96b8-a3e9d808088b",
+    "lesson_id": "e2135b92-7836-4aa4-97ad-5f279326be08",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "9f3e5cb3-b692-4b2c-a628-fd1a22cf69a4",
+    "lesson_id": "38602662-0c5c-4472-9a6c-219f9ecb92cc",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "205241d3-3cbf-45f5-94b2-ca5aa827bb00",
+    "lesson_id": "f5e28376-479b-4936-9ae2-b299b9ed1895",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "9feef8d2-1c93-4d01-8231-fdb10076df44",
+    "lesson_id": "f5e28376-479b-4936-9ae2-b299b9ed1895",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "350573ae-05de-4690-a216-37e0bec67509",
+    "lesson_id": "57b7a6aa-f2d4-44b2-860d-3cc7c36bd12f",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "34fd9b25-5c89-42ac-bfeb-b0efef966aa8",
+    "lesson_id": "5124ea89-dc92-4067-a8b2-3452c50ded8d",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "0ba70040-f582-42ed-9fe1-2a8865e09371",
+    "lesson_id": "1c621def-cecd-4e7b-9d65-b6e0574c3596",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "36c8d51a-2f30-4ad3-be78-e4c0445ffa61",
+    "lesson_id": "6fee1f7f-9b74-41fd-8e9e-937d4c55bba3",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "409d28fe-f8a5-4a99-88c9-2ac9e927f1cc",
+    "lesson_id": "6fee1f7f-9b74-41fd-8e9e-937d4c55bba3",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "da01c3e4-19cf-4aec-92ae-6ae68bf28e62",
+    "lesson_id": "b4189ed0-9514-4670-8d9e-d653621d8438",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "6a2096eb-c3b0-4e1c-ab12-95d8c6ffae62",
+    "lesson_id": "b4189ed0-9514-4670-8d9e-d653621d8438",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "4cad3230-d974-4375-bb8a-04b0fb56aabc",
+    "lesson_id": "d4d99096-b10b-4eb9-8911-be46fb42e623",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "feaf660c-0924-4823-adda-b5391163866e",
+    "lesson_id": "901f38f2-d30b-473e-a175-326a036eda27",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "dd71b8f5-a186-4353-b18b-997588ca54cc",
+    "lesson_id": "0ae3df52-3929-4454-809c-24d18fc54377",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "064e46cc-a61c-46bf-bd88-2c7f9bfa5fdf",
+    "lesson_id": "dbdf0735-1a43-4240-9264-a9f86922cffb",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "1a0cbb9d-59ad-4674-b08e-9fd8a522c726",
+    "lesson_id": "dbdf0735-1a43-4240-9264-a9f86922cffb",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "562eeff1-1c51-4bed-80ff-49611fe2dd61",
+    "lesson_id": "256a9731-6970-43fa-b77a-4ac42a7ef4eb",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "ff9cec12-c310-4e4d-abf8-8d829e978330",
+    "lesson_id": "e2eda8eb-2578-4b55-bc4c-8527018bd9a9",
+    "instructor_id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "5f76b046-e806-42dd-84eb-d4c8d2e15e31",
+    "lesson_id": "e2eda8eb-2578-4b55-bc4c-8527018bd9a9",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "5e2113d3-88d4-406f-a773-f26f8a0eea6c",
+    "lesson_id": "59b8926e-0db7-4ebe-aec0-a60c7aa4098f",
+    "instructor_id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "f073a80b-8b7c-4f2a-b57c-52b4a3b5f504",
+    "lesson_id": "59b8926e-0db7-4ebe-aec0-a60c7aa4098f",
+    "instructor_id": "4825a832-6d52-4287-a811-be9028359c59",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "af6ac2ba-508e-4d77-aa0a-b62c38b60ae7",
+    "lesson_id": "d7c53f96-cff7-47dc-b9c3-a1ea354b7af3",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "b5a8d9c6-3146-45ff-8162-14fbb59bc717",
+    "lesson_id": "0de351fd-b4fc-46f4-bf9f-74a4de5fe7fe",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "fb74b1ad-86e8-4ef4-9cae-fa0b746b290a",
+    "lesson_id": "0de351fd-b4fc-46f4-bf9f-74a4de5fe7fe",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "aeff217a-71f8-4bfc-a0d2-e841e9b2dd9c",
+    "lesson_id": "4907f189-7a7a-4710-b8a7-a03c5a0edd63",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "73ba01ae-4449-4143-b216-2cfdf2f3fac7",
+    "lesson_id": "56b56250-0999-4f67-a340-ef155c277d3b",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "a9562a2c-7993-4819-9418-4965fea0ce0e",
+    "lesson_id": "3ee19433-ed4a-4327-bf72-f76a8099bef8",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "29c3c05d-9245-4624-9611-01396cbd6f4d",
+    "lesson_id": "e619efc0-715a-41ca-9ac6-672576f2f1f7",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "d189e4f6-b8b2-4ea1-bb6d-8c320dde2b19",
+    "lesson_id": "9d4b4cc8-8c7c-4c25-a827-57804be41db4",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "98e537cb-657f-4f3d-a416-43d34d8a26ac",
+    "lesson_id": "145f3d16-b518-42bd-9644-b364958de356",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "fd611d3d-b42b-4f84-94f9-5399a9f7e6d7",
+    "lesson_id": "145f3d16-b518-42bd-9644-b364958de356",
+    "instructor_id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "6e0f578d-5c4a-4927-bf64-e93cb892bc14",
+    "lesson_id": "907df3e9-ba94-45f4-a2b7-940b9e95367f",
+    "instructor_id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "3c549397-d19d-46a4-afd6-011928806f78",
+    "lesson_id": "28004224-ccd5-4df8-9eb6-9a4e5e0814bb",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "9542e690-e40b-44fc-ae32-4d33993c7fd5",
+    "lesson_id": "6e9defe5-b5b9-4832-8f03-1e461cbe6102",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "b75ccaf2-22b5-4f62-87f0-a415b4ca691a",
+    "lesson_id": "6e9defe5-b5b9-4832-8f03-1e461cbe6102",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "471e4c4a-ad44-4258-abe8-9289274626ca",
+    "lesson_id": "8d9965b2-b67e-44ad-90ec-75bfabae0c42",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "6c6ff2c0-7f58-4c2b-a507-3b82ff4d43f8",
+    "lesson_id": "02a73b0c-fec5-4e76-adcd-51cb29f8c4b6",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "b24a48ed-318b-425a-ab16-e853e3b1539d",
+    "lesson_id": "02a73b0c-fec5-4e76-adcd-51cb29f8c4b6",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "7f505117-2db7-42eb-98a6-231506ee3946",
+    "lesson_id": "a52b8717-477d-4b38-8a9a-23bbba8bee60",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "a57e968e-10fc-43f2-b424-9ed10f84f8e5",
+    "lesson_id": "5ea6f16f-d5da-44f8-a7ba-8e67145485b8",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "84939552-50d9-4a0c-86f3-5038ab863d38",
+    "lesson_id": "54a4738c-3a02-48fd-9391-1d74a6b0c6da",
+    "instructor_id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "7dd97a7e-ae32-44cd-b587-02085715fbe1",
+    "lesson_id": "54a4738c-3a02-48fd-9391-1d74a6b0c6da",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "88109747-c9fb-43f6-bc8c-4ba741a72441",
+    "lesson_id": "784a137b-c32a-4415-8382-4a97e763225c",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "113dd775-50c9-4786-911d-1419264d6865",
+    "lesson_id": "218b2210-7f79-4073-8fa0-8a249a57872d",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "4145b84a-a605-4a07-8142-67fdf8e9af32",
+    "lesson_id": "54bfa1c2-6bb6-4096-ac2a-5ea240ca69e0",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "966d3514-5b11-4cf1-8cfd-aac211587d03",
+    "lesson_id": "54bfa1c2-6bb6-4096-ac2a-5ea240ca69e0",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "949454b0-02ea-48ea-9d2b-fdc69eadf8ea",
+    "lesson_id": "bb19fabb-3815-4093-8db9-f83895134962",
+    "instructor_id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "bcc9577f-138d-403b-9253-b802f08936a4",
+    "lesson_id": "bb19fabb-3815-4093-8db9-f83895134962",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "4eb09649-e57b-4c2a-8245-c6214a791657",
+    "lesson_id": "6813786a-3245-4526-9077-b7c8dd016df2",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "d1a5d92a-d04b-4cf3-801f-7abff4eb5b5f",
+    "lesson_id": "84902385-af6a-4f70-8ae3-c714d9352bb9",
+    "instructor_id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "7cec7f94-bb91-429d-bea5-aab74e27855f",
+    "lesson_id": "f4726513-bb95-4347-8d4f-aad6c0e9928a",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "f51b953f-ddcd-4760-a659-d8308c2be3a9",
+    "lesson_id": "f4726513-bb95-4347-8d4f-aad6c0e9928a",
+    "instructor_id": "92152a74-4fbc-4791-baaf-8d2886f6ec0f",
+    "role": "assistant",
+    "assigned_at": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": "95cc5496-5ae8-498e-a83b-6b965d3919f4",
+    "lesson_id": "11bb05fe-4779-4285-bfb1-09ae00c9e4ec",
+    "instructor_id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "78c88a60-5892-4303-80b0-5fdfda50006c",
+    "lesson_id": "e926e065-4ff9-4dc8-829b-b65d6f88f01e",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "d3af5297-a247-4f66-92f7-bc0d569fdfd5",
+    "lesson_id": "82edc3cc-6267-49e5-b1c9-93e809279c18",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "d080d5e7-eff1-4656-a67d-c62116b1ea4e",
+    "lesson_id": "82edc3cc-6267-49e5-b1c9-93e809279c18",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "9e351423-9fab-45a6-bf21-ccc7b4717db7",
+    "lesson_id": "5a76cc31-07b1-469c-880a-0d91a644f002",
+    "instructor_id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "4b3454a4-470c-4ce4-a480-5b4a69274322",
+    "lesson_id": "5a76cc31-07b1-469c-880a-0d91a644f002",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "431ab5b8-8d33-4895-9770-1a14564227ef",
+    "lesson_id": "8b96d139-a297-4d83-a7c6-e2b680667313",
+    "instructor_id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "d401e2e2-4310-43ff-bb33-d282403d88f6",
+    "lesson_id": "8b96d139-a297-4d83-a7c6-e2b680667313",
+    "instructor_id": "4825a832-6d52-4287-a811-be9028359c59",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "97e28839-9b1e-478e-bdd3-06ec81afc092",
+    "lesson_id": "d64c9255-b4ba-438e-a7b7-605e3cbb3b19",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "27b1bc00-7e73-48f5-8f53-81961cb60050",
+    "lesson_id": "15198433-f9a9-45fd-9b4a-99ee61f32291",
+    "instructor_id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "191011a2-1a94-43bc-a986-2c9dcf4bc12c",
+    "lesson_id": "afcfe183-a415-4cd0-af48-82b71b835833",
+    "instructor_id": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "e9a3ca0c-76bd-47a9-81d1-83c0ce7fded2",
+    "lesson_id": "6fd092da-f8bc-4841-9ec3-f65b067626a0",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "7d512e62-7cb4-49e7-a9c6-6b793b0605e7",
+    "lesson_id": "6fd092da-f8bc-4841-9ec3-f65b067626a0",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "486f1c92-6b86-492d-ab48-267217cb64e1",
+    "lesson_id": "0aace0ec-9ae0-49c9-b83f-6d856105a362",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "d6f89a5b-1567-4192-9acf-e80ed0150998",
+    "lesson_id": "0aace0ec-9ae0-49c9-b83f-6d856105a362",
+    "instructor_id": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "7184cab3-10df-42d6-82ea-871ddb118810",
+    "lesson_id": "771aef12-d3a5-4b21-9acb-7e28c4c115fd",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "bdd9e03c-1f22-4c3e-9c0a-60f3011866f6",
+    "lesson_id": "771aef12-d3a5-4b21-9acb-7e28c4c115fd",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "assistant",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "2b6c62f7-e24d-46e7-8ef4-e8066466ab6e",
+    "lesson_id": "ab175849-8996-4f72-83af-53317088a157",
+    "instructor_id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "91028421-57e8-4ae9-b212-b848947a1e3f",
+    "lesson_id": "f06386cc-f34b-489b-a504-2b5d8cfb6722",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "3599829b-42ca-4abe-9373-7cf2c59a6b83",
+    "lesson_id": "f06386cc-f34b-489b-a504-2b5d8cfb6722",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "563293f0-c71e-487f-8a08-a2efb38719da",
+    "lesson_id": "eb630518-8dea-49e4-89c1-9d0e909df91b",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "44407b73-e9d0-4ee1-935b-e3d54abb2af7",
+    "lesson_id": "56927724-c980-47bf-8b7a-59d57562eaca",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "27328171-dc39-423f-9dad-2d6cbc6707be",
+    "lesson_id": "d46feedb-0b01-4850-8886-6c97b222105c",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "16a063c0-78f8-4d76-b849-0018f3584314",
+    "lesson_id": "8b2f1dfe-e04a-48c0-ab7a-11d845e5a05d",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "1175a065-575d-4e2a-9a28-14b19099fd8e",
+    "lesson_id": "6fb4517d-7375-4c6f-bf35-5542b5c8283e",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "5f954c74-0139-4af9-85e8-8fa022a0d15d",
+    "lesson_id": "6fb4517d-7375-4c6f-bf35-5542b5c8283e",
+    "instructor_id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "fe7f4946-a080-4f5a-8ed2-a97633be2cfb",
+    "lesson_id": "187456d0-d883-4c28-bfc5-b05de01c9dc4",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "8e049fb6-3726-48ca-83a2-9906c39edf78",
+    "lesson_id": "187456d0-d883-4c28-bfc5-b05de01c9dc4",
+    "instructor_id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "659acf86-c7cc-4376-8d62-0d78832603cc",
+    "lesson_id": "43f1bb01-820e-4afd-aca8-8ca85be2a1ef",
+    "instructor_id": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "6915d976-c797-4a76-a591-cac2b268512c",
+    "lesson_id": "6a9cf7c7-2439-4adb-a19a-da45f4b50bbe",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "a0a186b3-0b8c-48fc-b53d-ab47fbe37346",
+    "lesson_id": "6a9cf7c7-2439-4adb-a19a-da45f4b50bbe",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "fa5bf87a-64e8-4118-8e1a-e13ac2f9d3bc",
+    "lesson_id": "87c98ce1-deb2-44d0-becd-2a2298331076",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "9642ea63-f71a-4529-aee0-c37e264319a7",
+    "lesson_id": "ff9bf734-e75f-48e1-b59d-d6b3c670ec9d",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "0fdbc495-05a0-4106-9643-6de7e611d7a5",
+    "lesson_id": "1c1fcc8d-ab8d-4e4d-b73c-a0ccf5a2b170",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "a30302c6-c195-454f-9f7f-6765ab93ac0f",
+    "lesson_id": "059b0cd9-9544-4375-a624-078f63d8e992",
+    "instructor_id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "34cee1e7-106f-4625-b32e-db25c2d786ed",
+    "lesson_id": "059b0cd9-9544-4375-a624-078f63d8e992",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "42a918d2-42fd-4bdb-bd40-593ed0efb09c",
+    "lesson_id": "91eeafd0-3501-4d8b-88c8-bf3a2da1924c",
+    "instructor_id": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "22544479-bfc0-4e7a-952f-7c274704fcf2",
+    "lesson_id": "fdeba99a-f5cc-4d7f-a6b7-7d6c7f8d9c8b",
+    "instructor_id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "6348da8f-a9c6-490f-843f-a45615456fc1",
+    "lesson_id": "e5afb56e-395d-41ff-95c0-fb7cabe4263c",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "79aa9485-9047-4bec-828c-d42d26e32c6a",
+    "lesson_id": "e5afb56e-395d-41ff-95c0-fb7cabe4263c",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "f3f13f23-2688-44de-b711-0fcca9f7cc66",
+    "lesson_id": "76cc1a29-e9a0-4da1-8f5a-3294b2e7d6f5",
+    "instructor_id": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "2ce241ec-0460-4bc0-beb7-aa8d1bd4dfb1",
+    "lesson_id": "0920916d-6ab3-4f7f-9a63-0020217d4936",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "daad8ca6-9567-4812-aa5d-4a001185b3ec",
+    "lesson_id": "573212af-3159-4fc1-97e3-a10a9d1b0743",
+    "instructor_id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "bda5c62e-8af5-46a9-96e9-a9584f16b2b5",
+    "lesson_id": "573212af-3159-4fc1-97e3-a10a9d1b0743",
+    "instructor_id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "0d4c5994-95f3-4411-82b3-f949045c90a7",
+    "lesson_id": "843f3c7b-e298-419c-89e8-1abb081d6b49",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "id": "061838cc-41a8-413e-8bdb-631acf174f91",
+    "lesson_id": "155a8516-fdc3-4a1c-bcd7-4e92b418ae1b",
+    "instructor_id": "92152a74-4fbc-4791-baaf-8d2886f6ec0f",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "c3efc499-3e79-432d-abe7-727516623d9a",
+    "lesson_id": "e02c6508-ac9a-4464-8e39-aa5dbe65ff44",
+    "instructor_id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "b1fe8a2a-c5a3-4685-a651-02922d7f9cb8",
+    "lesson_id": "6c8aa8cc-061b-4ce9-9e63-ba3ad11c5528",
+    "instructor_id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "bd82ead6-5663-4d8d-a646-834281bc2aa8",
+    "lesson_id": "6c8aa8cc-061b-4ce9-9e63-ba3ad11c5528",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "assistant",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "92ed1b6a-652d-49ac-b32e-7e010d4bd1f2",
+    "lesson_id": "7e2ff17f-c5b1-47e0-b65a-5884c8d52135",
+    "instructor_id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "1077ea1b-5a2a-4451-b0de-a34ab22a8c58",
+    "lesson_id": "681188ae-ea23-4f79-847d-60b7b2545d68",
+    "instructor_id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "f9c1ae31-4811-4a0f-b83e-4898202736e0",
+    "lesson_id": "7efa6305-8ff0-42a3-ac87-90394b175c9c",
+    "instructor_id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "fe120501-1c06-4059-bf4d-bde335d0da29",
+    "lesson_id": "2e18b78c-470b-48a8-b802-1685271d3d8e",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "0509c804-af96-4095-84b1-4c4650d95f9e",
+    "lesson_id": "ab0edb4c-f2a7-4cfe-9bec-dcf4af30c5f9",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "70e595ad-3d26-424d-a222-bbc0e5467c09",
+    "lesson_id": "de27e6c4-e548-4f9b-8f28-e28048a9aa5a",
+    "instructor_id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "f9cbee37-6c7a-442d-80cb-d03b3e0c8207",
+    "lesson_id": "c31dde55-aeeb-4945-aa0f-136dfbcede8c",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "c1147c29-68bd-4a40-ac29-5b1b823a45f5",
+    "lesson_id": "d83faa57-b7b7-44cc-a2d6-7f3a4ea819ef",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "a247b166-fdb0-42e6-a253-0425fd70834c",
+    "lesson_id": "d83faa57-b7b7-44cc-a2d6-7f3a4ea819ef",
+    "instructor_id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "f5b90092-e864-4286-b678-889fb4cb5e7f",
+    "lesson_id": "377897c3-1131-44d4-81d3-8e3f72194cdc",
+    "instructor_id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "f38e03a8-1c66-42b0-ad27-676bcc8f45f5",
+    "lesson_id": "48d655fd-996f-4fb6-8a43-d02f7670b78b",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "eda2a96b-b37d-41d8-936f-e79481820194",
+    "lesson_id": "48d655fd-996f-4fb6-8a43-d02f7670b78b",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "assistant",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "37911788-12d8-4e15-845e-9ba5fd206da8",
+    "lesson_id": "370b2e15-ddec-4e96-aa47-ff5aab92cc8b",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "3cc33a14-2bc1-40fc-8403-d93436e41714",
+    "lesson_id": "3a0b4901-10a8-4f65-b8ba-65ea41dabe28",
+    "instructor_id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "bf8e7e06-5163-4916-b927-2478433110b9",
+    "lesson_id": "0ec00d58-0c0e-411c-b613-b23cb058e0b1",
+    "instructor_id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "60d7dbdd-26d7-4480-877a-e0c605a53bae",
+    "lesson_id": "a9fc6bdf-f501-4a2c-aa50-c0f6af9cb654",
+    "instructor_id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "b44e49c4-50ed-411c-b889-d79b0f327f85",
+    "lesson_id": "a9fc6bdf-f501-4a2c-aa50-c0f6af9cb654",
+    "instructor_id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "577c39b0-dde1-4e4d-8cc1-196953853312",
+    "lesson_id": "6a8fec44-e642-4878-8345-cc3628164113",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "91b9f3d2-2dd1-41fc-be6a-3a432ebb1486",
+    "lesson_id": "6a8fec44-e642-4878-8345-cc3628164113",
+    "instructor_id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "role": "assistant",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "7e066f03-c265-403d-9581-f93dd139d796",
+    "lesson_id": "cf68349a-3ccc-467f-a81f-aff1485d5364",
+    "instructor_id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "3e942190-568c-45e5-86a9-a2c3c17848cc",
+    "lesson_id": "cf68349a-3ccc-467f-a81f-aff1485d5364",
+    "instructor_id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "role": "assistant",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "24500fdd-6f14-4610-b761-16e6545d03fc",
+    "lesson_id": "f5c76b0b-41cb-41d4-99b0-dccad276bd1e",
+    "instructor_id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "697584df-d082-4ab5-bd55-a683751f21ef",
+    "lesson_id": "293af0bf-d8af-4940-94ad-0b84cc2f06fc",
+    "instructor_id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "0e63bf37-308c-4b29-9e29-84cc65eb0da5",
+    "lesson_id": "293af0bf-d8af-4940-94ad-0b84cc2f06fc",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "cb3a6204-d01c-411e-abc0-d21b28123d71",
+    "lesson_id": "3988960e-2de5-4ee8-900a-7a90f089bac9",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "712eef97-83bc-486d-963a-8b4e41cc27dc",
+    "lesson_id": "ec783bf6-6afe-41ba-a227-4f31b873b17a",
+    "instructor_id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "24b1e983-a6e2-46ca-b4fc-79f20cd18275",
+    "lesson_id": "ecf2aa3b-a87b-46e4-936e-6525f0f11b77",
+    "instructor_id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "11d1dca6-dbaf-4c6c-92d0-b6e64ee3bf62",
+    "lesson_id": "ecf2aa3b-a87b-46e4-936e-6525f0f11b77",
+    "instructor_id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "1a80c69d-c340-4144-bcc1-b3c9d4192105",
+    "lesson_id": "932c50b6-b136-4efa-9d7a-e7a2be60fd6e",
+    "instructor_id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "2563933b-8d13-4963-a062-982ecf815c4a",
+    "lesson_id": "932c50b6-b136-4efa-9d7a-e7a2be60fd6e",
+    "instructor_id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "d78e807a-23d1-4236-96fc-84351bed557c",
+    "lesson_id": "1499ff40-d6b6-4460-adcb-af2aa3373ca0",
+    "instructor_id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "50dddc19-31a0-4e86-a029-93bd048f47fb",
+    "lesson_id": "1499ff40-d6b6-4460-adcb-af2aa3373ca0",
+    "instructor_id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "role": "assistant",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "7286bb45-2f42-4849-a833-d16d978ae8d3",
+    "lesson_id": "0d175330-d4be-4803-8b0f-fac876e15ae0",
+    "instructor_id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "role": "lead",
+    "assigned_at": "2026-03-22T00:00:00.000Z"
+  },
+  {
+    "id": "e9d87fc9-7b12-4900-b2a9-7b00e2e0f186",
+    "lesson_id": "0d175330-d4be-4803-8b0f-fac876e15ae0",
+    "instructor_id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "role": "assistant",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "790d7c05-9adc-4dc9-ab5c-6789006a73e9",
+    "lesson_id": "46090e58-90ca-49e1-bf82-9482997afcd2",
+    "instructor_id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "178c6419-b160-4e80-9238-a11e9fb56297",
+    "lesson_id": "1cb76322-8c72-4948-b812-ee80fc573ce3",
+    "instructor_id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "3d788b3f-52d0-4028-bee0-f86f2c6f2a43",
+    "lesson_id": "419fe30f-c8c8-4fad-85b9-a4d1c4c5fb3d",
+    "instructor_id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "role": "lead",
+    "assigned_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "id": "a7d009fb-79eb-4448-a99d-de765961aec6",
+    "lesson_id": "fe94c134-54a3-486d-8e36-ddadbde3a0eb",
+    "instructor_id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  },
+  {
+    "id": "5738e6e4-181b-4a0a-8a93-774bc55c214b",
+    "lesson_id": "e9f4b6d6-226b-4e75-95f5-ed00356e7dca",
+    "instructor_id": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "role": "lead",
+    "assigned_at": "2026-03-21T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,5539 @@
+[
+  {
+    "id": "5fb10d49-a5c1-4e51-9db4-9af41670f70f",
+    "lesson_id": "b0962dfb-43e2-4b36-b195-ee1801a106e7",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow turns",
+      "Short turns"
+    ],
+    "created_at": "2026-03-10T15:30:00+09:00"
+  },
+  {
+    "id": "4303cc2b-d4f2-4357-9765-e1c464849982",
+    "lesson_id": "91f9a15d-5670-475d-bcf5-fe8b1a1d254d",
+    "submitted_by": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-10T12:00:00+09:00"
+  },
+  {
+    "id": "26faedf6-948e-4f43-835a-2924e96cb112",
+    "lesson_id": "d988a1ea-8b4b-43a4-b91a-bc0257b8a64a",
+    "submitted_by": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "summary": "Good session today with the SB 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Silver Bell",
+      "Snow Garden",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Stem turns",
+      "Heel-side turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-10T12:15:00+09:00"
+  },
+  {
+    "id": "22bcdc85-d180-4b06-98eb-36421a5fbad2",
+    "lesson_id": "243572c7-ee4f-4d2c-9f64-3c0078ac4931",
+    "submitted_by": "00190938-0a1b-47f8-b289-90368b64b565",
+    "summary": "Good session today with the CLUB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Silver Bell",
+      "Beginner Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Switch riding",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-10T11:45:00+09:00"
+  },
+  {
+    "id": "b66a8de4-9d21-4a86-9249-4a4df0a6ecb7",
+    "lesson_id": "ebcd8f99-64e5-494a-9137-17fd4eb373b1",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Snow Garden",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Moguls",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "e2a68a45-ffa9-4365-806a-9c5d2aca157b",
+    "lesson_id": "5c146d01-571e-40df-b30a-f39e22c5a17f",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the SB 4 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Rails"
+    ],
+    "created_at": "2026-03-10T12:00:00+09:00"
+  },
+  {
+    "id": "59a9d524-b20b-4088-88af-349e712adbce",
+    "lesson_id": "54995240-1917-4a72-baaf-2bd2686a466c",
+    "submitted_by": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "summary": "Good session today with the PANDA group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Stem turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "afd88e18-903f-4cf0-9558-8afbbfc53c9e",
+    "lesson_id": "2e1e2339-d98b-488e-bd77-ab77be4ff85f",
+    "submitted_by": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "summary": "Good session today with the DRAGON group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Blue Sky",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Carving",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "fbc7c3e4-50c9-40ea-96d4-623e6302e54d",
+    "lesson_id": "d8b9909c-b168-47dc-99b4-454b163f9416",
+    "submitted_by": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "summary": "Good session today with the CLUB 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow",
+      "Linking turns",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-10T12:00:00+09:00"
+  },
+  {
+    "id": "7d585914-cea2-4687-9671-c6dfdf3f7c66",
+    "lesson_id": "ffd47b5a-432b-4036-8741-38c529bacdac",
+    "submitted_by": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Speed control",
+      "Rails",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "d5c19c17-d892-4966-85c1-d56b1f64b4ed",
+    "lesson_id": "4893f481-f08f-4e30-b6a0-0d5c7c47da24",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-10T10:30:00+09:00"
+  },
+  {
+    "id": "7a92be75-a427-49bc-b430-65bc508c97e7",
+    "lesson_id": "8e21dc6f-0f9b-4fff-a8d1-72a4d5cac58d",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the TRIDENT 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Green Park",
+      "Forest Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Stem turns",
+      "Moguls",
+      "Rails"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "47361f64-4c39-4136-9094-72a93dbf0482",
+    "lesson_id": "e5c0028a-5856-493b-8ce2-fbfdb7f7d036",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the RIDER 2 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Pioneer",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Carving",
+      "Heel-side turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-10T11:15:00+09:00"
+  },
+  {
+    "id": "39877779-d245-47ae-b544-7313715b9ff6",
+    "lesson_id": "8276f6b1-95f8-4c4a-a7ee-ed7d0d4d754b",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Tower Quad",
+      "Crystal Run",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Carving",
+      "Short turns"
+    ],
+    "created_at": "2026-03-10T12:15:00+09:00"
+  },
+  {
+    "id": "b3f45f66-0602-4057-b75e-e935971422d3",
+    "lesson_id": "3bccc28e-a7a8-4ba8-8d0d-c0aa4826394f",
+    "submitted_by": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "summary": "Good session today with the TRIDENT 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-10T11:15:00+09:00"
+  },
+  {
+    "id": "364d5dbe-d9d9-4f3a-8f85-1165f96d50dc",
+    "lesson_id": "64eac501-403d-4c49-9244-c986ff35a430",
+    "submitted_by": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "summary": "Good session today with the SB 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-10T12:00:00+09:00"
+  },
+  {
+    "id": "46c74e1c-8694-48d7-8adf-05ed80652702",
+    "lesson_id": "e9b63b02-a5a0-495d-8275-c96428a46185",
+    "submitted_by": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Green Park",
+      "Unkai Gondola Area",
+      "Ningle Terrace",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Snowplow turns",
+      "Stem turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-10T13:30:00+09:00"
+  },
+  {
+    "id": "b3b0162e-2813-43b7-9952-1ee4e2fafd1d",
+    "lesson_id": "f9b4dd7f-a0d2-4d54-a37b-83cab4017dff",
+    "submitted_by": "0e7909a8-2ab6-473b-832d-8ea0f229d493",
+    "summary": "Good session today with the CLUB BEG group. Everyone made progress.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Switch riding",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-10T12:15:00+09:00"
+  },
+  {
+    "id": "a6656778-b1ad-4084-b393-164c2c9876d6",
+    "lesson_id": "2e902f20-e6ee-4385-b630-94d2950cf090",
+    "submitted_by": "d687968b-ae69-4268-b031-55ba10d57207",
+    "summary": "Good session today with the PRIVATE SB group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-10T12:00:00+09:00"
+  },
+  {
+    "id": "410ff6a9-0ef2-4e25-8338-edda01ea9b0c",
+    "lesson_id": "d2719c39-73bc-4467-bb79-b67ba2978cbc",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the CLUB 6 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Short turns"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "a2e56c38-48dc-4a4e-96d3-a43332cb9daa",
+    "lesson_id": "1250d8a0-8762-4e11-91a0-8903fc7dd067",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the TRIDENT GOLD group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Roller Coaster",
+      "Blue Sky",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Pole planting",
+      "Parallel turns",
+      "Jumps"
+    ],
+    "created_at": "2026-03-10T11:15:00+09:00"
+  },
+  {
+    "id": "4bfa2524-bc0f-47f8-82f1-7615cae349fe",
+    "lesson_id": "ef3d5497-fb66-47f6-b696-981c87709686",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the PRIVATE SB group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Toe-side turns",
+      "Heel-side turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-10T12:30:00+09:00"
+  },
+  {
+    "id": "2065a0cb-52ea-4db3-8ab3-e4c1d47f789d",
+    "lesson_id": "e942f454-23ce-44b6-8e04-ad3c9c0e6b6b",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the RIDER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Forest Run",
+      "Crystal Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Heel-side turns",
+      "Edge control"
+    ],
+    "created_at": "2026-03-10T11:00:00+09:00"
+  },
+  {
+    "id": "9e59406c-ab40-4908-97e9-9c56d539ddbc",
+    "lesson_id": "0986552f-855a-4e69-b006-c598bd6179f6",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the RIDER 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Unkai Gondola Area",
+      "Green Park",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Balance drills",
+      "Speed control",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-10T11:15:00+09:00"
+  },
+  {
+    "id": "2bcf4b4c-02b0-40d1-bf0e-d05764355639",
+    "lesson_id": "28c041fa-13df-4540-90b3-c91b88fdf3b2",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the TIGER group. Great conditions.",
+    "terrain_skied": [
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Heel-side turns",
+      "Short turns"
+    ],
+    "created_at": "2026-03-10T11:45:00+09:00"
+  },
+  {
+    "id": "55ee8621-bcca-4b65-9f0a-dd465fc239ac",
+    "lesson_id": "2460b0a2-46a1-4fd4-b939-8ec8b9c6f342",
+    "submitted_by": "d687968b-ae69-4268-b031-55ba10d57207",
+    "summary": "Good session today with the SB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Crystal Run",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Powder skiing",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-10T12:00:00+09:00"
+  },
+  {
+    "id": "b1107d92-395a-4a70-9636-9d6aa79c0b03",
+    "lesson_id": "0666bb60-522e-4ba6-b7c4-946be4b9fc28",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the CLUB 4 group. Everyone made progress.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Ningle Terrace",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Powder skiing",
+      "Speed control",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "04a3387e-7044-427a-8209-4e4bc9cf4bbe",
+    "lesson_id": "ab76acb5-47e9-46bd-9418-337ecf6e62d7",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the TRIDENT BRONZE group. Everyone made progress.",
+    "terrain_skied": [
+      "Forest Run",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-10T11:15:00+09:00"
+  },
+  {
+    "id": "ea41ec25-212a-4498-a0a5-bd8c4ae83c3d",
+    "lesson_id": "6c074156-e44b-41cc-9277-6213dc07d5f0",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the TRIDENT 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Pioneer",
+      "Beginner Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Switch riding",
+      "Heel-side turns",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-10T11:30:00+09:00"
+  },
+  {
+    "id": "7d7e29c0-5966-4e02-a8bd-4b5b25dfee31",
+    "lesson_id": "13e9e712-98d7-450f-8e51-9fba55de5e0e",
+    "submitted_by": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "summary": "Good session today with the RIDER 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Snowplow turns",
+      "Rails",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-10T11:00:00+09:00"
+  },
+  {
+    "id": "975307f3-8443-4998-9280-9e158ebb4f12",
+    "lesson_id": "6ed8e045-70af-4ef2-a043-01421776ddfd",
+    "submitted_by": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "summary": "Good session today with the CLUB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Green Park",
+      "Tower Quad",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-10T11:45:00+09:00"
+  },
+  {
+    "id": "3e67e0d3-66f6-4602-a295-b986ed271d40",
+    "lesson_id": "7991dfe8-6116-4acf-96e5-b6622dcc9128",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the CLUB 6 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Powder skiing",
+      "Parallel turns",
+      "Edge control"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "5643bbd0-57d8-47fa-b20e-ffe58e375759",
+    "lesson_id": "b98f1434-f901-4ee8-8427-6f6ef7f0ed74",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the CLUB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Forest Run",
+      "Green Park",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Traversing",
+      "Balance drills",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-11T11:45:00+09:00"
+  },
+  {
+    "id": "521637b2-2991-4ad3-9fe7-37b19fac6d4f",
+    "lesson_id": "8fcd9a56-beb9-49ef-871e-83d28020770e",
+    "submitted_by": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "summary": "Good session today with the TRIDENT 1 group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Powder skiing",
+      "Snowplow",
+      "Rails"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "e03ecc7a-a448-4843-8221-a60d490881c2",
+    "lesson_id": "df0d559a-6cea-4cd0-8cfb-b75592b9e2a2",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the TRIDENT GOLD group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Parallel turns",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-11T11:15:00+09:00"
+  },
+  {
+    "id": "e4f72f10-0e9b-4e72-860f-b3bb8e02eb9a",
+    "lesson_id": "3ef97f6a-e683-41dc-a185-a0739a3ba995",
+    "submitted_by": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "summary": "Good session today with the SB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Unkai Gondola Area",
+      "Crystal Run",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Balance drills",
+      "Carving",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-11T12:15:00+09:00"
+  },
+  {
+    "id": "4a91024b-114a-45e8-a5c0-e34fda3a55c1",
+    "lesson_id": "58bf076d-991d-447e-8c74-3fba291fb065",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the TRIDENT 2 group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "eb026e0a-11d5-46d1-91cd-1d896c96b189",
+    "lesson_id": "a45a44ae-ae8c-4b85-aee1-c95e8dd7a964",
+    "submitted_by": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "summary": "Good session today with the TRIDENT 3 group. Great conditions.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Speed control",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-11T11:15:00+09:00"
+  },
+  {
+    "id": "541423d4-ad0d-4967-b921-8bed32ea4e36",
+    "lesson_id": "ba2e75cb-af03-45b7-91d8-09e36ce7eca0",
+    "submitted_by": "610303c8-3c7e-430f-8089-df13a3e341f7",
+    "summary": "Good session today with the TIGER group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Crystal Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Moguls",
+      "Jumps",
+      "Traversing"
+    ],
+    "created_at": "2026-03-11T11:45:00+09:00"
+  },
+  {
+    "id": "b23eee45-41f8-4c05-9251-46ebe6b8024c",
+    "lesson_id": "6d575b95-6c41-4d57-b48e-d1cf255b5b74",
+    "submitted_by": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Silver Bell",
+      "Unkai Gondola Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Parallel turns",
+      "Pole planting",
+      "Speed control"
+    ],
+    "created_at": "2026-03-11T13:30:00+09:00"
+  },
+  {
+    "id": "d5a9f5c4-7b43-4bfa-9aac-d62dc06f0cad",
+    "lesson_id": "387a0ae6-c52e-409e-b5a6-a8e89f2ce7f4",
+    "submitted_by": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "summary": "Good session today with the SB 1 group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Crystal Run",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Short turns"
+    ],
+    "created_at": "2026-03-11T12:15:00+09:00"
+  },
+  {
+    "id": "466f1cc7-cde2-4790-b811-9837adf0a9f2",
+    "lesson_id": "3cb148d6-07bb-498f-b71d-23ab3162ffed",
+    "submitted_by": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "summary": "Good session today with the PANDA group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Parallel turns",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "5ae9580b-fa7d-4c22-b19d-e271189bac39",
+    "lesson_id": "0205205d-3e22-4adf-9b47-0e39ec4f520e",
+    "submitted_by": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "summary": "Good session today with the RIDER 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-11T11:15:00+09:00"
+  },
+  {
+    "id": "bb50f3df-5e7d-416d-8d04-a610bd45f31f",
+    "lesson_id": "e8906715-c280-48e1-85a0-818715c18fcf",
+    "submitted_by": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "summary": "Good session today with the CLUB 5 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Pioneer",
+      "Snow Garden",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Stem turns",
+      "Speed control"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "8f38e7b0-23dc-482e-9108-21e2c629798f",
+    "lesson_id": "e50ac88c-6fbc-4feb-a053-508a9a89a9f7",
+    "submitted_by": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "summary": "Good session today with the SB 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Powder skiing",
+      "Snowplow",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-11T12:00:00+09:00"
+  },
+  {
+    "id": "53d4f4a0-892f-47a0-99a3-1293bc0c6586",
+    "lesson_id": "ce0e3012-1120-45e6-b8dc-929c967620dc",
+    "submitted_by": "a6af2530-7431-452e-986e-c0188342cc58",
+    "summary": "Good session today with the TRIDENT BRONZE group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Tower Quad",
+      "Green Park",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-11T11:15:00+09:00"
+  },
+  {
+    "id": "4851cf89-a698-4a48-a153-85ff4db35670",
+    "lesson_id": "845116a8-2ef1-4e63-81a4-620b330dd29c",
+    "submitted_by": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "summary": "Good session today with the PRIVATE SB group. Challenging but fun.",
+    "terrain_skied": [
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Snowplow",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-11T10:00:00+09:00"
+  },
+  {
+    "id": "a2c22668-7e45-4921-8578-5f88d020eed4",
+    "lesson_id": "788eded3-71d9-411a-8d17-27ac36961c26",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the SB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Ningle Terrace",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-11T12:00:00+09:00"
+  },
+  {
+    "id": "e66cbe2d-8de0-438e-a803-a2b3db98c5d5",
+    "lesson_id": "6cb0f822-959d-4f86-91d5-17585a7d1dab",
+    "submitted_by": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "summary": "Good session today with the RIDER 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Pioneer",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Carving"
+    ],
+    "created_at": "2026-03-11T11:15:00+09:00"
+  },
+  {
+    "id": "ac728612-089f-4d26-b7b1-4b9c5f76e83a",
+    "lesson_id": "05a2248a-77ad-46f9-97ca-201a89b2cb32",
+    "submitted_by": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "summary": "Good session today with the CLUB 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Unkai Gondola Area",
+      "Pioneer",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Snowplow turns",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-11T11:45:00+09:00"
+  },
+  {
+    "id": "4f63b69b-9512-4306-bedd-94f516f6f444",
+    "lesson_id": "cbf34a0d-4e27-41fa-8939-06ac021d9d02",
+    "submitted_by": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "summary": "Good session today with the RIDER group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Stem turns",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-11T11:00:00+09:00"
+  },
+  {
+    "id": "581abbae-f755-450e-a629-1d7223fc05df",
+    "lesson_id": "692c2726-a48c-46bc-8fbd-0676655b38ec",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the CLUB 1 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Snow Garden",
+      "Ningle Terrace",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Linking turns",
+      "Traversing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-11T12:00:00+09:00"
+  },
+  {
+    "id": "d9324aad-60c3-46b7-90b3-e4dd7740369e",
+    "lesson_id": "79f23674-7ef6-4e4c-bb5e-8db0b0b56ee4",
+    "submitted_by": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "summary": "Good session today with the CLUB BEG group. Everyone made progress.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Forest Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Short turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-11T12:15:00+09:00"
+  },
+  {
+    "id": "d84ce34a-6669-477d-aad3-76d7a1cd00d6",
+    "lesson_id": "92a131ac-04b1-40e7-8177-e646db350bb3",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the CLUB 4 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Roller Coaster",
+      "Forest Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Moguls",
+      "Speed control"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "22396be6-b12b-4396-be08-fe49bafe0b87",
+    "lesson_id": "78a4c38c-0b18-451b-97fe-a0493dd96fb5",
+    "submitted_by": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "summary": "Good session today with the DRAGON group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Green Park",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-11T11:30:00+09:00"
+  },
+  {
+    "id": "2a00c6d5-d36f-4287-875b-c828575ceef5",
+    "lesson_id": "493a92ca-61f4-4936-85e7-50ac9a5f3b68",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Silver Bell",
+      "Beginner Area",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Snowplow",
+      "Pole planting",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-11T15:30:00+09:00"
+  },
+  {
+    "id": "dff8358c-4614-45b4-8f0c-9262b905e04c",
+    "lesson_id": "b3259c8c-e3bb-4b69-bdfc-785f6451faad",
+    "submitted_by": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "summary": "Good session today with the RIDER 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Short turns",
+      "Speed control"
+    ],
+    "created_at": "2026-03-11T11:00:00+09:00"
+  },
+  {
+    "id": "3d4d4c20-b5e9-41a6-9ec9-18db97afdeed",
+    "lesson_id": "196be867-d325-4dcb-a4cc-8b0a42b25fb7",
+    "submitted_by": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Silver Bell",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Parallel turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-11T13:00:00+09:00"
+  },
+  {
+    "id": "35593179-0106-48bc-87de-b5aa3ebf2036",
+    "lesson_id": "e1620b3c-343f-446f-8f49-62c0e7cb91df",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the SB 4 group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Roller Coaster",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Carving",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-11T12:00:00+09:00"
+  },
+  {
+    "id": "edb52268-7aa2-4b24-b5c8-a740415745c7",
+    "lesson_id": "269ee434-38af-4f9c-9a85-ff7249ded732",
+    "submitted_by": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Blue Sky",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Linking turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-11T15:30:00+09:00"
+  },
+  {
+    "id": "d1f5c496-dcdf-4f9b-8892-42d58f2679bb",
+    "lesson_id": "b36a0fed-f9ea-46f5-a3c5-14c2b2292e2b",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the CLUB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Tower Quad",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Traversing"
+    ],
+    "created_at": "2026-03-12T11:45:00+09:00"
+  },
+  {
+    "id": "fa12fa31-e166-446f-8a8b-51c5e8549500",
+    "lesson_id": "4c42588d-31ec-48c8-8c7a-cbe67d80328c",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the SB 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Unkai Gondola Area",
+      "Ningle Terrace",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Powder skiing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-12T12:15:00+09:00"
+  },
+  {
+    "id": "4e934ce2-9109-466d-aeb1-743362e2ed78",
+    "lesson_id": "b781fcbb-2939-4a1c-8b59-a9b81746d024",
+    "submitted_by": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "summary": "Good session today with the RIDER 1 group. Great conditions.",
+    "terrain_skied": [
+      "Pioneer",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Short turns",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-12T11:00:00+09:00"
+  },
+  {
+    "id": "51162eae-c54f-4abe-ab7a-b67bae2d20eb",
+    "lesson_id": "86e6b8a3-4e94-479b-867a-c3108c06caae",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the CLUB 5 group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Unkai Gondola Area",
+      "Roller Coaster",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Rails",
+      "Parallel turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "bd9625eb-b684-4aa2-982a-90ecd7d74930",
+    "lesson_id": "7c8c1b4c-88dc-417c-ae35-49eb86c38e9e",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the SB 4 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Switch riding",
+      "Speed control",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-12T12:00:00+09:00"
+  },
+  {
+    "id": "db3aa89d-1119-43ac-8d89-8830a13c82f7",
+    "lesson_id": "1980c703-609b-43a6-bfd7-42a517480664",
+    "submitted_by": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Green Park",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "0a2d4fd6-9371-4cd1-bc08-26bddd892407",
+    "lesson_id": "001ea6f8-50c9-4a01-9994-896456cf8aae",
+    "submitted_by": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "summary": "Good session today with the TRIDENT 2 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Snowplow",
+      "Moguls",
+      "Rails"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "8531d556-14c1-47de-bddc-57eaa0140950",
+    "lesson_id": "99189251-4c66-49e5-ab84-9d224c746490",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the CLUB 6 group. Great conditions.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Blue Sky",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Snowplow",
+      "Short turns",
+      "Speed control"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "0afe9b0c-8825-45eb-b8d8-3f7552b6fb26",
+    "lesson_id": "6ccfbc47-8690-4965-a4c3-16b163d15984",
+    "submitted_by": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "summary": "Good session today with the SB BEG group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-12T12:15:00+09:00"
+  },
+  {
+    "id": "3e3ad13d-959a-489d-a247-6c88118545df",
+    "lesson_id": "355ef6a2-a4fa-4ec0-ac07-77b2db590b55",
+    "submitted_by": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "summary": "Good session today with the CLUB 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Jumps",
+      "Snowplow",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-12T11:45:00+09:00"
+  },
+  {
+    "id": "1a8b43ee-37a9-4625-b054-ccc9c9ebc1ac",
+    "lesson_id": "004caa3a-ff93-49b7-8283-c59c6752ac3f",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the CLUB 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-12T12:00:00+09:00"
+  },
+  {
+    "id": "4936bfeb-6d70-4f1e-9bcf-8fd3fe6f4341",
+    "lesson_id": "428d61af-bac7-4966-9aea-cc5aed289014",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the TRIDENT GOLD group. Everyone made progress.",
+    "terrain_skied": [
+      "Green Park",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Switch riding",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-12T11:15:00+09:00"
+  },
+  {
+    "id": "9d80fd70-2b57-4e08-a3e3-54b6459f530f",
+    "lesson_id": "15d5b215-e458-4148-a3b1-0ad1b541aa27",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Green Park",
+      "Beginner Area",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Snowplow",
+      "Linking turns",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-12T12:00:00+09:00"
+  },
+  {
+    "id": "c9430d46-b2c9-4617-9c6d-f010564137cd",
+    "lesson_id": "dbdd2c0e-7d15-49e7-ab99-042c6b6b9532",
+    "submitted_by": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "summary": "Good session today with the TRIDENT 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Snowplow turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-12T11:15:00+09:00"
+  },
+  {
+    "id": "a33ed419-c4c6-4bcd-869a-e99b9db88ee7",
+    "lesson_id": "574d87fa-51eb-43f4-8d75-d754fb06f01a",
+    "submitted_by": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Pioneer",
+      "Silver Bell",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Short turns"
+    ],
+    "created_at": "2026-03-12T15:30:00+09:00"
+  },
+  {
+    "id": "2149d2a6-0f3b-4f71-b2b0-c1c26663ca6e",
+    "lesson_id": "69a4c9dc-a102-4163-be8f-be4cb16422e8",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the RIDER 3 group. Great conditions.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Tower Quad",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Toe-side turns",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-12T11:15:00+09:00"
+  },
+  {
+    "id": "8bd1f54f-2214-4a69-8688-9b9f6f5bd9a4",
+    "lesson_id": "4cad839f-6a06-4489-a6ff-e720ddc0564c",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the DRAGON group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Blue Sky",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Powder skiing",
+      "Snowplow",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "32d60aea-1601-4d64-9005-926cfbe0476e",
+    "lesson_id": "48455828-7268-4411-827b-50dc507f0dd5",
+    "submitted_by": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "summary": "Good session today with the PANDA group. Challenging but fun.",
+    "terrain_skied": [
+      "Green Park",
+      "Roller Coaster",
+      "Blue Sky",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Short turns",
+      "Balance drills",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "fdda79b8-ff64-4f0b-84c6-0674374da7c9",
+    "lesson_id": "b7cb8d32-8cf0-4d6d-a01a-bf5020f7dfa3",
+    "submitted_by": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "summary": "Good session today with the TIGER group. Challenging but fun.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Carving"
+    ],
+    "created_at": "2026-03-12T11:45:00+09:00"
+  },
+  {
+    "id": "f98b861e-4db4-4dd2-9f3f-5134f213b150",
+    "lesson_id": "9d7582c7-9baa-4617-bb64-1b8df2fadb7c",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the TRIDENT BRONZE group. Great conditions.",
+    "terrain_skied": [
+      "Pioneer",
+      "Green Park",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Snowplow",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-12T11:15:00+09:00"
+  },
+  {
+    "id": "34d61840-8e76-4ca4-89ec-4864ae614ef1",
+    "lesson_id": "234633d8-17c6-47fa-a783-ac04c4a86452",
+    "submitted_by": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Green Park",
+      "Ningle Terrace",
+      "Crystal Run",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Snowplow",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-12T14:00:00+09:00"
+  },
+  {
+    "id": "c2c2ec25-1216-4b88-9aa8-63ac536aed5d",
+    "lesson_id": "a58b8249-93d7-4ce7-a0be-951968d554be",
+    "submitted_by": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Moguls",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-12T15:00:00+09:00"
+  },
+  {
+    "id": "76f3eb57-3cdb-4337-ae20-81bf9df57752",
+    "lesson_id": "b1d7cbfa-4436-42ee-92d7-91943b46f9af",
+    "submitted_by": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "summary": "Good session today with the TRIDENT 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Snowplow",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "f6fd2cef-a69d-41b2-a014-06daf8d03c25",
+    "lesson_id": "14630f15-ab7d-479a-b507-fbfcc1746a91",
+    "submitted_by": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Pioneer",
+      "Beginner Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Stem turns",
+      "Carving",
+      "Traversing"
+    ],
+    "created_at": "2026-03-12T14:30:00+09:00"
+  },
+  {
+    "id": "c1d6a47b-952e-4c62-8c59-73ce3899203d",
+    "lesson_id": "d755258c-9285-4956-b671-38ebd0742030",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the SB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Snow Garden",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-12T12:00:00+09:00"
+  },
+  {
+    "id": "274632c2-a4a4-431e-8d0d-06b242d00c22",
+    "lesson_id": "a83f0c8b-bf25-4d46-875b-c1b32f33dd9d",
+    "submitted_by": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "summary": "Good session today with the RIDER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-12T11:00:00+09:00"
+  },
+  {
+    "id": "b974b03c-4f83-44f6-be2b-82af419d0938",
+    "lesson_id": "a7f668ad-be1e-42ca-b2b9-765add2aa7b5",
+    "submitted_by": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "summary": "Good session today with the CLUB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Moguls",
+      "Rails",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-12T11:30:00+09:00"
+  },
+  {
+    "id": "e4692dde-2cde-4e17-a838-0d435ac7e372",
+    "lesson_id": "3832f446-0b7c-43d8-98a1-5cf0fd70d476",
+    "submitted_by": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "summary": "Good session today with the RIDER 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Green Park",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-12T11:15:00+09:00"
+  },
+  {
+    "id": "cccb6e6c-e6df-4970-b471-f94cd943c23f",
+    "lesson_id": "827bb511-ed4f-40b5-a88b-f00289a2c543",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the CLUB BEG group. Challenging but fun.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Moguls"
+    ],
+    "created_at": "2026-03-12T12:15:00+09:00"
+  },
+  {
+    "id": "92bc0570-8d0b-4ff8-a6a4-8cdd0b64f98f",
+    "lesson_id": "a9277a93-fb18-4e97-b4a5-7cdcbd53076a",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Switch riding",
+      "Carving",
+      "Moguls"
+    ],
+    "created_at": "2026-03-13T11:00:00+09:00"
+  },
+  {
+    "id": "88c083be-18ce-4d68-b825-acb191b466ce",
+    "lesson_id": "b17db75d-e82a-4f99-8c38-a9c57b7647f9",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the CLUB 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Crystal Run",
+      "Green Park",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Pole planting",
+      "Snowplow",
+      "Short turns"
+    ],
+    "created_at": "2026-03-13T11:45:00+09:00"
+  },
+  {
+    "id": "f4233458-2aa7-4679-bef3-54cad6b74992",
+    "lesson_id": "8229928a-9ed9-43f4-93bb-75f7bc87d2e5",
+    "submitted_by": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Forest Run",
+      "Pioneer",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Balance drills",
+      "Traversing",
+      "Short turns"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "1c3ef28f-4348-43de-903e-a5292306dd71",
+    "lesson_id": "3f3d6e96-3110-4be5-b152-a2940c395f49",
+    "submitted_by": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "summary": "Good session today with the RIDER group. Challenging but fun.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Stem turns",
+      "Snowplow",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-13T11:00:00+09:00"
+  },
+  {
+    "id": "a2a0e468-d5a8-43e6-94d8-d99ee4a670cc",
+    "lesson_id": "f0d0638d-ff25-497e-9d96-358e57afe998",
+    "submitted_by": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "summary": "Good session today with the PANDA group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Heel-side turns",
+      "Toe-side turns",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "665f427e-a4df-4012-8a41-49cd8bd85049",
+    "lesson_id": "014f397f-98c2-4977-9f7f-9bbbc2be105a",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the TRIDENT GOLD group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Carving"
+    ],
+    "created_at": "2026-03-13T11:15:00+09:00"
+  },
+  {
+    "id": "e6d837a3-825d-4bd7-b4ee-49107bbf2ae5",
+    "lesson_id": "c5e94970-adf5-4d64-9379-173e0e65059a",
+    "submitted_by": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "summary": "Good session today with the CLUB 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Blue Sky",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Snowplow turns",
+      "Snowplow",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-13T12:00:00+09:00"
+  },
+  {
+    "id": "69776f99-da35-4306-a712-3512220adf7d",
+    "lesson_id": "7363d335-f679-4113-86b6-9f675fd7cefe",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the CLUB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Rails",
+      "Traversing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "c719dd7a-53b7-4ce0-bf34-b130b01bdad3",
+    "lesson_id": "9c0f58c3-11ff-4d5c-a10c-5bdb7a93721b",
+    "submitted_by": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "summary": "Good session today with the CLUB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-13T12:15:00+09:00"
+  },
+  {
+    "id": "0554f6c9-5e3d-446d-b5e5-c8b04f8abe51",
+    "lesson_id": "93a679df-6870-4d6f-91aa-f58e2672bc1e",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the RIDER 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Green Park",
+      "Snow Garden",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-13T11:15:00+09:00"
+  },
+  {
+    "id": "f831f5e4-6244-4906-9ddd-6bb5ee01408a",
+    "lesson_id": "b35342d6-3945-4f89-b925-23b4b780c30b",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the DRAGON group. Everyone made progress.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Tower Quad",
+      "Green Park",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Heel-side turns",
+      "Jumps",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "d4c33e72-875a-40c4-b181-6b6ed6d1597a",
+    "lesson_id": "5e96fe8d-0810-43ff-a7f5-3935730ba4e4",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the TRIDENT BRONZE group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-13T11:15:00+09:00"
+  },
+  {
+    "id": "7309b0cd-1af9-4c72-b563-ea646d32503e",
+    "lesson_id": "e581b0a7-9611-4888-93ac-1c5f2bf10db5",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Crystal Run",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-13T13:00:00+09:00"
+  },
+  {
+    "id": "17b3f6ac-f53f-4f11-94fc-6ba9f62068a4",
+    "lesson_id": "c37abcc4-fc13-4973-a2f5-b29620f8e337",
+    "submitted_by": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "summary": "Good session today with the RIDER 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Silver Bell",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Heel-side turns",
+      "Switch riding",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-13T11:00:00+09:00"
+  },
+  {
+    "id": "957a264f-3665-40a0-a21b-3771c48079f5",
+    "lesson_id": "872c426c-1852-4ab7-a6d4-6a1438d172dd",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the CLUB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Forest Run",
+      "Silver Bell",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Jumps",
+      "Toe-side turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-13T11:45:00+09:00"
+  },
+  {
+    "id": "aa9cac0f-f3e8-445b-a953-7b8a8e52d0e9",
+    "lesson_id": "b7d31dee-89b6-482b-a51d-e928393ca5ea",
+    "submitted_by": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "summary": "Good session today with the SB 4 group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Silver Bell",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Stem turns",
+      "Carving",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-13T12:00:00+09:00"
+  },
+  {
+    "id": "c1fb753d-d01a-4f0c-8462-18e42d03f87d",
+    "lesson_id": "5d7fb825-1d58-487c-acb7-44cd8bc27ff0",
+    "submitted_by": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Roller Coaster",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-13T14:30:00+09:00"
+  },
+  {
+    "id": "471760c8-49d6-4386-ba08-3922431f84f5",
+    "lesson_id": "cac64c5d-1eee-4a82-8da6-45ff39eb1be0",
+    "submitted_by": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Powder skiing",
+      "Traversing"
+    ],
+    "created_at": "2026-03-13T12:30:00+09:00"
+  },
+  {
+    "id": "5aea3ffa-e12c-4d54-a5b2-8890935a7c25",
+    "lesson_id": "f31a2d6c-aaca-4d6e-a6c2-1fed3e676d91",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "83f0a989-c30c-492b-88de-fd5655ef4658",
+    "lesson_id": "5be88790-e33e-4ab4-95aa-398aa4302464",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the CLUB 6 group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Beginner Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Stem turns",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "59ef84ed-d363-4205-9abd-aabef057f87b",
+    "lesson_id": "b541f167-ea27-4b52-8e06-652804f0fd2e",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the TRIDENT 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Crystal Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Moguls",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "10932f4e-6882-4bec-8295-4afbfab451c3",
+    "lesson_id": "5136ac9f-4952-4e43-82fc-2adc993a7866",
+    "submitted_by": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "summary": "Good session today with the SB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Tower Quad",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Rails",
+      "Switch riding",
+      "Moguls"
+    ],
+    "created_at": "2026-03-13T12:15:00+09:00"
+  },
+  {
+    "id": "dfe70b4a-d956-45b6-bc83-461937a3d722",
+    "lesson_id": "a27d2ac7-3c6b-4c1a-a19f-1510a306908e",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the SB 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Snow Garden",
+      "Green Park",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Edge control",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-13T12:00:00+09:00"
+  },
+  {
+    "id": "ce6422b5-e934-4d4c-8ce8-e1ed6e3c1df2",
+    "lesson_id": "011ae416-9cd6-4e5e-ba06-7fee816b7560",
+    "submitted_by": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "summary": "Good session today with the TIGER group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Snowplow",
+      "Short turns",
+      "Jumps"
+    ],
+    "created_at": "2026-03-13T11:45:00+09:00"
+  },
+  {
+    "id": "ea10e7ff-ad8d-411f-ad53-f0604d3b11a0",
+    "lesson_id": "09f30972-8eff-42e4-8ec0-b68250bb1936",
+    "submitted_by": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Ningle Terrace",
+      "Forest Run",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Powder skiing",
+      "Moguls",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-13T14:00:00+09:00"
+  },
+  {
+    "id": "468c6cbe-1742-4706-adcb-0af34f5a8ff6",
+    "lesson_id": "a309bc0e-5701-4944-ada9-19b28543be4b",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the TRIDENT 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Powder skiing",
+      "Moguls",
+      "Jumps"
+    ],
+    "created_at": "2026-03-13T11:15:00+09:00"
+  },
+  {
+    "id": "027ee157-403e-44b0-987a-9432d72127c7",
+    "lesson_id": "792770d3-8954-4628-8331-a8319cee68c6",
+    "submitted_by": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "summary": "Good session today with the SB 1 group. Great conditions.",
+    "terrain_skied": [
+      "Green Park",
+      "Silver Bell",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Snowplow turns",
+      "Parallel turns",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-13T12:15:00+09:00"
+  },
+  {
+    "id": "6c7c71c6-8756-4d33-b335-1f4cd5c0c15a",
+    "lesson_id": "5db8f720-6e41-40f3-b68e-a1010706d281",
+    "submitted_by": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Green Park",
+      "Crystal Run",
+      "Blue Sky",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Balance drills",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-13T15:30:00+09:00"
+  },
+  {
+    "id": "9a042285-26c7-48a4-bbfc-14e9bba3619b",
+    "lesson_id": "b8904e36-f953-47bd-a10d-e633eb8f82c3",
+    "submitted_by": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Unkai Gondola Area",
+      "Pioneer",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Linking turns",
+      "Snowplow turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-13T12:30:00+09:00"
+  },
+  {
+    "id": "e58bf4f9-a2ce-485a-aca2-bae4a725f389",
+    "lesson_id": "86b890b4-6448-4980-b2ac-8ff746df874a",
+    "submitted_by": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "summary": "Good session today with the SB 2 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Roller Coaster",
+      "Tower Quad",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Carving"
+    ],
+    "created_at": "2026-03-13T12:00:00+09:00"
+  },
+  {
+    "id": "220867c9-f5ae-4f37-b233-0c42addfb897",
+    "lesson_id": "465763f6-e858-490d-a834-306dcf16a7a6",
+    "submitted_by": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "summary": "Good session today with the RIDER 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Rails",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-13T11:15:00+09:00"
+  },
+  {
+    "id": "364bea6e-41fe-4dac-b4f3-1ad2593f18f3",
+    "lesson_id": "57b0f9db-3d86-42ef-9cb1-35cb311fbf30",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the TRIDENT 1 group. Great conditions.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Beginner Area",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Stem turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-13T11:30:00+09:00"
+  },
+  {
+    "id": "93fe34e9-8f83-4146-b56a-3a6eb533dd7c",
+    "lesson_id": "768d7b67-28fd-4e82-8a77-464754c6de67",
+    "submitted_by": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Rails",
+      "Traversing",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-13T13:30:00+09:00"
+  },
+  {
+    "id": "6d8079ac-313e-4c87-ba65-e1676fa2d26d",
+    "lesson_id": "c774619f-1b55-4ef9-8869-7fb3e8c46e1a",
+    "submitted_by": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Ningle Terrace",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-14T16:30:00+09:00"
+  },
+  {
+    "id": "5ea292f0-61ac-472a-b0de-879fefcf4288",
+    "lesson_id": "b39dffd0-af3b-4af8-a296-351575040124",
+    "submitted_by": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "summary": "Good session today with the TRIDENT BRONZE group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Speed control",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-14T11:15:00+09:00"
+  },
+  {
+    "id": "52c06b48-82e0-4951-9fb4-08fcc9f1ef85",
+    "lesson_id": "11b2df86-658f-44fc-8732-795ccfca49bb",
+    "submitted_by": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "summary": "Good session today with the CLUB 1 group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Crystal Run",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-14T12:00:00+09:00"
+  },
+  {
+    "id": "efc3b9fc-36f5-4482-965a-c125aff129f1",
+    "lesson_id": "3056244e-6a56-4a8c-b0d7-879d9b931448",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the TIGER group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Snowplow",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-14T11:45:00+09:00"
+  },
+  {
+    "id": "61536f22-67ef-4dff-8050-47dbda93147b",
+    "lesson_id": "4a71b579-aad7-461b-8569-d9eece7a9e51",
+    "submitted_by": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "summary": "Good session today with the RIDER 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Snow Garden",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Short turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-14T11:15:00+09:00"
+  },
+  {
+    "id": "bdd061d7-1f56-48dc-b5a4-bde56f653ff5",
+    "lesson_id": "59269944-8644-484c-88af-00b231d932ff",
+    "submitted_by": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Crystal Run",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Heel-side turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "4a0cf091-ceeb-4299-a2f1-ef9c30b042ed",
+    "lesson_id": "6d6df540-4fd3-4547-a84f-98aa4c9cbd9c",
+    "submitted_by": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "summary": "Good session today with the SB 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Pioneer",
+      "Ningle Terrace",
+      "Silver Bell",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Powder skiing",
+      "Snowplow turns",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-14T12:15:00+09:00"
+  },
+  {
+    "id": "0d9a4f58-7dca-4d61-a086-d3b2349caacf",
+    "lesson_id": "a1c29972-4776-4190-9983-f4ba85d1e7e4",
+    "submitted_by": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "summary": "Good session today with the TRIDENT 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Pole planting",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "abaea695-8540-4c92-be2b-b6191c0d7178",
+    "lesson_id": "2ab9ac68-268b-4cf3-9b9f-31f72b6d449c",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Tower Quad",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Short turns"
+    ],
+    "created_at": "2026-03-14T12:00:00+09:00"
+  },
+  {
+    "id": "0b57c16a-c817-4eef-a4df-40ce7ba6c697",
+    "lesson_id": "603eee0d-a920-45cb-8267-9aa183628fdb",
+    "submitted_by": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "summary": "Good session today with the RIDER 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Crystal Run",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Balance drills",
+      "Jumps"
+    ],
+    "created_at": "2026-03-14T11:15:00+09:00"
+  },
+  {
+    "id": "3492508a-08f6-4311-bc34-52467f84f97f",
+    "lesson_id": "8745d627-dfab-43c4-b03d-7741e3dff86b",
+    "submitted_by": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "summary": "Good session today with the DRAGON group. Great conditions.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Unkai Gondola Area",
+      "Green Park",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Edge control",
+      "Snowplow",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "73bc4c4f-f5f0-4689-8395-37d754399def",
+    "lesson_id": "1a294568-f14e-421d-9dea-a41352912512",
+    "submitted_by": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "summary": "Good session today with the RIDER 1 group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Silver Bell",
+      "Green Park",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Moguls",
+      "Short turns"
+    ],
+    "created_at": "2026-03-14T11:00:00+09:00"
+  },
+  {
+    "id": "55f03aad-6cbb-4e33-8aff-18f1cc0ef6cd",
+    "lesson_id": "ac025567-0284-4c6a-b427-b003ac8a2501",
+    "submitted_by": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "summary": "Good session today with the CLUB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Rails"
+    ],
+    "created_at": "2026-03-14T11:45:00+09:00"
+  },
+  {
+    "id": "fb884b1a-0b37-4ca1-a298-5a517d72adc8",
+    "lesson_id": "ed30385b-c4e1-4428-895e-0d024075dfe3",
+    "submitted_by": "af91b692-af07-4e51-9a7e-7aee5c18bcd1",
+    "summary": "Good session today with the TRIDENT 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Parallel turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "18b9502f-2065-4cda-9f75-d69bf8d7ff67",
+    "lesson_id": "c5c72cf0-e4db-4242-9e55-95ed8fe03785",
+    "submitted_by": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "summary": "Good session today with the RIDER group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Tower Quad",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Switch riding",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-14T11:00:00+09:00"
+  },
+  {
+    "id": "30b7b726-3231-467a-9759-9ffc894da436",
+    "lesson_id": "a2bfe3f4-9446-4a21-bab7-3064141f898f",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the TRIDENT GOLD group. Everyone made progress.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Crystal Run",
+      "Pioneer",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Traversing",
+      "Moguls"
+    ],
+    "created_at": "2026-03-14T11:15:00+09:00"
+  },
+  {
+    "id": "335f1c84-724e-4070-98ae-f2a9cb04fb93",
+    "lesson_id": "081faca2-ec6a-4ccb-831e-7582265c6bdb",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the CLUB 4 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "360d0ed5-43e9-42c6-92f0-d26a5b5a4783",
+    "lesson_id": "e005e848-8ccc-408c-a0c9-efcd05ffb250",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the SB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Forest Run",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Toe-side turns",
+      "Moguls"
+    ],
+    "created_at": "2026-03-14T12:00:00+09:00"
+  },
+  {
+    "id": "6ab28a95-111e-42f6-a5fd-3afd1eb20d6b",
+    "lesson_id": "9462e153-0856-4173-b883-7feafc4a0464",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB BEG group. Great conditions.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Roller Coaster",
+      "Crystal Run",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-14T12:15:00+09:00"
+  },
+  {
+    "id": "2b1d7524-1626-4a4a-b763-ea8b6637fb75",
+    "lesson_id": "84f35118-a206-4cb7-96d3-2730dd51a294",
+    "submitted_by": "7cb9bc3a-57ee-4f55-afb2-28450d9b375f",
+    "summary": "Good session today with the CLUB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-14T12:15:00+09:00"
+  },
+  {
+    "id": "cf2a77b3-a269-4a48-b89c-cd341701f14b",
+    "lesson_id": "77f24118-657c-4bb8-b726-6db32dc6772c",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Linking turns",
+      "Snowplow turns",
+      "Speed control"
+    ],
+    "created_at": "2026-03-14T12:00:00+09:00"
+  },
+  {
+    "id": "3aab1214-765f-4de3-8ba8-1a535775c147",
+    "lesson_id": "234d72a1-593d-430b-b2bf-5baff9ba7907",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Beginner Area",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Sideslip",
+      "Traversing"
+    ],
+    "created_at": "2026-03-14T13:00:00+09:00"
+  },
+  {
+    "id": "a2a4727c-ae75-4d62-96b5-7a003b0222f1",
+    "lesson_id": "3dd8c0ed-0309-4773-b6aa-6af1cbfcade4",
+    "submitted_by": "00190938-0a1b-47f8-b289-90368b64b565",
+    "summary": "Good session today with the CLUB 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Moguls"
+    ],
+    "created_at": "2026-03-14T11:45:00+09:00"
+  },
+  {
+    "id": "419fd213-c66f-472f-9d0c-b321bc0ea8d8",
+    "lesson_id": "a2fa344f-0e50-4a47-999c-917e88b83da6",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB 4 group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Edge control",
+      "Carving"
+    ],
+    "created_at": "2026-03-14T12:00:00+09:00"
+  },
+  {
+    "id": "c4df99e3-16fe-4f18-b11e-185128735c41",
+    "lesson_id": "d7e5030a-e296-45ce-b8e4-bbaf99f2fbed",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the SB 2 group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Silver Bell",
+      "Tower Quad",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Snowplow turns",
+      "Parallel turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-14T12:00:00+09:00"
+  },
+  {
+    "id": "ca6c5221-608f-4937-9750-8bc5b7fd72e4",
+    "lesson_id": "9aab9fe0-cf0b-40fd-8f7b-03893f114271",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the CLUB 6 group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "43ce27d4-565c-4849-916b-e688d5629ef3",
+    "lesson_id": "b4b1b9fc-87dc-4461-a776-bfd822af8769",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the TRIDENT 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-14T11:15:00+09:00"
+  },
+  {
+    "id": "4f491b7e-2849-4a12-8098-9fc8c1e35621",
+    "lesson_id": "ff9aa7b9-f0ef-48cd-96c8-3ec78e8f270c",
+    "submitted_by": "00190938-0a1b-47f8-b289-90368b64b565",
+    "summary": "Good session today with the PANDA group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Switch riding",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "96627fb5-5ba6-4c3d-8981-8ba314a652b8",
+    "lesson_id": "267e9ca9-e343-40bd-a8e1-f0f42b6eacef",
+    "submitted_by": "a6af2530-7431-452e-986e-c0188342cc58",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Moguls",
+      "Short turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-14T11:30:00+09:00"
+  },
+  {
+    "id": "d8b3ee60-31f2-4cfd-b83b-be073053c9dd",
+    "lesson_id": "2efdf572-0b4b-4bb0-b173-50754d0c6060",
+    "submitted_by": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Carving"
+    ],
+    "created_at": "2026-03-14T13:30:00+09:00"
+  },
+  {
+    "id": "cfce9309-85bf-49c0-a69a-5fc1d3c28a4a",
+    "lesson_id": "1f112812-78af-4718-88da-1e85d969445d",
+    "submitted_by": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "summary": "Good session today with the PRIVATE SB group. Challenging but fun.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Short turns",
+      "Moguls"
+    ],
+    "created_at": "2026-03-15T15:00:00+09:00"
+  },
+  {
+    "id": "0f81413e-3357-4d34-b29f-0753d3a3d614",
+    "lesson_id": "7fb7421d-9a89-4415-8e90-dc51862c3f6a",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB 4 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Snowplow",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-15T12:00:00+09:00"
+  },
+  {
+    "id": "4de03295-de04-47c6-bf1c-5693bbdcdf3b",
+    "lesson_id": "a4b8854d-c8c9-439f-945e-2f2dc3e14fe0",
+    "submitted_by": "610303c8-3c7e-430f-8089-df13a3e341f7",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Snowplow turns",
+      "Stem turns",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-15T13:30:00+09:00"
+  },
+  {
+    "id": "6c025035-42b2-43e7-82d5-131e0ac98358",
+    "lesson_id": "c2ff4ee0-67d2-422c-95c0-6d3c501538f4",
+    "submitted_by": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Switch riding",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-15T10:30:00+09:00"
+  },
+  {
+    "id": "569778d8-2d1a-4107-a4bb-67a795bef756",
+    "lesson_id": "fd5dcc56-72c0-465b-88c3-307d7d6548c9",
+    "submitted_by": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "summary": "Good session today with the CLUB BEG group. Challenging but fun.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Switch riding",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-15T12:15:00+09:00"
+  },
+  {
+    "id": "cbaafa14-c15a-4757-a0a7-d6ccb404d883",
+    "lesson_id": "c4dd134c-c934-4cbc-b80b-6cc1c51065e8",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the PANDA group. Great conditions.",
+    "terrain_skied": [
+      "Pioneer",
+      "Snow Garden",
+      "Ningle Terrace",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Moguls",
+      "Snowplow",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "92055446-7263-4cfe-a6ac-817b5060393b",
+    "lesson_id": "7a4a9a0f-b77d-4406-bf8a-3cb19020aee9",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the CLUB 6 group. Challenging but fun.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Crystal Run",
+      "Blue Sky",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Moguls",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "ba68691a-ccb7-424d-8ca3-a52a487d0fe8",
+    "lesson_id": "d9c0a6ba-76c6-461b-aefc-4e4169f04849",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the DRAGON group. Challenging but fun.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Crystal Run",
+      "Ningle Terrace",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Linking turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "013193e2-65f8-46df-bbce-fd24b11ea3ab",
+    "lesson_id": "2dd846e2-653e-49e6-b97a-aa481fa82d76",
+    "submitted_by": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-15T11:00:00+09:00"
+  },
+  {
+    "id": "b1cb8fe1-d567-40bd-8aa0-b945f6ffad82",
+    "lesson_id": "d7e36565-a2e8-4815-a5cf-2b9576301985",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the CLUB 5 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Edge control",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "15eb7b65-8e78-4ce0-858d-1d6b6243984e",
+    "lesson_id": "3c280da6-453d-4c2f-b498-e2d645708bb8",
+    "submitted_by": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "summary": "Good session today with the CLUB 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Forest Run",
+      "Crystal Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Sideslip",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-15T12:00:00+09:00"
+  },
+  {
+    "id": "c3192502-606b-4b06-bba3-28aca626d196",
+    "lesson_id": "e7223899-4d52-427b-b1a3-d2bc90333908",
+    "submitted_by": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "summary": "Good session today with the CLUB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-15T11:45:00+09:00"
+  },
+  {
+    "id": "12eb323f-f90e-40be-9249-938273747be8",
+    "lesson_id": "8f484e83-2e35-412f-a67b-c51194561718",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the TIGER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Jumps",
+      "Snowplow turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-15T11:45:00+09:00"
+  },
+  {
+    "id": "fa570333-80c7-4496-910b-298949ff6543",
+    "lesson_id": "19d0846e-6921-4876-bbde-d7279bfde81d",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the CLUB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Edge control",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "7b435e0d-c91b-4933-a0f1-ad30f21e98c4",
+    "lesson_id": "3ce7faca-31a2-4260-a378-ba989b4a9423",
+    "submitted_by": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Pioneer",
+      "Blue Sky",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Moguls"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "16f9daef-878e-44c9-9b53-71b762ebbe1a",
+    "lesson_id": "ad106002-b545-4aa5-8262-81a71ba17360",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Balance drills",
+      "Parallel turns",
+      "Rails"
+    ],
+    "created_at": "2026-03-15T14:30:00+09:00"
+  },
+  {
+    "id": "a3a6e94e-f818-4709-9fad-3182bc0d4b70",
+    "lesson_id": "6247516e-aa3b-4b41-a66f-ced3678dc70e",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the RIDER 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-15T11:15:00+09:00"
+  },
+  {
+    "id": "756ecc6f-55ee-436a-8748-a0ff1b8969ef",
+    "lesson_id": "40ceaf6e-e103-4ff1-b24f-e3a804e71c5e",
+    "submitted_by": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "summary": "Good session today with the TRIDENT 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Snowplow",
+      "Heel-side turns",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "c2951392-66c8-4d25-9956-9f9d6767bc2d",
+    "lesson_id": "67830481-24b9-402f-bf5e-d485091514b4",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the CLUB 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Green Park",
+      "Blue Sky",
+      "Forest Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Heel-side turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-15T11:45:00+09:00"
+  },
+  {
+    "id": "69ffdd9d-0bb7-45a7-8902-63ad1181c2a4",
+    "lesson_id": "61201ac0-6409-407f-9a56-e1d8256dcff3",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the TRIDENT 3 group. Great conditions.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Pole planting",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-15T11:15:00+09:00"
+  },
+  {
+    "id": "e9ec937b-bc3b-41f9-bb9a-3c854802c076",
+    "lesson_id": "0986354f-bd97-4a81-af84-8dd42054be00",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the RIDER group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Snow Garden",
+      "Unkai Gondola Area",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Edge control"
+    ],
+    "created_at": "2026-03-15T11:00:00+09:00"
+  },
+  {
+    "id": "4ba154e8-fa85-4fd9-894f-ca573473dff6",
+    "lesson_id": "30e4646b-cf67-4a16-9ca3-a2e8ef09a906",
+    "submitted_by": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Tower Quad",
+      "Green Park",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Switch riding",
+      "Snowplow",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-15T12:00:00+09:00"
+  },
+  {
+    "id": "74bccd1f-7d95-461d-949c-e09339296d68",
+    "lesson_id": "f4d858f0-30c3-42ba-a21a-7dc6bc42f8ab",
+    "submitted_by": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "summary": "Good session today with the TRIDENT 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Powder skiing",
+      "Edge control",
+      "Traversing"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "c89dc42d-11fe-49cd-83e4-0daa1ad41f6f",
+    "lesson_id": "f8ab045c-c5c6-4764-97a3-69fb11e3e08e",
+    "submitted_by": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "summary": "Good session today with the SB 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Pioneer",
+      "Tower Quad",
+      "Unkai Gondola Area",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Traversing"
+    ],
+    "created_at": "2026-03-15T12:15:00+09:00"
+  },
+  {
+    "id": "5cb9d192-0ebd-4bae-a5de-08b522ed1018",
+    "lesson_id": "6cbf9748-9f80-467a-bb9c-9f538f57e132",
+    "submitted_by": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Pioneer",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow turns",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-15T14:00:00+09:00"
+  },
+  {
+    "id": "b14a8f3b-eb2e-4631-bb34-fd52ef7a17a5",
+    "lesson_id": "9dce23ae-a51d-41d0-b3ea-ffcc3624f0ba",
+    "submitted_by": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "summary": "Good session today with the SB 2 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Unkai Gondola Area",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Short turns",
+      "Rails",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-15T12:00:00+09:00"
+  },
+  {
+    "id": "863e420c-c817-4bdb-ac74-3a511cb72853",
+    "lesson_id": "8c3c7dcb-fc22-4667-b842-90f1c88c76df",
+    "submitted_by": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Pioneer",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-15T12:30:00+09:00"
+  },
+  {
+    "id": "e5781b2a-0ecc-4bcd-a82f-d603c8dbbb62",
+    "lesson_id": "7e268ff3-6ae8-44a8-8a5c-5ed42c59b614",
+    "submitted_by": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "summary": "Good session today with the SB 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Green Park",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Stem turns",
+      "Balance drills",
+      "Short turns"
+    ],
+    "created_at": "2026-03-15T12:00:00+09:00"
+  },
+  {
+    "id": "1d61fe20-ce02-497e-a31d-994682861163",
+    "lesson_id": "048d4240-1d29-4dd1-9965-d9718a6931ce",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the TRIDENT GOLD group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Snowplow",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-15T11:15:00+09:00"
+  },
+  {
+    "id": "ad1c1d5b-5a85-4dcc-bb84-6d2ce0658b22",
+    "lesson_id": "bec66b58-b832-4466-b031-8c99ab91d72b",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the RIDER 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Ningle Terrace",
+      "Pioneer",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Stem turns",
+      "Jumps",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-15T11:15:00+09:00"
+  },
+  {
+    "id": "0877836b-c9cb-4788-9a30-c5da4e5ba515",
+    "lesson_id": "af2d249c-702d-44c3-9deb-5993b4cea2dc",
+    "submitted_by": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "summary": "Good session today with the SB BEG group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Unkai Gondola Area",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Pole planting",
+      "Toe-side turns",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-15T12:15:00+09:00"
+  },
+  {
+    "id": "23187030-457d-4db4-9619-85899715c33d",
+    "lesson_id": "60bf95f7-5f73-49e4-8520-ed22d2f1d913",
+    "submitted_by": "a6af2530-7431-452e-986e-c0188342cc58",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Pioneer",
+      "Green Park",
+      "Unkai Gondola Area",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Pole planting",
+      "Parallel turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-15T11:30:00+09:00"
+  },
+  {
+    "id": "61cfc148-8cfd-48e8-8d58-b32a398c7117",
+    "lesson_id": "8779b5de-7526-4c11-a18b-c9a02d30d8a7",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the TRIDENT BRONZE group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Pioneer",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Linking turns",
+      "Balance drills",
+      "Traversing"
+    ],
+    "created_at": "2026-03-15T11:15:00+09:00"
+  },
+  {
+    "id": "38408ec6-aa89-4808-a935-24c1e3d890d7",
+    "lesson_id": "f1cecb38-78c5-4646-ba70-83d8b32d1529",
+    "submitted_by": "d687968b-ae69-4268-b031-55ba10d57207",
+    "summary": "Good session today with the RIDER 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Snow Garden",
+      "Blue Sky",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Carving"
+    ],
+    "created_at": "2026-03-15T11:00:00+09:00"
+  },
+  {
+    "id": "4d4a1b30-d6d4-40fa-a3c3-735196a2bb0d",
+    "lesson_id": "c3e71e02-0f92-4c5b-8e96-08e74d35e164",
+    "submitted_by": "fd79770c-2cc4-4127-8a64-ecb8dcd8c8a3",
+    "summary": "Good session today with the CLUB 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area",
+      "Blue Sky",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Heel-side turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-16T12:00:00+09:00"
+  },
+  {
+    "id": "43639062-5f5a-4540-a776-29f3ddcf891e",
+    "lesson_id": "e97e3648-674e-4dc5-9778-b5804e994efd",
+    "submitted_by": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-16T12:30:00+09:00"
+  },
+  {
+    "id": "4dce525c-576c-400e-8e9d-85c1ec59a1c6",
+    "lesson_id": "4f247cdf-b993-46e4-b189-ee07ddf319a6",
+    "submitted_by": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "summary": "Good session today with the SB 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Short turns",
+      "Rails"
+    ],
+    "created_at": "2026-03-16T12:15:00+09:00"
+  },
+  {
+    "id": "42794b1a-c12d-4261-a11e-2b0f7f205ba0",
+    "lesson_id": "d2c85ef6-314d-4874-9180-747f3aab183c",
+    "submitted_by": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Moguls",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-16T11:00:00+09:00"
+  },
+  {
+    "id": "1fafcd91-58f7-4819-ac63-9627b87b381d",
+    "lesson_id": "6097de59-c6cc-4d70-9e7d-1114d41c5d16",
+    "submitted_by": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Short turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-16T12:00:00+09:00"
+  },
+  {
+    "id": "00cc12e6-1e59-46a4-8d39-b708f422c5ae",
+    "lesson_id": "80d75809-c82e-4b75-861c-2edfbb38e836",
+    "submitted_by": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "summary": "Good session today with the RIDER 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Balance drills",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-16T11:15:00+09:00"
+  },
+  {
+    "id": "96a1665c-6ad8-4241-ab7e-790839f0bd95",
+    "lesson_id": "c183638b-e7bd-46ad-8d8a-3467497287c1",
+    "submitted_by": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "summary": "Good session today with the CLUB 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-16T11:45:00+09:00"
+  },
+  {
+    "id": "e55ad126-5d1a-485c-ae0c-07273e61e786",
+    "lesson_id": "3693472c-205b-4f08-9317-7460ed4547a9",
+    "submitted_by": "a6af2530-7431-452e-986e-c0188342cc58",
+    "summary": "Good session today with the CLUB 4 group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Silver Bell",
+      "Pioneer",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Carving",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "a6f3f2dc-9f9c-4456-af9f-8dad08df9734",
+    "lesson_id": "c2653f7a-eaf7-4880-a859-b1e464ff60ae",
+    "submitted_by": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-16T12:00:00+09:00"
+  },
+  {
+    "id": "894d1032-3202-471e-ae38-89284eaba5c1",
+    "lesson_id": "ba9aee84-b964-4bfc-bdb1-bd0ae36bb0b6",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the TRIDENT 1 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Tower Quad",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Short turns",
+      "Snowplow",
+      "Edge control"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "0f8f53d6-e57e-42ab-8ead-29ac99a8dd52",
+    "lesson_id": "ae51ccd2-23e1-4807-8bd2-442c9cba8f35",
+    "submitted_by": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Ningle Terrace",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-16T14:00:00+09:00"
+  },
+  {
+    "id": "1a5b4288-e46f-49de-8744-72720f6dcc86",
+    "lesson_id": "a7e5b315-7349-417e-9eef-28bfdedb3b60",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the TRIDENT GOLD group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Heel-side turns",
+      "Rails",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-16T11:15:00+09:00"
+  },
+  {
+    "id": "85922e6a-8c09-42a7-a627-5f0565f03d28",
+    "lesson_id": "4b6b7b25-a876-4a5b-8617-eaeda25cff0b",
+    "submitted_by": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "summary": "Good session today with the RIDER group. Great conditions.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Crystal Run",
+      "Forest Run",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-16T11:00:00+09:00"
+  },
+  {
+    "id": "0ceeafaa-cde9-4978-a678-14c4577bc0de",
+    "lesson_id": "b4dcdb7a-e735-4273-ba97-4a8ebaeb3f97",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Snow Garden",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Powder skiing",
+      "Sideslip",
+      "Short turns"
+    ],
+    "created_at": "2026-03-16T13:00:00+09:00"
+  },
+  {
+    "id": "ed92a5dc-c006-4b90-8fab-9eb8e7a681c2",
+    "lesson_id": "47e418e3-6e29-4a80-a704-264742b31f78",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Speed control",
+      "Snowplow turns",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "ae5bb599-5a1c-45ee-857d-98daf6015c77",
+    "lesson_id": "c4235173-3339-431a-bdc3-102e6c777cec",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Snow Garden",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Snowplow",
+      "Traversing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-16T12:00:00+09:00"
+  },
+  {
+    "id": "df02d8da-ebed-4fdf-be80-9bb284cc4af9",
+    "lesson_id": "62d73952-da81-48fc-9b9b-70bc94a49d2b",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the CLUB 6 group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Moguls",
+      "Snowplow turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "49660b3f-10b4-4af7-ada9-73522b008efc",
+    "lesson_id": "6a3a45b8-00c4-47eb-86e9-5589f336861a",
+    "submitted_by": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "summary": "Good session today with the SB 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Green Park",
+      "Crystal Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Jumps"
+    ],
+    "created_at": "2026-03-16T12:00:00+09:00"
+  },
+  {
+    "id": "ac93e580-6740-4e90-92ab-39b52ac0dcc2",
+    "lesson_id": "d759bfe7-501e-4a19-9022-1f9d5f7131ea",
+    "submitted_by": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "summary": "Good session today with the RIDER 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Ningle Terrace",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Jumps",
+      "Traversing",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-16T11:00:00+09:00"
+  },
+  {
+    "id": "18997b44-a54a-4fb0-a729-f79131d0917b",
+    "lesson_id": "4e9e39af-e12c-43b2-9472-fc97b5ba3e19",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the TIGER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Pioneer",
+      "Green Park",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Edge control",
+      "Traversing"
+    ],
+    "created_at": "2026-03-16T11:45:00+09:00"
+  },
+  {
+    "id": "8dfe0569-e006-4e7c-8e37-464328e244f7",
+    "lesson_id": "bd8965d7-4d9f-4e9f-a41c-41274f336c83",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the TRIDENT 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Silver Bell",
+      "Blue Sky",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Snowplow",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "788961d3-6e0e-4bc4-bdfc-fce583427e97",
+    "lesson_id": "2d35d67e-6971-4250-b9e5-34da5f380b69",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the TRIDENT BRONZE group. Challenging but fun.",
+    "terrain_skied": [
+      "Green Park",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-16T11:15:00+09:00"
+  },
+  {
+    "id": "03bc038b-dfb6-4517-8dff-46498360f756",
+    "lesson_id": "507754a2-c6ac-4667-9ea6-db21b55f47d2",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the SB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Snow Garden",
+      "Pioneer",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-16T12:00:00+09:00"
+  },
+  {
+    "id": "47bf9c8d-646d-4e7a-8771-06ebc4e859f7",
+    "lesson_id": "31f68f5e-c576-4d1a-a5db-a2a3b686875f",
+    "submitted_by": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "summary": "Good session today with the CLUB BEG group. Challenging but fun.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-16T12:15:00+09:00"
+  },
+  {
+    "id": "6d2c5e89-03dd-4221-9fc3-3fc83367ec2f",
+    "lesson_id": "d2522a4d-f455-4805-98fe-d7442c01e806",
+    "submitted_by": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "summary": "Good session today with the CLUB 2 group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Beginner Area",
+      "Green Park",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Snowplow",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-16T11:45:00+09:00"
+  },
+  {
+    "id": "f6e3df91-da7f-4d0b-bc93-0cc0cec023fb",
+    "lesson_id": "68295221-3d36-4691-9de0-d5cfbfa01e00",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Unkai Gondola Area",
+      "Green Park",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Toe-side turns",
+      "Speed control",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-16T14:30:00+09:00"
+  },
+  {
+    "id": "88fddd3e-8279-4492-a762-02f05ca44f61",
+    "lesson_id": "d8dc92e4-7033-47ad-b62a-1b665a80fd8c",
+    "submitted_by": "4825a832-6d52-4287-a811-be9028359c59",
+    "summary": "Good session today with the DRAGON group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Stem turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "faca1446-b9e8-44d4-881a-1677200871a3",
+    "lesson_id": "1d6dab17-9af8-4653-8866-99d49ac01b04",
+    "submitted_by": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Tower Quad",
+      "Forest Run",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Toe-side turns",
+      "Edge control",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "045d5c75-6f28-4f62-b727-6f5164a947e9",
+    "lesson_id": "3672b4c1-6da4-45bb-88d2-3b9c254e7a1d",
+    "submitted_by": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "summary": "Good session today with the RIDER 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Forest Run",
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Switch riding",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-16T11:15:00+09:00"
+  },
+  {
+    "id": "38cab4f2-24ae-4616-887f-cc2a8fd7eaa4",
+    "lesson_id": "76b107a0-e044-4657-be95-6b4ac5ab440f",
+    "submitted_by": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "summary": "Good session today with the SB BEG group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-16T12:15:00+09:00"
+  },
+  {
+    "id": "dec832e2-d2cf-45b0-9a99-e57a584f16c2",
+    "lesson_id": "55ac24fb-781d-4eb5-8f58-b1f378ecb3ae",
+    "submitted_by": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "summary": "Good session today with the PANDA group. Challenging but fun.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Blue Sky",
+      "Tower Quad",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Parallel turns",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-16T11:30:00+09:00"
+  },
+  {
+    "id": "8ed23c37-eb7c-4f52-8e12-9e698e6d5c4b",
+    "lesson_id": "c02c3f7d-512b-4405-b896-ea8eb37030b8",
+    "submitted_by": "a6af2530-7431-452e-986e-c0188342cc58",
+    "summary": "Good session today with the TRIDENT 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Roller Coaster",
+      "Crystal Run",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-16T11:15:00+09:00"
+  },
+  {
+    "id": "c7753cbd-7117-4048-9da6-de6e9278a7ab",
+    "lesson_id": "5958e164-3d24-469e-92c3-8d31cbf42bdb",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Snow Garden",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Speed control",
+      "Snowplow turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-16T15:30:00+09:00"
+  },
+  {
+    "id": "c4a1d576-fb25-4ac1-93a9-d66a0b399606",
+    "lesson_id": "c515d50d-a39f-41fd-92ee-d9fa5f01b4d2",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Green Park",
+      "Snow Garden",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Heel-side turns",
+      "Toe-side turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-16T14:30:00+09:00"
+  },
+  {
+    "id": "e320d05c-b93c-4d75-8251-37f22bb2624d",
+    "lesson_id": "892469e6-c391-44af-8231-0d9103c5ac1e",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB BEG group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Edge control",
+      "Snowplow",
+      "Rails"
+    ],
+    "created_at": "2026-03-17T12:15:00+09:00"
+  },
+  {
+    "id": "b562ee2d-dd32-4025-9c2a-3492819e1438",
+    "lesson_id": "c5a9cd0a-a8f1-4b28-8bc1-f8431f723ac6",
+    "submitted_by": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "summary": "Good session today with the SB 1 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Rails",
+      "Traversing"
+    ],
+    "created_at": "2026-03-17T12:15:00+09:00"
+  },
+  {
+    "id": "3cd59481-cd42-458f-aad6-e945b47f6efd",
+    "lesson_id": "54777bde-140c-44bd-89d8-ee17bfdf2423",
+    "submitted_by": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "summary": "Good session today with the RIDER 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Unkai Gondola Area",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Carving",
+      "Pole planting",
+      "Short turns"
+    ],
+    "created_at": "2026-03-17T11:15:00+09:00"
+  },
+  {
+    "id": "dde14fc7-3214-49a9-9e39-f8893ac0191e",
+    "lesson_id": "0c6112bc-a425-479e-9c64-6f889e5d6487",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the TRIDENT 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Pioneer",
+      "Ningle Terrace",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "86cb24d1-79dd-44ce-b97e-fa9451328cfb",
+    "lesson_id": "d512db85-fcd3-4c46-b2e4-bda70d2d35d0",
+    "submitted_by": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "summary": "Good session today with the TIGER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Blue Sky",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Heel-side turns",
+      "Parallel turns",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-17T11:45:00+09:00"
+  },
+  {
+    "id": "48a64295-34f8-4898-8acf-84ecc22dfe7c",
+    "lesson_id": "0d465d22-a033-4457-8286-15613d8ac35e",
+    "submitted_by": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "summary": "Good session today with the SB 2 group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Pole planting",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-17T12:00:00+09:00"
+  },
+  {
+    "id": "759543da-06c6-4318-996a-557e93674f58",
+    "lesson_id": "6d3d6d4f-f041-495a-9bda-a9f523cf0c3e",
+    "submitted_by": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Rails",
+      "Moguls"
+    ],
+    "created_at": "2026-03-17T12:30:00+09:00"
+  },
+  {
+    "id": "f3e849c1-71e6-4aad-8252-8a5db63ea38d",
+    "lesson_id": "de8f096a-0bef-4590-b4dd-60942b0e812b",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Blue Sky",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Edge control"
+    ],
+    "created_at": "2026-03-17T12:00:00+09:00"
+  },
+  {
+    "id": "e4db794b-5d79-4c91-bb0f-2e8ef0b48e0f",
+    "lesson_id": "65893cc2-0c58-4a30-b230-2fd6b2432225",
+    "submitted_by": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "summary": "Good session today with the RIDER 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Ningle Terrace",
+      "Tower Quad",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow",
+      "Moguls",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-17T11:00:00+09:00"
+  },
+  {
+    "id": "c419eca0-7e6f-4e1c-9c86-328a4abe2c2a",
+    "lesson_id": "0e67e65c-f95f-42e7-8074-8ceede0294a0",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the RIDER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Carving"
+    ],
+    "created_at": "2026-03-17T11:00:00+09:00"
+  },
+  {
+    "id": "f4e7576b-1718-4c55-9304-10d8ff16f217",
+    "lesson_id": "22f52f8c-2850-42ce-95c3-1d546c920806",
+    "submitted_by": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "summary": "Good session today with the TRIDENT BRONZE group. Great conditions.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Unkai Gondola Area",
+      "Crystal Run",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Snowplow turns",
+      "Rails"
+    ],
+    "created_at": "2026-03-17T11:15:00+09:00"
+  },
+  {
+    "id": "aeb5ba4b-5eec-44e7-8973-79867b1ce857",
+    "lesson_id": "6e293471-9570-4e57-9902-e8088290a38e",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the SB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Crystal Run",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Linking turns",
+      "Heel-side turns",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-17T12:00:00+09:00"
+  },
+  {
+    "id": "cd2f770f-3749-4a5e-830a-03d647b361f5",
+    "lesson_id": "479ca00c-aa13-41a0-8737-834538121e3f",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the CLUB BEG group. Great conditions.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Green Park",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Parallel turns",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-17T12:15:00+09:00"
+  },
+  {
+    "id": "df86e39c-7dd7-4c4a-9ac7-637a3e64cb45",
+    "lesson_id": "4ce87b6a-aedb-46ed-b589-dbd26b0b0517",
+    "submitted_by": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "summary": "Good session today with the RIDER 3 group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Beginner Area",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Carving",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-17T11:15:00+09:00"
+  },
+  {
+    "id": "69322a31-f8a3-4fdf-9cde-d53c2df4c21e",
+    "lesson_id": "f20c9740-5a6f-433a-892f-b672d0f55d11",
+    "submitted_by": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Edge control",
+      "Switch riding",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-17T13:00:00+09:00"
+  },
+  {
+    "id": "4f9c552b-d7ab-40a1-a001-eb9407654540",
+    "lesson_id": "c3fcdef9-e91f-4bd8-a0d2-a16e5c52d527",
+    "submitted_by": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "summary": "Good session today with the CLUB 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Snowplow",
+      "Speed control",
+      "Traversing"
+    ],
+    "created_at": "2026-03-17T12:00:00+09:00"
+  },
+  {
+    "id": "b99b497b-e416-4d6e-baf6-22d3382274e9",
+    "lesson_id": "970ff129-1cfe-4d42-9128-27cb492bc6fc",
+    "submitted_by": "af91b692-af07-4e51-9a7e-7aee5c18bcd1",
+    "summary": "Good session today with the CLUB 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Silver Bell",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-17T11:45:00+09:00"
+  },
+  {
+    "id": "a035254f-d1bc-48a0-9e66-d7b00b9521c9",
+    "lesson_id": "c2645de4-7f0f-43e0-8273-d2320850fd6a",
+    "submitted_by": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Roller Coaster",
+      "Snow Garden",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Snowplow",
+      "Snowplow turns",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-17T12:00:00+09:00"
+  },
+  {
+    "id": "22491b21-0379-4ba8-ba0a-afeab16a2236",
+    "lesson_id": "62defa7b-70a4-47d4-b2a1-181bd6b8abde",
+    "submitted_by": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Unkai Gondola Area",
+      "Snow Garden",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow",
+      "Switch riding",
+      "Rails"
+    ],
+    "created_at": "2026-03-17T15:00:00+09:00"
+  },
+  {
+    "id": "23453e5f-947f-4b23-8113-ec497de290b0",
+    "lesson_id": "2f5782b0-2c67-40eb-b3a0-ed061af2c4c6",
+    "submitted_by": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "summary": "Good session today with the PRIVATE SB group. Great conditions.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Roller Coaster",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Snowplow",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-17T11:00:00+09:00"
+  },
+  {
+    "id": "1cd4b5d9-1435-42ca-ade9-730a4fb40844",
+    "lesson_id": "27256362-0d9f-4cb9-be27-b2924421f6e9",
+    "submitted_by": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "summary": "Good session today with the TRIDENT 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-17T11:15:00+09:00"
+  },
+  {
+    "id": "079fc5f9-e6af-40bf-9fd3-3a680f6c062f",
+    "lesson_id": "9ad23ebc-9f63-47a0-ae57-7810714ef6bf",
+    "submitted_by": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Heel-side turns",
+      "Speed control"
+    ],
+    "created_at": "2026-03-17T13:30:00+09:00"
+  },
+  {
+    "id": "8c23b361-21c2-4d4c-a5ba-56d58b20fec4",
+    "lesson_id": "7f6fca3e-232c-4afe-b4de-5e66117afb09",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the TRIDENT GOLD group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Beginner Area",
+      "Silver Bell",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Parallel turns",
+      "Carving"
+    ],
+    "created_at": "2026-03-17T11:15:00+09:00"
+  },
+  {
+    "id": "8d0f3f5d-a057-4e56-8953-aba2750dff76",
+    "lesson_id": "ca6a5827-7dea-4469-b106-721c27539267",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the PANDA group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Ningle Terrace",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Snowplow turns",
+      "Snowplow",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "5c584615-08b9-4fde-bac1-21efd176fa8d",
+    "lesson_id": "fef441c5-9e99-4c66-a0b2-6d0201a6213d",
+    "submitted_by": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "summary": "Good session today with the CLUB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Ningle Terrace",
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-17T11:45:00+09:00"
+  },
+  {
+    "id": "53a7476b-2925-4b22-82e8-396cbf099f59",
+    "lesson_id": "c0c249a0-bbb4-43aa-b3e8-bd0bcc939381",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the TRIDENT 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Jumps",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "cecb5d82-35cb-4bf5-932e-eac3d6ef7c4e",
+    "lesson_id": "45bb1145-bfee-49f3-9398-c161c3e28ddf",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the CLUB 4 group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Roller Coaster",
+      "Silver Bell",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Parallel turns",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "2f177af6-6fbd-424e-9004-1065811f114a",
+    "lesson_id": "7386c5cb-1055-48bb-832a-493b521cfa30",
+    "submitted_by": "a6af2530-7431-452e-986e-c0188342cc58",
+    "summary": "Good session today with the CLUB 5 group. Great conditions.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "a5196221-fd72-457b-b92a-bd8034639cbf",
+    "lesson_id": "35edd1b3-f433-47f3-9847-adc46ce3cf0d",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Green Park",
+      "Forest Run",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Edge control",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "161bd5b9-deb4-4f6a-980c-9537dda96fdf",
+    "lesson_id": "020b63ea-fd9d-4247-bdfc-6a4a7de6b57e",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the CLUB 6 group. Everyone made progress.",
+    "terrain_skied": [
+      "Green Park",
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Edge control",
+      "Linking turns",
+      "Carving"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "7e6444ff-61bd-479d-9be0-e6d9ce60e064",
+    "lesson_id": "9dca6856-395b-47d0-a268-845d6f3b5b6e",
+    "submitted_by": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "summary": "Good session today with the DRAGON group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-17T11:30:00+09:00"
+  },
+  {
+    "id": "8156b6e7-50c6-424a-b8fc-59ee652b08f0",
+    "lesson_id": "c8e14c0d-1846-4b3d-910c-f07b2bccb48a",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Forest Run",
+      "Ningle Terrace",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Traversing",
+      "Linking turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-17T13:30:00+09:00"
+  },
+  {
+    "id": "c3b5d309-3c09-4a62-b165-7bedd47cf0a7",
+    "lesson_id": "3c06e2be-b1ae-4beb-858e-74094a461a4b",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the DRAGON group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Forest Run",
+      "Crystal Run",
+      "Roller Coaster",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Moguls"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "c5c2ec84-de99-4600-8e42-8303e833974a",
+    "lesson_id": "d8d66542-5ffe-4b32-a610-26bff298ae8b",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the RIDER group. Great conditions.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Moguls"
+    ],
+    "created_at": "2026-03-18T11:00:00+09:00"
+  },
+  {
+    "id": "94f1b264-137b-4f4b-8f57-cc60b4aac55c",
+    "lesson_id": "161d88da-102a-4b9e-8385-6483b14e57a3",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the CLUB 6 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Jumps"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "dd87f709-0a17-4157-9c62-b38b38eb499b",
+    "lesson_id": "f07a40fb-b86b-4d7d-b306-da26c7fcf56e",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Tower Quad",
+      "Snow Garden",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Linking turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "b82a84c2-8c7e-4ec1-9846-e6a48b90a221",
+    "lesson_id": "8a342ef3-04d9-4f6b-9467-042624c46872",
+    "submitted_by": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "summary": "Good session today with the TRIDENT 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Unkai Gondola Area",
+      "Pioneer",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "ab63f15c-43dc-4a1d-bd6a-13116165dd4d",
+    "lesson_id": "61fe3a50-bcd3-4342-80f1-e6018806403f",
+    "submitted_by": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Linking turns",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-18T15:00:00+09:00"
+  },
+  {
+    "id": "f23ff333-39c1-4688-912c-4797f939e449",
+    "lesson_id": "56982e98-2de7-4f3b-9c2f-89bbf3dd53d0",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the TRIDENT BRONZE group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-18T11:15:00+09:00"
+  },
+  {
+    "id": "8fa23c3c-189b-44d7-b601-3b9dcd142967",
+    "lesson_id": "ef2eed35-50ce-4395-b3e8-22d4799e26db",
+    "submitted_by": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "summary": "Good session today with the SB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Snow Garden",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-18T12:00:00+09:00"
+  },
+  {
+    "id": "333382fc-5617-4488-a329-4c9c06a843dc",
+    "lesson_id": "eb083855-302e-490b-b5cc-2a0b417cdeec",
+    "submitted_by": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "summary": "Good session today with the CLUB 4 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Beginner Area",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Sideslip",
+      "Short turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "52a52779-7adc-4630-9b2d-04db872c85aa",
+    "lesson_id": "15dd53a2-d0d9-4466-924c-ef562ff3a5c9",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the CLUB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Blue Sky",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Snowplow",
+      "Jumps",
+      "Rails"
+    ],
+    "created_at": "2026-03-18T11:45:00+09:00"
+  },
+  {
+    "id": "b5604ec3-a9c2-49bd-a693-ad0d759b4c55",
+    "lesson_id": "9937e3d9-dc8e-4be3-9545-f783209b35e7",
+    "submitted_by": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "summary": "Good session today with the RIDER 2 group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Green Park",
+      "Snow Garden",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Snowplow turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-18T11:15:00+09:00"
+  },
+  {
+    "id": "1b68e0c0-38f8-4002-b35b-9bc1eb9c33a2",
+    "lesson_id": "c721a1d5-061f-472f-a3be-7f48665080c5",
+    "submitted_by": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "summary": "Good session today with the TRIDENT 3 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Forest Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow turns",
+      "Carving",
+      "Pole planting",
+      "Moguls"
+    ],
+    "created_at": "2026-03-18T11:15:00+09:00"
+  },
+  {
+    "id": "be40d2b0-9b41-4d2b-93a6-e07a745d8fb6",
+    "lesson_id": "9459faac-0567-4912-81cc-dcab1630861c",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the RIDER 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Tower Quad",
+      "Roller Coaster",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Snowplow turns",
+      "Jumps",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-18T11:15:00+09:00"
+  },
+  {
+    "id": "47eaa21e-6620-4879-8f0b-440111597f62",
+    "lesson_id": "c6816050-bb3a-416f-95a3-8f3b829f2691",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the TRIDENT GOLD group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Crystal Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Linking turns",
+      "Balance drills",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-18T11:15:00+09:00"
+  },
+  {
+    "id": "901390eb-0100-4556-aab3-eb37ab8a7f08",
+    "lesson_id": "612525d2-5499-4931-916f-2898af4625f4",
+    "submitted_by": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "summary": "Good session today with the SB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Green Park",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Snowplow turns",
+      "Rails",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-18T12:00:00+09:00"
+  },
+  {
+    "id": "3bff3242-7d14-40f5-9f24-c0bbe85f752e",
+    "lesson_id": "f72a85fb-6bce-4a3d-93c7-b2f73a3362c1",
+    "submitted_by": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "summary": "Good session today with the SB 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Pioneer",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Edge control"
+    ],
+    "created_at": "2026-03-18T12:15:00+09:00"
+  },
+  {
+    "id": "fad51342-daf7-4875-b01c-8cce67ef7d0e",
+    "lesson_id": "b49a1301-7aa0-409d-9851-dcef7d93f6d3",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-18T14:30:00+09:00"
+  },
+  {
+    "id": "67d47c28-7be7-4c9b-aeed-9174d06f7905",
+    "lesson_id": "1bbe3b7a-75ae-4722-ad33-927a0915eacc",
+    "submitted_by": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "summary": "Good session today with the CLUB 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Toe-side turns",
+      "Heel-side turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-18T11:45:00+09:00"
+  },
+  {
+    "id": "31661a0b-2ac5-4f9d-8a96-dd67e9c7b578",
+    "lesson_id": "a0e72b06-e6ea-4c54-96d6-b7c9e95d0080",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the SB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Beginner Area",
+      "Crystal Run",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Rails",
+      "Switch riding",
+      "Short turns"
+    ],
+    "created_at": "2026-03-18T12:15:00+09:00"
+  },
+  {
+    "id": "2672c3b3-a5db-4735-9bc6-37abe37a1acb",
+    "lesson_id": "b03cea2d-b085-4407-88b3-bfef30376faf",
+    "submitted_by": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "summary": "Good session today with the CLUB 1 group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Green Park",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Stem turns",
+      "Rails",
+      "Balance drills"
+    ],
+    "created_at": "2026-03-18T12:00:00+09:00"
+  },
+  {
+    "id": "f1472519-a871-4d44-9ce7-d8c6365107d8",
+    "lesson_id": "a0145ea5-c4e5-4014-9a29-f063c6909ca3",
+    "submitted_by": "d687968b-ae69-4268-b031-55ba10d57207",
+    "summary": "Good session today with the SB 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Heel-side turns",
+      "Parallel turns",
+      "Rails"
+    ],
+    "created_at": "2026-03-18T12:00:00+09:00"
+  },
+  {
+    "id": "e2d3fa06-e07e-4f50-9e12-c6dfb83efd67",
+    "lesson_id": "f1ccba23-a492-4e54-990e-514b853acd09",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-18T14:00:00+09:00"
+  },
+  {
+    "id": "78325929-f272-4356-a61a-76cb696c7803",
+    "lesson_id": "b8eb61e8-1795-4762-a593-e5d6d480181c",
+    "submitted_by": "fd79770c-2cc4-4127-8a64-ecb8dcd8c8a3",
+    "summary": "Good session today with the CLUB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Parallel turns",
+      "Rails"
+    ],
+    "created_at": "2026-03-18T12:15:00+09:00"
+  },
+  {
+    "id": "d2400ca8-4c3d-428f-a9e8-c27a8a1ec336",
+    "lesson_id": "5bc4beeb-27d2-42aa-b923-056be06e0451",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Edge control",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-18T15:00:00+09:00"
+  },
+  {
+    "id": "29a09adf-6feb-480b-889c-b69a377af1a3",
+    "lesson_id": "c1f96563-1fc3-454f-87a8-cbafd556015a",
+    "submitted_by": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "summary": "Good session today with the RIDER 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Snow Garden",
+      "Tower Quad",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Stem turns",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-18T11:00:00+09:00"
+  },
+  {
+    "id": "ed62b4bd-c459-491e-82a8-5197b117c52d",
+    "lesson_id": "d69866fe-19c0-4bfd-b3a8-ed27a84487cc",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the TRIDENT 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Ningle Terrace",
+      "Unkai Gondola Area",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "e6a72810-6fdd-4fb8-af6d-4cc858e5018c",
+    "lesson_id": "add3bf26-15bf-4bf9-b26b-ba387b73fa3c",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Edge control"
+    ],
+    "created_at": "2026-03-18T14:30:00+09:00"
+  },
+  {
+    "id": "68fa276c-dbcf-4cb0-8d63-6d3130cccca5",
+    "lesson_id": "bc27c447-78c7-4d67-87a4-74afac2172df",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the PANDA group. Great conditions.",
+    "terrain_skied": [
+      "Forest Run",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Heel-side turns",
+      "Jumps",
+      "Short turns"
+    ],
+    "created_at": "2026-03-18T11:30:00+09:00"
+  },
+  {
+    "id": "598a8d1d-d8ed-45ab-b609-31bb0791d232",
+    "lesson_id": "c98865cb-4a6a-4537-ae4a-d1c509e4bd36",
+    "submitted_by": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "summary": "Good session today with the TIGER group. Challenging but fun.",
+    "terrain_skied": [
+      "Snow Garden",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Balance drills",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-18T11:45:00+09:00"
+  },
+  {
+    "id": "b90d6fcb-93a4-40db-8804-a3f607f93c37",
+    "lesson_id": "097bd6ad-9566-4068-9dab-db62f2995df5",
+    "submitted_by": "00190938-0a1b-47f8-b289-90368b64b565",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Linking turns",
+      "Balance drills",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-18T14:00:00+09:00"
+  },
+  {
+    "id": "e639b0aa-1826-4c78-b41f-19d750084b68",
+    "lesson_id": "33346fca-4fd6-4e11-bc1d-c7c6ab3c5c90",
+    "submitted_by": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "summary": "Good session today with the CLUB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Forest Run",
+      "Green Park",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Traversing",
+      "Toe-side turns",
+      "Moguls",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-19T11:45:00+09:00"
+  },
+  {
+    "id": "c03c5c07-0797-4cb1-8d9a-beb82a3c955a",
+    "lesson_id": "7ceb67c6-c7ae-4a63-8807-65e0d6a85f6e",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the CLUB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Pioneer",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "88bfee0f-baaf-4427-bd04-b2df1f8a01f1",
+    "lesson_id": "e7bf5781-2853-43bd-8cf3-0644106d0ed9",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Parallel turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-19T15:30:00+09:00"
+  },
+  {
+    "id": "af5ba404-b4da-4bb4-ab73-7bd4012abb24",
+    "lesson_id": "6256d7d2-9487-45a9-a501-e209fafeb868",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the TRIDENT BRONZE group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Sideslip",
+      "Traversing"
+    ],
+    "created_at": "2026-03-19T11:15:00+09:00"
+  },
+  {
+    "id": "dfe01909-1679-4423-b1ae-407a8e024bff",
+    "lesson_id": "d2def88b-9d0f-4072-907e-f1955c3d448d",
+    "submitted_by": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "summary": "Good session today with the CLUB 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Heel-side turns",
+      "Parallel turns",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-19T12:00:00+09:00"
+  },
+  {
+    "id": "2852f671-7bfd-4872-ad13-545458baa122",
+    "lesson_id": "ce4ecd6e-0910-4ef8-b59d-e6f7ee6dd5bc",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the TRIDENT GOLD group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Ningle Terrace"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Linking turns",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-19T11:15:00+09:00"
+  },
+  {
+    "id": "c7963857-9ac3-4ba5-b273-26f9321cd018",
+    "lesson_id": "64107d70-5547-41ff-9da8-e566f3099000",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Pioneer"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Powder skiing",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-19T15:30:00+09:00"
+  },
+  {
+    "id": "c4a0083c-08d1-43f7-a8fb-bf6c997336e1",
+    "lesson_id": "fd15cee1-8751-48b0-a206-afe14821756e",
+    "submitted_by": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "summary": "Good session today with the RIDER 1 group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Moguls",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-19T11:00:00+09:00"
+  },
+  {
+    "id": "13c15cdf-a199-4307-bb03-e0f746313de0",
+    "lesson_id": "32506e5c-76b0-423b-ab0a-b7680e011d67",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Ningle Terrace",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Snowplow",
+      "Toe-side turns"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "867fccba-1b19-4b24-9c9f-924af242728e",
+    "lesson_id": "902e4de9-06fe-41fe-8fa2-5047d82799c2",
+    "submitted_by": "00190938-0a1b-47f8-b289-90368b64b565",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run",
+      "Ningle Terrace",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Speed control",
+      "Stem turns"
+    ],
+    "created_at": "2026-03-19T15:30:00+09:00"
+  },
+  {
+    "id": "7aa3adfd-a280-48ef-ad0b-b21117eda846",
+    "lesson_id": "efe3ad96-1d4b-4824-9f9e-7ff0b36dece7",
+    "submitted_by": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "summary": "Good session today with the PRIVATE SKI group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Crystal Run",
+      "Silver Bell"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Powder skiing",
+      "Snowplow turns",
+      "Traversing"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "449771a3-7ed5-46b4-a95d-99ba7350e0ec",
+    "lesson_id": "f77ffa53-644b-45d1-b474-94c51771e158",
+    "submitted_by": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad",
+      "Roller Coaster",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Switch riding",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-19T12:00:00+09:00"
+  },
+  {
+    "id": "956ec611-fefc-4837-8477-8fdd74018d8a",
+    "lesson_id": "1e2d0548-6283-445a-b29b-9ca24f569aac",
+    "submitted_by": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "summary": "Good session today with the RIDER 2 group. Everyone made progress.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-19T11:15:00+09:00"
+  },
+  {
+    "id": "f314b101-1c7a-4ce3-b07f-2978bdd58c76",
+    "lesson_id": "d771c499-3297-4c21-8e27-88d1043538d4",
+    "submitted_by": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "summary": "Good session today with the SB 4 group. Challenging but fun.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Parallel turns",
+      "Sideslip",
+      "Edge control"
+    ],
+    "created_at": "2026-03-19T12:00:00+09:00"
+  },
+  {
+    "id": "ae3014d8-10ad-41ef-9acb-4b08d2d7264f",
+    "lesson_id": "64d3527e-4589-4ea0-bf98-2cccb0e2e9cd",
+    "submitted_by": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "summary": "Good session today with the DRAGON group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Edge control",
+      "Jumps",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "fa97772d-194b-4823-a8ca-911ff9dbe1ea",
+    "lesson_id": "b70e441e-908e-454b-b264-bc63b0a3f343",
+    "submitted_by": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "summary": "Good session today with the PANDA group. Everyone made progress.",
+    "terrain_skied": [
+      "Green Park",
+      "Forest Run",
+      "Tower Quad",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "fed67199-a63b-45cc-a7c5-da7bc2c0eb9b",
+    "lesson_id": "b382c596-dd19-413b-839a-84d456cdbc0d",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the SB 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Snow Garden",
+      "Silver Bell",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Pole planting",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-19T12:00:00+09:00"
+  },
+  {
+    "id": "c1f3bcc9-ec72-4eb8-b682-6b05aed8e2d9",
+    "lesson_id": "af1dfb07-92cb-43c7-ade2-1a1917c63c50",
+    "submitted_by": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "summary": "Good session today with the RIDER group. Challenging but fun.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Speed control"
+    ],
+    "created_at": "2026-03-19T11:00:00+09:00"
+  },
+  {
+    "id": "4f929e65-559a-4d39-8b0e-43965b2006c4",
+    "lesson_id": "dedef966-5abb-4208-a00b-7fc3e793ae24",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the RIDER 3 group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Moguls",
+      "Stem turns",
+      "Heel-side turns"
+    ],
+    "created_at": "2026-03-19T11:15:00+09:00"
+  },
+  {
+    "id": "f5d04787-dfaf-4e0b-a41a-2ab44aa2bf2b",
+    "lesson_id": "164111e0-b49f-48ea-9650-cd7df65d7506",
+    "submitted_by": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "summary": "Good session today with the SB 1 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Parallel turns"
+    ],
+    "created_at": "2026-03-19T12:15:00+09:00"
+  },
+  {
+    "id": "6076f509-cee7-4156-ba31-cb04313b7461",
+    "lesson_id": "df8c9c77-2b70-4f90-a091-65c6b3f2efb3",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the TIGER group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Silver Bell",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Pole planting",
+      "Stem turns",
+      "Jumps"
+    ],
+    "created_at": "2026-03-19T11:45:00+09:00"
+  },
+  {
+    "id": "6c674f83-16a8-4aa3-8dd6-d12471ded335",
+    "lesson_id": "292f8377-7fef-4204-8d07-c76272226b33",
+    "submitted_by": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "summary": "Good session today with the PRIVATE SB group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Unkai Gondola Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-19T14:30:00+09:00"
+  },
+  {
+    "id": "e745dd9e-47ee-4bad-8d35-7df0d84f56bf",
+    "lesson_id": "0038f010-9945-4f81-a63f-bfe5c1f6def1",
+    "submitted_by": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "summary": "Good session today with the SB 2 group. Great conditions.",
+    "terrain_skied": [
+      "Green Park",
+      "Unkai Gondola Area",
+      "Beginner Area",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Rails"
+    ],
+    "created_at": "2026-03-19T12:00:00+09:00"
+  },
+  {
+    "id": "ddac0b32-c2b7-419a-9727-4db532526104",
+    "lesson_id": "c4ab6b2a-3ba7-4513-8b61-a1b5d6b21097",
+    "submitted_by": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "summary": "Good session today with the TRIDENT 2 group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Tower Quad",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Pole planting",
+      "Rails",
+      "Traversing"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "24c86f2d-9f7f-40db-ac90-70b987b0c05e",
+    "lesson_id": "d173c6bf-45df-44dc-8166-f99afe20b085",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the TRIDENT 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Green Park",
+      "Beginner Area",
+      "Unkai Gondola Area",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Carving",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-19T11:15:00+09:00"
+  },
+  {
+    "id": "bae6af55-2d6a-469f-b72a-b2533959d7a4",
+    "lesson_id": "1951ad9d-6d84-4a44-86b1-128f7745020f",
+    "submitted_by": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "summary": "Good session today with the PRIVATE SKI group. Challenging but fun.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Heel-side turns",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-19T10:30:00+09:00"
+  },
+  {
+    "id": "61fcfdb3-e7ba-4c66-a7df-5d9bdad7a23a",
+    "lesson_id": "f4675318-5fc6-472c-bfbc-75f1cfbc969d",
+    "submitted_by": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Pioneer",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Edge control",
+      "Powder skiing",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "607fd21b-e77b-40dd-841d-5bfd74ad3840",
+    "lesson_id": "16657785-b0ce-475f-a483-3bb1c7b13ee1",
+    "submitted_by": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "summary": "Good session today with the SB BEG group. Great conditions.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Powder skiing"
+    ],
+    "created_at": "2026-03-19T12:15:00+09:00"
+  },
+  {
+    "id": "6bcb7b60-4d19-4705-ad03-df1b65bec52b",
+    "lesson_id": "d56438a8-acb2-48dd-b353-139db718faf8",
+    "submitted_by": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "summary": "Good session today with the PRIVATE SKI group. Great conditions.",
+    "terrain_skied": [
+      "Ningle Terrace",
+      "Silver Bell",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Switch riding",
+      "Linking turns"
+    ],
+    "created_at": "2026-03-19T12:30:00+09:00"
+  },
+  {
+    "id": "206de82c-3ee3-4d25-a294-cb89f563259d",
+    "lesson_id": "af409034-5a02-4153-96d6-64836f5badd6",
+    "submitted_by": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "summary": "Good session today with the CLUB BEG group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Blue Sky",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Snowplow"
+    ],
+    "created_at": "2026-03-19T12:15:00+09:00"
+  },
+  {
+    "id": "b6b7ce87-e793-4573-8b59-c5a45caca54e",
+    "lesson_id": "11286ec0-1edc-4759-96f9-c9d1b8ad62f5",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the TRIDENT 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Ningle Terrace",
+      "Pioneer",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Balance drills",
+      "Pole planting",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "e0a8d193-6af6-4ec4-be38-218e46d26fb7",
+    "lesson_id": "a533e302-080f-488a-8d48-428338ebdc5a",
+    "submitted_by": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "summary": "Good session today with the PRIVATE SKI group. Everyone made progress.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Toe-side turns",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-19T10:00:00+09:00"
+  },
+  {
+    "id": "85bef26f-a6f3-4d95-8e94-b240cd91f451",
+    "lesson_id": "fbb0b152-b674-43e0-87b4-e934f75ae368",
+    "submitted_by": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "summary": "Good session today with the CLUB 6 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Pioneer",
+      "Forest Run"
+    ],
+    "skills_worked_on": [
+      "Powder skiing",
+      "Switch riding"
+    ],
+    "created_at": "2026-03-19T11:30:00+09:00"
+  },
+  {
+    "id": "9728454f-dd9b-4e30-832b-fbe3b18b5b51",
+    "lesson_id": "e4ca1635-3f05-4a97-b86f-fc0f7879e548",
+    "submitted_by": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "summary": "Good session today with the CLUB 2 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Forest Run",
+      "Pioneer",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Switch riding",
+      "Short turns",
+      "Carving",
+      "Snowplow turns"
+    ],
+    "created_at": "2026-03-19T11:45:00+09:00"
+  },
+  {
+    "id": "98d09e95-b107-4a2b-b55e-07c5b1cbee4f",
+    "lesson_id": "6070a405-586b-4feb-bcc7-c1d0240699ac",
+    "submitted_by": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "summary": "Good session today with the TRIDENT BRONZE group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Unkai Gondola Area",
+      "Blue Sky"
+    ],
+    "skills_worked_on": [
+      "Balance drills",
+      "Heel-side turns",
+      "Short turns",
+      "Moguls"
+    ],
+    "created_at": "2026-03-20T11:15:00+09:00"
+  },
+  {
+    "id": "fb239fc9-8728-450b-bbbb-22ccb1b2b922",
+    "lesson_id": "704b379c-45ce-4cb1-93c7-9a5378928593",
+    "submitted_by": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "summary": "Good session today with the SB 4 group. Great conditions.",
+    "terrain_skied": [
+      "Unkai Gondola Area",
+      "Ningle Terrace",
+      "Tower Quad"
+    ],
+    "skills_worked_on": [
+      "Jumps",
+      "Balance drills",
+      "Short turns"
+    ],
+    "created_at": "2026-03-20T12:00:00+09:00"
+  },
+  {
+    "id": "f459d0cf-8a06-46b9-9b04-f01aaa3e2a6d",
+    "lesson_id": "3a8d732a-3951-462f-930b-13d36ba2e61d",
+    "submitted_by": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "summary": "Good session today with the TRIDENT 1 group. Everyone made progress.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Unkai Gondola Area",
+      "Crystal Run",
+      "Roller Coaster"
+    ],
+    "skills_worked_on": [
+      "Stem turns",
+      "Switch riding",
+      "Carving"
+    ],
+    "created_at": "2026-03-20T11:30:00+09:00"
+  },
+  {
+    "id": "c1781883-8eb2-4252-afd5-8910288d4564",
+    "lesson_id": "878fe20e-d965-42b8-b040-de15813303a2",
+    "submitted_by": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "summary": "Good session today with the CLUB 3 group. Everyone made progress.",
+    "terrain_skied": [
+      "Beginner Area",
+      "Roller Coaster",
+      "Unkai Gondola Area"
+    ],
+    "skills_worked_on": [
+      "Snowplow",
+      "Stem turns",
+      "Jumps",
+      "Pole planting"
+    ],
+    "created_at": "2026-03-20T11:45:00+09:00"
+  },
+  {
+    "id": "33c6c5fe-f64b-4a17-bd45-c22fc60c861f",
+    "lesson_id": "9d96a1e0-6f73-407e-9e19-17fc1fb3f55e",
+    "submitted_by": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "summary": "Good session today with the RIDER group. Great conditions.",
+    "terrain_skied": [
+      "Silver Bell",
+      "Green Park"
+    ],
+    "skills_worked_on": [
+      "Toe-side turns",
+      "Moguls"
+    ],
+    "created_at": "2026-03-20T11:00:00+09:00"
+  },
+  {
+    "id": "f87afb76-470d-4deb-89cd-0d02fa12027e",
+    "lesson_id": "a07a0e1d-029d-44a4-8da6-9bcc72c3a46a",
+    "submitted_by": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "summary": "Good session today with the SB 3 group. Great conditions.",
+    "terrain_skied": [
+      "Tower Quad",
+      "Unkai Gondola Area",
+      "Roller Coaster",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Short turns",
+      "Moguls",
+      "Speed control",
+      "Edge control"
+    ],
+    "created_at": "2026-03-20T12:00:00+09:00"
+  },
+  {
+    "id": "7ef3cde2-e132-4d4b-92d6-ed084f7d56b7",
+    "lesson_id": "8f158f25-d9df-4d40-849e-f9655ced56fd",
+    "submitted_by": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "summary": "Good session today with the RIDER 3 group. Solid improvement across the board.",
+    "terrain_skied": [
+      "Roller Coaster",
+      "Blue Sky",
+      "Forest Run",
+      "Crystal Run"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Toe-side turns",
+      "Speed control",
+      "Sideslip"
+    ],
+    "created_at": "2026-03-20T11:15:00+09:00"
+  },
+  {
+    "id": "567ac500-7073-46d8-b267-5bf305331289",
+    "lesson_id": "4ca5844f-53ed-4386-a726-0d594efb2419",
+    "submitted_by": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "summary": "Good session today with the CLUB 6 group. Challenging but fun.",
+    "terrain_skied": [
+      "Forest Run",
+      "Green Park",
+      "Tower Quad",
+      "Snow Garden"
+    ],
+    "skills_worked_on": [
+      "Parallel turns",
+      "Moguls"
+    ],
+    "created_at": "2026-03-20T11:30:00+09:00"
+  },
+  {
+    "id": "b6465fdd-ea77-4a37-ae20-ab07e535c0e3",
+    "lesson_id": "e06a426a-2feb-4391-99ce-09bb52c8d256",
+    "submitted_by": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "summary": "Good session today with the CLUB 5 group. Challenging but fun.",
+    "terrain_skied": [
+      "Crystal Run",
+      "Beginner Area"
+    ],
+    "skills_worked_on": [
+      "Speed control",
+      "Carving"
+    ],
+    "created_at": "2026-03-20T11:30:00+09:00"
+  }
+]

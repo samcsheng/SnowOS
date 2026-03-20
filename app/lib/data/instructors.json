@@ -1,0 +1,514 @@
+[
+  {
+    "id": "bdf352fd-42b3-4e67-b357-8a051e6488c8",
+    "user_id": "dadd250b-7a08-45c5-9e9b-58665fa26691",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "90cef3fc-8224-41cd-b2ba-46bf11148d8a",
+    "user_id": "3695231f-77c4-4963-9ecc-29aa495ecbde",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "a7ad54a4-c12e-4ba0-a514-049f0c3ad2a3",
+    "user_id": "a20a5fac-7402-46ac-a4fb-33370b43ff23",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1efcd8f2-0fe4-46f7-b7f3-bb21b4227844",
+    "user_id": "99325da8-6d83-4b81-906d-2020a73dd2b9",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8e5bf38f-0402-4abb-b511-47d63198a25e",
+    "user_id": "55dc78ce-c725-4ee1-9169-21c60fe046aa",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "a7e48df8-a335-4777-9821-0367ac5ee063",
+    "user_id": "736a5593-4a6a-4692-96de-be5fd4431c46",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1e1387f9-bd13-4839-b500-919fc8ca68de",
+    "user_id": "cf304e9b-152a-42a0-99f8-c6dd78f781ac",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4b13c105-181e-4270-ad7b-5a3a0804cd75",
+    "user_id": "46bf3c4c-3b73-4f9d-a920-3e3a5ea58e8c",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "c4808eb4-d9e8-4f44-9cc3-bdb848520910",
+    "user_id": "8de0223d-f0ce-4194-a4b9-e2b5f949045b",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "5f4da5b9-3f25-44cd-a29c-22466dac315a",
+    "user_id": "11bde5ab-27cf-4bf8-a6f4-c9f4795dc0b9",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7f4f646d-7ea2-4ed0-97e9-0cfeecc84827",
+    "user_id": "1dd1e943-227b-4a89-83f9-9c5f018d8d46",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "84d9e021-9b40-4e59-a4e5-ac1373ba9680",
+    "user_id": "71eec557-f713-4df5-abdf-fce49afde711",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4a2d9340-051f-4c7b-8622-bb34007e933d",
+    "user_id": "a49fa70a-2b42-4159-9503-edc824f98133",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1b644be9-404f-4a33-8676-14864e1e46ad",
+    "user_id": "6969d824-796b-453a-af39-480477f06437",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "49752c2e-9f04-4495-88b6-822a3e05534c",
+    "user_id": "5d69e15f-6708-42a9-aee3-6f82bcfbe778",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "b6cffcc3-e0e9-4ee1-a8a2-6b7af8c64be3",
+    "user_id": "c618c3ef-72d5-49fe-a2fc-2de79616f971",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "38d420e9-71c0-45d9-8ef6-cd05d8839afa",
+    "user_id": "2fc463e9-183a-4dbf-9c9d-d2fb54924cf5",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "af91b692-af07-4e51-9a7e-7aee5c18bcd1",
+    "user_id": "9f8c271a-9393-4e26-be3b-d74409e22b8a",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "a6af2530-7431-452e-986e-c0188342cc58",
+    "user_id": "355f01f9-fe5b-4b17-9ef9-35d2364d42fe",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "55a9e07e-46bf-4922-b320-45085d7f1bdf",
+    "user_id": "7d00406b-dd43-451f-aa34-4b150c0338b2",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "414ab521-788d-4ea2-a899-18d2c5a129fc",
+    "user_id": "f0dd99d6-440e-4041-8968-8956b5e7913e",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3ba8f40d-ae17-493c-863a-3f49d1f5d328",
+    "user_id": "5afec830-c109-45d7-adcc-c4f4ddd98ce3",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7cb9bc3a-57ee-4f55-afb2-28450d9b375f",
+    "user_id": "d5644188-0b47-4a23-89f6-2336729d3150",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "d61a16a4-abea-493c-9d5e-9e467a72e283",
+    "user_id": "cc375d44-185e-4a30-a2e3-650f043807a4",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "0e7909a8-2ab6-473b-832d-8ea0f229d493",
+    "user_id": "17db1002-37ef-47cc-a1cb-85e461722bea",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "a2b6e9c5-f669-48aa-9e23-193e97b70b9d",
+    "user_id": "9ab6a88f-2cba-4b8c-8d26-09ba2b06fb08",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "610303c8-3c7e-430f-8089-df13a3e341f7",
+    "user_id": "9c675a67-830c-4c23-975f-ad6b9e4324f1",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "42578dc8-d03a-4bac-93dc-6c668d34e19b",
+    "user_id": "91204b9d-452b-49db-9793-cab478d3cfe3",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "638ed2eb-39ac-4451-9de5-873b78512b7a",
+    "user_id": "150bf1ee-cf27-4415-a9e6-2090cbb35866",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8d58e0ac-5e17-42c0-b8c5-d57ce1ba72a5",
+    "user_id": "a5949a0d-b9c1-41d5-93e3-c329f3335b01",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "0e526ea5-9032-40a4-8a0c-c142c019a2a1",
+    "user_id": "004eb7dd-cd91-465f-a8c5-51ab7e51fdf2",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "f5055131-dfb3-4f16-b367-a356c66f5b2d",
+    "user_id": "a109d320-2f05-44ff-bd80-8cf65cba3362",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "00190938-0a1b-47f8-b289-90368b64b565",
+    "user_id": "0902d95d-9967-4777-8314-26a065fa42f2",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "483c137b-5a87-41ec-9051-5bdffd15b130",
+    "user_id": "94173add-e184-4c38-9c97-860fdfec3b95",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "d889e6fb-d7fa-487e-b638-d6d088cd74d7",
+    "user_id": "b2fb8bac-f3b6-4b02-a50f-eaf4cb84bd5a",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4825a832-6d52-4287-a811-be9028359c59",
+    "user_id": "eb5b2823-e697-40bd-928b-e3e7bb2c0068",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "f8bfa1e2-5a95-4dc9-8a03-a3758d5a02a9",
+    "user_id": "27a2da7c-6a72-4b98-afa6-9fe0062643e5",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "fd79770c-2cc4-4127-8a64-ecb8dcd8c8a3",
+    "user_id": "457138f8-030c-4db4-8504-32e9be33730f",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "75f8beb1-2df3-4c16-bbed-d0308bb6f690",
+    "user_id": "04a09286-7b7e-4e93-a9a3-fe3415881cdc",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 6,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4a850d17-8979-4e39-837c-6bbd8a287a7a",
+    "user_id": "99aec394-1fa1-495c-8458-eaa271259f9c",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "ski",
+    "max_teaching_level": 7,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "b502b6db-7bf2-4801-bc84-08557581d167",
+    "user_id": "1d994af2-08d2-4b0c-aaaa-f2a5795ba714",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "351109c0-0838-405e-9c66-3ceffd0193c7",
+    "user_id": "2bf94310-57e4-4750-9113-6cfe8188be7e",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3a2ad539-414c-40cc-bb63-4154b6e5fe5d",
+    "user_id": "2c3a254e-879a-4625-842b-0911ed0cc241",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "17a070f9-0bdc-4d5e-a1e0-15aeab238d92",
+    "user_id": "1096eaa5-3b1a-467a-9566-d1fdc4f2bc0a",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6e65fb6e-ebb4-42c5-a34a-452bace40fab",
+    "user_id": "b3b9f4c9-6bfe-4430-adc2-93b09ebe6e8c",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 2,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "fecff392-9b35-4f7d-9e8f-e04f7a8533a3",
+    "user_id": "0f7aba53-1036-437d-a87f-9c13c0955aca",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "79a15f82-ea49-4ba3-9e44-f0ee2d504403",
+    "user_id": "05348adb-3e97-44a1-9a8a-62ad4149751f",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2d241e6b-8f7b-40d0-b779-e46b5a5192f9",
+    "user_id": "7f6a517b-2d6a-4b6c-9e08-290bfb9ab261",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 2,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "d687968b-ae69-4268-b031-55ba10d57207",
+    "user_id": "67954f6c-6933-463f-8ab0-a0d2c50fdeb0",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "0d67c7fa-c061-49ad-9f70-70da75c80eb9",
+    "user_id": "6072319d-f125-4694-a3ed-4dd3aa6ffb9f",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4f4b3049-4329-4dae-91be-20ad603a6750",
+    "user_id": "b518bc4d-043e-4404-8b2e-91cd3bb374f9",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3ea883b4-f496-45c5-9f53-332dadc4484e",
+    "user_id": "227692a3-a8aa-460d-88d9-72e69fcee23a",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1a15538c-39f0-4501-a997-5ef4b5d0b8f5",
+    "user_id": "28a27ca6-4485-443f-a49b-ae92c288c5ac",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 2,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "92152a74-4fbc-4791-baaf-8d2886f6ec0f",
+    "user_id": "9fa2741e-6223-41ba-a25e-66eb26a6446a",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 2,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "690c18dc-8805-47ed-bab6-2f68493c24e0",
+    "user_id": "d42ea850-d7e0-44a4-bd50-3efcfedec5d6",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "ef2d7391-ebac-4624-8761-99b7c1b49fa7",
+    "user_id": "b7323203-a29d-4deb-a87c-de13ea188d53",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6b87a274-d748-4b46-86ba-3f375ecd7a1a",
+    "user_id": "a0a5a24b-0ae0-4ad7-80f4-8c99ce5b31a4",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 2,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1294ae1b-a9de-4d64-af27-2f8bf9dbe06c",
+    "user_id": "3bdd7660-aa84-4c23-b7db-186b833fe1f6",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6ad9d8cc-fb13-4a0e-9e88-faf7eeea257f",
+    "user_id": "49133292-c5c7-4703-ad7b-800b54025e04",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "a8e1d804-7be5-4abf-bb01-11e52aee255b",
+    "user_id": "2731e8eb-b9cb-4eb3-87ef-6d96a0a5d4da",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "9e4093fb-cca0-4cf4-b7f2-a31152b7093c",
+    "user_id": "9d706201-edbb-4334-9f0a-b1fb6623f016",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 4,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8deb1f7f-9bcd-416c-99cb-9cd47e56fa03",
+    "user_id": "ffd39e51-f9e2-4642-89ff-5b605c334cc2",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "ff2b52e4-2b45-45bf-99e4-145e4c983716",
+    "user_id": "e8a425ba-1aff-44ee-b866-994570c3a365",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 5,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7f00d53b-aacc-48e4-89f7-ae4fd1f2ee2f",
+    "user_id": "0b11f2ea-2c8f-4c23-988d-71e3752af162",
+    "resort_id": "5bb9d5ee-d058-4695-9e1a-3f8c1308e659",
+    "discipline": "snowboard",
+    "max_teaching_level": 3,
+    "created_at": "2026-01-01T00:00:00.000Z"
+  }
+]
