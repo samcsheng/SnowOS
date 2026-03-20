@@ -33,10 +33,10 @@ export default function RootLayout({
       lang="en"
       className={`${newsreader.variable} ${inter.variable} h-full antialiased`}
     >
-      <body className="h-full flex flex-col bg-[#F8F8F8]">
+      <body className="min-h-full flex flex-col bg-[#F8F8F8]">
         <DataProvider>
           <RoleSwitcher />
-          <main className="flex-1 min-h-0">{children}</main>
+          <main className="flex-1">{children}</main>
           <Toaster />
         </DataProvider>
       </body>

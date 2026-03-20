@@ -1,7 +1,6 @@
 'use client'
 
-import { useRef, useState, useEffect, useMemo, useCallback } from 'react'
-import { ChevronDown, ChevronUp } from 'lucide-react'
+import { useRef, useEffect, useMemo, useCallback } from 'react'
 
 // ── Constants ─────────────────────────────────────────────────────────
 
@@ -20,13 +19,14 @@ interface DayInfo {
   monthFull: string
 }
 
-interface CalendarPickerProps {
+export interface CalendarPickerProps {
   selectedDate: string
   onSelectDate: (date: string) => void
   lessonDates: Set<string>
   rangeStart: string
   rangeEnd: string
   today: string
+  expanded: boolean  // controlled by parent
 }
 
 // ── Grid builder ─────────────────────────────────────────────────────
@@ -79,15 +79,14 @@ export function CalendarPicker({
   rangeStart,
   rangeEnd,
   today,
+  expanded,
 }: CalendarPickerProps) {
-  const [expanded, setExpanded] = useState(false)
-
   const collapsedRef = useRef<HTMLDivElement>(null)
   const expandedRef = useRef<HTMLDivElement>(null)
   const overlayRef = useRef<HTMLDivElement>(null)
   const monthLabelRef = useRef<HTMLSpanElement>(null)
   const scrollEndTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  const isProg = useRef(false) // programmatic scroll guard
+  const isProg = useRef(false)
 
   const weeks = useMemo(() => buildWeeks(rangeStart, rangeEnd), [rangeStart, rangeEnd])
 
@@ -106,10 +105,10 @@ export function CalendarPicker({
     if (Math.abs(c.scrollLeft - target) < 2) return
     isProg.current = true
     c.scrollTo({ left: target, behavior: 'smooth' })
-    setTimeout(() => { isProg.current = false }, 450)
+    setTimeout(() => { isProg.current = false }, 400)
   }, [selectedDate, expanded, selectedWeekIdx])
 
-  // ── Sync scroll: expanded → selected week ──────────────────────────
+  // ── Sync scroll: expanded → selected week (on selectedDate change only) ──
 
   useEffect(() => {
     if (!expanded) return
@@ -119,31 +118,10 @@ export function CalendarPicker({
     if (Math.abs(c.scrollTop - target) < 2) return
     isProg.current = true
     c.scrollTo({ top: target, behavior: 'smooth' })
-    setTimeout(() => { isProg.current = false }, 450)
+    setTimeout(() => { isProg.current = false }, 400)
   }, [selectedDate, expanded, selectedWeekIdx])
 
-  // ── Collapsed scroll → update selected date ─────────────────────────
-
-  const handleCollapsedScroll = useCallback(() => {
-    if (isProg.current) return
-    if (scrollEndTimer.current) clearTimeout(scrollEndTimer.current)
-    scrollEndTimer.current = setTimeout(() => {
-      const c = collapsedRef.current
-      if (!c) return
-      const weekIdx = Math.round(c.scrollLeft / c.offsetWidth)
-      const week = weeks[weekIdx]
-      if (!week) return
-      // Try to keep same day-of-week
-      const dow = new Date(selectedDate + 'T00:00:00').getDay()
-      const dowIdx = dow === 0 ? 6 : dow - 1
-      const target = week[dowIdx]?.inRange ? week[dowIdx] : week.find(d => d.inRange)
-      if (target && target.date !== selectedDate) {
-        onSelectDate(target.date)
-      }
-    }, 120)
-  }, [weeks, selectedDate, onSelectDate])
-
-  // ── Expanded scroll → month overlay + update selected date ──────────
+  // ── Expanded scroll → month overlay only (no selection change) ──────
 
   const flatDays = useMemo(() => weeks.flat(), [weeks])
 
@@ -151,147 +129,123 @@ export function CalendarPicker({
     const c = expandedRef.current
     if (!c) return
 
-    // Imperatively update the overlay (no React state → no re-render during scroll)
+    // Imperatively update overlay — zero re-renders during scroll
     const weekIdx = Math.round(c.scrollTop / ROW_HEIGHT)
     const midIdx = Math.min(weekIdx * 7 + 3, flatDays.length - 1)
     const label = flatDays[midIdx]?.monthFull ?? ''
 
-    if (overlayRef.current) {
-      overlayRef.current.style.opacity = '1'
-    }
-    if (monthLabelRef.current) {
-      monthLabelRef.current.textContent = label
-    }
+    if (overlayRef.current) overlayRef.current.style.opacity = '1'
+    if (monthLabelRef.current) monthLabelRef.current.textContent = label
 
     if (scrollEndTimer.current) clearTimeout(scrollEndTimer.current)
     scrollEndTimer.current = setTimeout(() => {
-      // Hide overlay
       if (overlayRef.current) overlayRef.current.style.opacity = '0'
-
-      if (isProg.current) return
-
-      // Update selectedDate to the snapped week
-      const snappedIdx = Math.round(c.scrollTop / ROW_HEIGHT)
-      const week = weeks[snappedIdx]
-      if (!week) return
-      const dow = new Date(selectedDate + 'T00:00:00').getDay()
-      const dowIdx = dow === 0 ? 6 : dow - 1
-      const target = week[dowIdx]?.inRange ? week[dowIdx] : week.find(d => d.inRange)
-      if (target && target.date !== selectedDate) {
-        onSelectDate(target.date)
-      }
-    }, 160)
-  }, [weeks, flatDays, selectedDate, onSelectDate])
-
-  // ── Toggle: reset scroll on expand ─────────────────────────────────
-
-  const handleToggle = useCallback(() => {
-    setExpanded(e => !e)
-  }, [])
+      // Note: scrolling the picker does NOT change selectedDate.
+      // Only tapping a DayCell changes selection.
+    }, 180)
+  }, [flatDays])
 
   // ── Render ──────────────────────────────────────────────────────────
 
   return (
     <div className="select-none">
-      {/* DOW header row + toggle */}
-      <div className="flex items-center mb-0.5">
-        <div className="flex flex-1">
-          {DOW_LABELS.map(dow => (
+      {/* DOW header — full width, perfectly aligned with date columns */}
+      <div className="flex mb-0.5">
+        {DOW_LABELS.map(dow => (
+          <div
+            key={dow}
+            className="flex-1 text-center text-[10px] font-bold text-[#999999] py-1 tracking-widest uppercase"
+          >
+            {dow}
+          </div>
+        ))}
+      </div>
+
+      {/* Scrollable date grid — height animates on expand/collapse */}
+      <div
+        className="relative overflow-hidden"
+        style={{
+          height: expanded ? ROW_HEIGHT * VISIBLE_ROWS : ROW_HEIGHT,
+          transition: 'height 280ms cubic-bezier(0.25, 1, 0.5, 1)',
+        }}
+      >
+        {/* ── Collapsed: single week, horizontal scroll ── */}
+        <div
+          ref={collapsedRef}
+          className="cal-scroll flex h-full overflow-x-auto absolute inset-0"
+          style={{
+            scrollSnapType: 'x mandatory',
+            scrollbarWidth: 'none',
+            // Fade out when expanding, fade in when collapsing
+            opacity: expanded ? 0 : 1,
+            pointerEvents: expanded ? 'none' : 'auto',
+            transition: 'opacity 150ms ease',
+          }}
+        >
+          {weeks.map((week, wi) => (
             <div
-              key={dow}
-              className="flex-1 text-center text-[10px] font-bold text-[#999999] py-1 tracking-widest uppercase"
+              key={wi}
+              className="flex flex-none w-full"
+              style={{ scrollSnapAlign: 'start' }}
             >
-              {dow}
+              {week.map(day => (
+                <DayCell
+                  key={day.date}
+                  day={day}
+                  isSelected={day.date === selectedDate}
+                  isToday={day.date === today}
+                  hasLesson={lessonDates.has(day.date)}
+                  showMonthLabel={false}
+                  onClick={() => day.inRange && onSelectDate(day.date)}
+                />
+              ))}
             </div>
           ))}
         </div>
-        <button
-          onClick={handleToggle}
-          className="ml-2 p-1 rounded-full hover:bg-[#F0EFEE] transition-colors flex-none"
-          aria-label={expanded ? 'Collapse calendar' : 'Expand calendar'}
-        >
-          {expanded
-            ? <ChevronUp className="w-3.5 h-3.5 text-[#999999]" />
-            : <ChevronDown className="w-3.5 h-3.5 text-[#999999]" />}
-        </button>
-      </div>
-
-      {/* Scrollable date grid */}
-      <div
-        className="relative overflow-hidden"
-        style={{ height: expanded ? ROW_HEIGHT * VISIBLE_ROWS : ROW_HEIGHT }}
-      >
-        {/* ── Collapsed: single week, horizontal scroll ── */}
-        {!expanded && (
-          <div
-            ref={collapsedRef}
-            className="cal-scroll flex h-full overflow-x-auto"
-            style={{
-              scrollSnapType: 'x mandatory',
-              scrollbarWidth: 'none',
-            }}
-            onScroll={handleCollapsedScroll}
-          >
-            {weeks.map((week, wi) => (
-              <div
-                key={wi}
-                className="flex flex-none w-full"
-                style={{ scrollSnapAlign: 'start' }}
-              >
-                {week.map(day => (
-                  <DayCell
-                    key={day.date}
-                    day={day}
-                    isSelected={day.date === selectedDate}
-                    isToday={day.date === today}
-                    hasLesson={lessonDates.has(day.date)}
-                    showMonthLabel={false}
-                    onClick={() => day.inRange && onSelectDate(day.date)}
-                  />
-                ))}
-              </div>
-            ))}
-          </div>
-        )}
 
         {/* ── Expanded: 5 rows, vertical scroll ── */}
-        {expanded && (
-          <div
-            ref={expandedRef}
-            className="cal-scroll h-full overflow-y-auto"
-            style={{
-              scrollSnapType: 'y mandatory',
-              scrollbarWidth: 'none',
-            }}
-            onScroll={handleExpandedScroll}
-          >
-            {weeks.map((week, wi) => (
-              <div
-                key={wi}
-                className="flex flex-none"
-                style={{ height: ROW_HEIGHT, scrollSnapAlign: 'start' }}
-              >
-                {week.map(day => (
-                  <DayCell
-                    key={day.date}
-                    day={day}
-                    isSelected={day.date === selectedDate}
-                    isToday={day.date === today}
-                    hasLesson={lessonDates.has(day.date)}
-                    showMonthLabel={day.isFirstOfMonth}
-                    onClick={() => day.inRange && onSelectDate(day.date)}
-                  />
-                ))}
-              </div>
-            ))}
-          </div>
-        )}
+        <div
+          ref={expandedRef}
+          className="cal-scroll h-full overflow-y-auto absolute inset-0"
+          style={{
+            scrollSnapType: 'y mandatory',
+            scrollbarWidth: 'none',
+            opacity: expanded ? 1 : 0,
+            pointerEvents: expanded ? 'auto' : 'none',
+            transition: 'opacity 150ms ease 100ms',
+          }}
+          onScroll={handleExpandedScroll}
+        >
+          {weeks.map((week, wi) => (
+            <div
+              key={wi}
+              className="flex flex-none"
+              style={{ height: ROW_HEIGHT, scrollSnapAlign: 'start' }}
+            >
+              {week.map(day => (
+                <DayCell
+                  key={day.date}
+                  day={day}
+                  isSelected={day.date === selectedDate}
+                  isToday={day.date === today}
+                  hasLesson={lessonDates.has(day.date)}
+                  showMonthLabel={day.isFirstOfMonth}
+                  onClick={() => day.inRange && onSelectDate(day.date)}
+                />
+              ))}
+            </div>
+          ))}
+        </div>
 
         {/* ── Month overlay (visible while scrolling in expanded) ── */}
         <div
           ref={overlayRef}
-          className="absolute inset-0 pointer-events-none flex items-center justify-center z-10 transition-opacity duration-150"
-          style={{ opacity: 0, backgroundColor: 'rgba(255,255,255,0.88)' }}
+          className="absolute inset-0 pointer-events-none flex items-center justify-center z-10"
+          style={{
+            opacity: 0,
+            backgroundColor: 'rgba(255,255,255,0.9)',
+            transition: 'opacity 120ms ease',
+          }}
           aria-hidden="true"
         >
           <span
@@ -335,34 +289,42 @@ function DayCell({ day, isSelected, isToday, hasLesson, showMonthLabel, onClick 
 
   return (
     <button
-      className="flex-1 flex flex-col items-center justify-center relative focus:outline-none"
-      style={{ height: ROW_HEIGHT }}
+      className="flex-1 flex flex-col items-center justify-center relative focus:outline-none active:scale-95"
+      style={{
+        height: ROW_HEIGHT,
+        transition: 'transform 100ms ease',
+      }}
       onClick={onClick}
       disabled={!day.inRange}
       tabIndex={day.inRange ? 0 : -1}
     >
       {/* Month label — first of month in expanded view */}
       {showMonthLabel && (
-        <span
-          className="absolute top-1.5 left-0 right-0 text-center text-[8px] font-bold text-[#FDBE00] leading-none tracking-wide uppercase"
-        >
+        <span className="absolute top-1.5 left-0 right-0 text-center text-[8px] font-bold text-[#FDBE00] leading-none tracking-wide uppercase">
           {day.monthAbbr}
         </span>
       )}
 
-      {/* Date number with circular crop */}
+      {/* Date circle */}
       <div
-        className="w-8 h-8 flex items-center justify-center rounded-full text-[13px] font-semibold leading-none transition-colors duration-100"
-        style={{ backgroundColor: circleColor, color: numColor }}
+        className="w-8 h-8 flex items-center justify-center rounded-full text-[13px] font-semibold leading-none"
+        style={{
+          backgroundColor: circleColor,
+          color: numColor,
+          transition: 'background-color 180ms cubic-bezier(0.25, 1, 0.5, 1), color 180ms ease',
+        }}
       >
         {day.dayNum}
       </div>
 
-      {/* Lesson indicator (or spacer to keep alignment) */}
+      {/* Lesson indicator or alignment spacer */}
       {hasLesson && day.inRange ? (
         <div
           className="w-1 h-1 rounded-full mt-0.5"
-          style={{ backgroundColor: dotColor }}
+          style={{
+            backgroundColor: dotColor,
+            transition: 'background-color 180ms ease',
+          }}
         />
       ) : (
         <div className="w-1 h-1 mt-0.5" />
