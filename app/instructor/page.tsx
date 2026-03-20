@@ -308,13 +308,20 @@ export default function InstructorSchedulePage() {
             const isDayToday = date === TODAY
             const isSelected = date === selectedDate
             return (
-              <div key={date}>
+              {/* Ref lives on the NON-sticky wrapper. A sticky child's
+                  getBoundingClientRect() returns its *stuck* position when it
+                  is above the viewport, making the scroll target ≈ current
+                  scrollTop (no movement). The parent wrapper is never sticky,
+                  so its rect is always the natural flow position. */}
+              <div
+                key={date}
+                ref={el => {
+                  if (el) dayHeaderRefs.current.set(date, el)
+                  else dayHeaderRefs.current.delete(date)
+                }}
+              >
                 {/* Sticky day header — background matches page bg */}
                 <div
-                  ref={el => {
-                    if (el) dayHeaderRefs.current.set(date, el)
-                    else dayHeaderRefs.current.delete(date)
-                  }}
                   className="sticky top-0 z-10 pt-3 pb-2"
                   style={{ backgroundColor: '#F8F8F8' }}
                 >
