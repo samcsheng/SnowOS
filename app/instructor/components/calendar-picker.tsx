@@ -31,6 +31,15 @@ export interface CalendarPickerProps {
 
 // ── Grid builder ─────────────────────────────────────────────────────
 
+/** YYYY-MM-DD string from a local Date (avoids UTC .toISOString() off-by-one) */
+function toLocalDateStr(d: Date): string {
+  return [
+    d.getFullYear(),
+    String(d.getMonth() + 1).padStart(2, '0'),
+    String(d.getDate()).padStart(2, '0'),
+  ].join('-')
+}
+
 function buildWeeks(rangeStart: string, rangeEnd: string): DayInfo[][] {
   const start = new Date(rangeStart + 'T00:00:00')
   const end = new Date(rangeEnd + 'T00:00:00')
@@ -55,7 +64,7 @@ function buildWeeks(rangeStart: string, rangeEnd: string): DayInfo[][] {
     for (let i = 0; i < 7; i++) {
       const d = new Date(cursor)
       week.push({
-        date: d.toISOString().split('T')[0],
+        date: toLocalDateStr(d),         // local date, not UTC
         dayNum: d.getDate(),
         inRange: d >= start && d <= end,
         isFirstOfMonth: d.getDate() === 1,

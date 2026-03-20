@@ -37,7 +37,7 @@ export default function GuestProfilePage({ params }: { params: Promise<{ id: str
   const latestEntry = reportedHistory.length > 0 ? reportedHistory[reportedHistory.length - 1].entry : null
 
   return (
-    <div>
+    <div className="px-4 py-6">
       <div className="flex items-center gap-3 mb-6">
         <button
           onClick={() => router.back()}

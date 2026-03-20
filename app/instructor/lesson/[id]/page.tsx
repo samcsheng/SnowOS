@@ -90,7 +90,7 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
   }[lesson.status as LessonStatus]
 
   return (
-    <div>
+    <div className="px-4 py-6">
       {/* Header */}
       <div className="flex items-center gap-3 mb-6">
         <button

@@ -13,8 +13,12 @@ import { getToday, formatDate } from '@/app/lib/utils/date-helpers'
 const RANGE_START = '2025-11-01'
 const RANGE_END = '2026-05-15'
 const TODAY = getToday()
-// RoleSwitcher nav is h-14 = 56px
-const NAV_HEIGHT = 56
+const NAV_H = 56 // px — RoleSwitcher h-14
+
+// sessionStorage keys for preserving state across navigation
+const SS_DATE = 'snowos:instructor:selectedDate'
+const SS_SCROLL = 'snowos:instructor:scrollTop'
+const SS_EXPANDED = 'snowos:instructor:calendarExpanded'
 
 // ── Page ──────────────────────────────────────────────────────────────
 
@@ -27,35 +31,43 @@ export default function InstructorSchedulePage() {
     getTemplateForLesson,
   } = useData()
 
-  const [selectedDate, setSelectedDate] = useState(TODAY)
-  const [calendarExpanded, setCalendarExpanded] = useState(false)
+  // ── Persisted state (restored from sessionStorage on mount) ──────────
+
+  const [selectedDate, setSelectedDate] = useState<string>(() =>
+    (typeof window !== 'undefined' && sessionStorage.getItem(SS_DATE)) || TODAY
+  )
+  const [calendarExpanded, setCalendarExpanded] = useState<boolean>(() =>
+    typeof window !== 'undefined' && sessionStorage.getItem(SS_EXPANDED) === 'true'
+  )
+
+  // ── Refs ──────────────────────────────────────────────────────────────
 
   const listRef = useRef<HTMLDivElement>(null)
   const dayHeaderRefs = useRef<Map<string, HTMLElement>>(new Map())
-  // Prevents the useEffect from re-scrolling the list when the list itself drove
-  // the selectedDate change (avoids feedback loops)
+  // Set true when list scroll drives selectedDate change → skip counter-scroll
   const isListDriven = useRef(false)
-  // Prevents the list scroll handler from firing during programmatic list scroll
+  // Set true during programmatic list scroll → silence the scroll handler
   const isScrollingToDate = useRef(false)
   const rafRef = useRef<number | null>(null)
+  // Ensures initial snap runs exactly once per mount
+  const snapDoneRef = useRef(false)
+  // Ensures the selectedDate useEffect skips the very first render
+  const mountedRef = useRef(false)
 
-  // ── Data ───────────────────────────────────────────────────────────
+  // ── Data ──────────────────────────────────────────────────────────────
 
   const instructor = useMemo(
     () => state.instructors.find(i => i.user_id === state.currentUserId),
     [state.instructors, state.currentUserId]
   )
-
   const currentUser = useMemo(
     () => state.users.find(u => u.id === state.currentUserId),
     [state.users, state.currentUserId]
   )
-
   const allLessons = useMemo(
     () => (instructor ? getLessonsForInstructor(instructor.id) : []),
     [instructor, getLessonsForInstructor]
   )
-
   const lessonDates = useMemo(() => {
     const s = new Set<string>()
     for (const l of allLessons) s.add(l.start_time.substring(0, 10))
@@ -67,10 +79,7 @@ export default function InstructorSchedulePage() {
     return Array.from(lessonDates)
       .filter(d => d >= RANGE_START && d <= RANGE_END)
       .sort()
-      .map(date => ({
-        date,
-        lessons: getLessonsForInstructor(instructor.id, date),
-      }))
+      .map(date => ({ date, lessons: getLessonsForInstructor(instructor.id, date) }))
       .filter(d => d.lessons.length > 0)
   }, [lessonDates, instructor, getLessonsForInstructor])
 
@@ -78,46 +87,96 @@ export default function InstructorSchedulePage() {
     () => (instructor ? getLessonsForInstructor(instructor.id, selectedDate) : []),
     [instructor, selectedDate, getLessonsForInstructor]
   )
-
   const totalGuests = useMemo(
     () => selectedLessons.reduce((n, l) => n + getGuestsForLesson(l.id).length, 0),
     [selectedLessons, getGuestsForLesson]
   )
 
-  // ── Scroll list to a date ─────────────────────────────────────────
+  // ── Persist state ────────────────────────────────────────────────────
 
+  useEffect(() => { sessionStorage.setItem(SS_DATE, selectedDate) }, [selectedDate])
+  useEffect(() => { sessionStorage.setItem(SS_EXPANDED, String(calendarExpanded)) }, [calendarExpanded])
+  // Save scroll position when leaving the page
+  useEffect(() => () => {
+    const list = listRef.current
+    if (list) sessionStorage.setItem(SS_SCROLL, String(list.scrollTop))
+  }, [])
+
+  // ── Core scroll helper ───────────────────────────────────────────────
+
+  /** Scroll the lesson list so `date`'s header is at the top of the visible area */
   const scrollListToDate = useCallback((date: string, behavior: ScrollBehavior = 'smooth') => {
     const el = dayHeaderRefs.current.get(date)
     const list = listRef.current
     if (!el || !list) return
     const elRect = el.getBoundingClientRect()
     const listRect = list.getBoundingClientRect()
-    const targetScrollTop = list.scrollTop + (elRect.top - listRect.top)
-    isScrollingToDate.current = true
-    list.scrollTo({ top: targetScrollTop, behavior })
-    // Clear the guard after scroll completes
-    const clearDelay = behavior === 'instant' ? 50 : 600
-    setTimeout(() => { isScrollingToDate.current = false }, clearDelay)
+    const target = list.scrollTop + (elRect.top - listRect.top)
+    if (behavior === 'instant') {
+      list.scrollTop = target
+    } else {
+      isScrollingToDate.current = true
+      list.scrollTo({ top: target, behavior: 'smooth' })
+      setTimeout(() => { isScrollingToDate.current = false }, 600)
+    }
   }, [])
 
-  // When selectedDate changes due to a calendar tap → scroll list to that date
+  // ── Initial snap (runs once after first render) ──────────────────────
+  //
+  // Priority:
+  //   1. Restore saved scroll position (returning from a sub-page)
+  //   2. Scroll to selectedDate's section (if it has lessons)
+  //   3. Snap to the nearest lesson day (if selectedDate has no lessons)
+
   useEffect(() => {
+    if (snapDoneRef.current || lessonDays.length === 0) return
+    snapDoneRef.current = true
+
+    // Case 1 — restore saved scroll
+    const rawScroll = sessionStorage.getItem(SS_SCROLL)
+    if (rawScroll !== null) {
+      sessionStorage.removeItem(SS_SCROLL) // consume once
+      requestAnimationFrame(() => {
+        if (listRef.current) listRef.current.scrollTop = Number(rawScroll)
+      })
+      return
+    }
+
+    // Case 2 — selectedDate already has lessons, just scroll there instantly
+    if (lessonDays.some(d => d.date === selectedDate)) {
+      requestAnimationFrame(() => scrollListToDate(selectedDate, 'instant'))
+      return
+    }
+
+    // Case 3 — snap to nearest lesson day, update selectedDate to match
+    const nearest = lessonDays.reduce((best, curr) => {
+      const tD = new Date(curr.date + 'T00:00:00').getTime()
+      const tS = new Date(selectedDate + 'T00:00:00').getTime()
+      const tB = new Date(best.date + 'T00:00:00').getTime()
+      return Math.abs(tD - tS) < Math.abs(tB - tS) ? curr : best
+    }, lessonDays[0])
+
+    isListDriven.current = true  // prevent the useEffect below from counter-scrolling
+    setSelectedDate(nearest.date)
+    requestAnimationFrame(() => scrollListToDate(nearest.date, 'instant'))
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lessonDays])  // only re-runs if the lesson data changes
+
+  // ── Calendar-driven selectedDate → scroll list (skip on mount + list-driven) ──
+
+  useEffect(() => {
+    if (!mountedRef.current) {
+      mountedRef.current = true
+      return  // snap effect handles the initial position
+    }
     if (isListDriven.current) {
-      // The list scroll caused this state change — don't counter-scroll
       isListDriven.current = false
       return
     }
     scrollListToDate(selectedDate, 'smooth')
   }, [selectedDate, scrollListToDate])
 
-  // On mount: jump to today's section instantly (no loading animation)
-  useEffect(() => {
-    const t = setTimeout(() => scrollListToDate(TODAY, 'instant'), 80)
-    return () => clearTimeout(t)
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [])
-
-  // ── List scroll → update calendar selection ───────────────────────
+  // ── List scroll → update calendar selection ───────────────────────────
 
   const handleListScroll = useCallback(() => {
     if (isScrollingToDate.current) return
@@ -130,8 +189,7 @@ export default function InstructorSchedulePage() {
       for (const day of lessonDays) {
         const el = dayHeaderRefs.current.get(day.date)
         if (!el) continue
-        const elTop = el.getBoundingClientRect().top - listTop
-        if (elTop <= 8) topDate = day.date
+        if (el.getBoundingClientRect().top - listTop <= 8) topDate = day.date
       }
       if (topDate && topDate !== selectedDate) {
         isListDriven.current = true
@@ -142,16 +200,15 @@ export default function InstructorSchedulePage() {
 
   // ── Render ──────────────────────────────────────────────────────────
 
-  // Break out of the instructor layout's px-4 py-6 and fill the full viewport
-  // minus the sticky nav (56px = h-14). Each inner section re-applies its own padding.
   return (
+    // Clean full-height flex column — no negative margin hacks.
+    // The layout provides max-w-2xl centering; this div owns its own height.
     <div
-      className="-mx-4 -my-6 flex flex-col"
-      style={{ height: `calc(100dvh - ${NAV_HEIGHT}px)` }}
+      className="flex flex-col"
+      style={{ height: `calc(100svh - ${NAV_H}px)` }}
     >
       {/* ── Fixed top: header + calendar ── */}
-      <div className="flex-none px-4 pt-5 pb-0">
-        {/* Greeting + stats */}
+      <div className="flex-none px-4 pt-5">
         <div className="mb-3">
           <h1
             className="text-2xl font-bold text-[#000000]"
@@ -162,16 +219,13 @@ export default function InstructorSchedulePage() {
           <p className="text-[#666666] text-sm mt-0.5">
             {selectedLessons.length} lesson{selectedLessons.length !== 1 ? 's' : ''}&ensp;·&ensp;
             {totalGuests} guest{totalGuests !== 1 ? 's' : ''}&ensp;·&ensp;
-            <span
-              key={selectedDate}
-              style={{ animation: 'fadeIn 200ms ease both' }}
-            >
+            <span key={selectedDate} style={{ animation: 'fadeIn 200ms ease both' }}>
               {formatDate(selectedDate)}
             </span>
           </p>
         </div>
 
-        {/* Calendar picker box + handle button overlapping bottom border */}
+        {/* Calendar picker + handle overlapping bottom border */}
         <div className="relative mb-6">
           <div className="bg-white border border-[#CCCCCC] rounded-xl px-2 pt-2 pb-3">
             <CalendarPicker
@@ -185,7 +239,7 @@ export default function InstructorSchedulePage() {
             />
           </div>
 
-          {/* Handle — slim pill straddling the bottom border */}
+          {/* Pill handle — straddles the picker's bottom border */}
           <div className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 z-10">
             <button
               onClick={() => setCalendarExpanded(e => !e)}
@@ -212,11 +266,7 @@ export default function InstructorSchedulePage() {
       >
         {lessonDays.length === 0 ? (
           <div className="pt-4">
-            <EmptyState
-              icon={Calendar}
-              title="No lessons"
-              description="No lessons scheduled in this period"
-            />
+            <EmptyState icon={Calendar} title="No lessons" description="No lessons scheduled in this period" />
           </div>
         ) : (
           lessonDays.map(({ date, lessons }) => {
@@ -224,7 +274,7 @@ export default function InstructorSchedulePage() {
             const isSelected = date === selectedDate
             return (
               <div key={date}>
-                {/* Sticky day header */}
+                {/* Sticky day header — background matches page bg */}
                 <div
                   ref={el => {
                     if (el) dayHeaderRefs.current.set(date, el)
@@ -242,9 +292,7 @@ export default function InstructorSchedulePage() {
                       }}
                     >
                       {new Date(date + 'T00:00:00').toLocaleDateString('en-US', {
-                        weekday: 'short',
-                        month: 'short',
-                        day: 'numeric',
+                        weekday: 'short', month: 'short', day: 'numeric',
                       })}
                     </span>
                     {isDayToday && (
@@ -265,9 +313,7 @@ export default function InstructorSchedulePage() {
                     return (
                       <div
                         key={lesson.id}
-                        style={{
-                          animation: `fadeInUp 220ms cubic-bezier(0.25, 1, 0.5, 1) ${idx * 40}ms both`,
-                        }}
+                        style={{ animation: `fadeInUp 220ms cubic-bezier(0.25,1,0.5,1) ${idx * 40}ms both` }}
                       >
                         <LessonCard
                           lesson={lesson}

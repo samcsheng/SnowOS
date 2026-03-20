@@ -22,5 +22,7 @@ export default function InstructorLayout({ children }: { children: React.ReactNo
     )
   }
 
-  return <div className="max-w-2xl mx-auto px-4 py-6">{children}</div>
+  // No padding here — the schedule page manages its own full-height layout;
+  // sub-pages add their own px-4 py-6 wrapper.
+  return <div className="max-w-2xl mx-auto">{children}</div>
 }
