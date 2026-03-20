@@ -22,5 +22,9 @@ export default function InstructorLayout({ children }: { children: React.ReactNo
     )
   }
 
-  return <div className="max-w-2xl mx-auto px-4 py-6">{children}</div>
+  return (
+    <div className="max-w-2xl mx-auto h-full overflow-hidden flex flex-col">
+      {children}
+    </div>
+  )
 }

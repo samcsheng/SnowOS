@@ -135,3 +135,8 @@
     font-weight: 700;
   }
 }
+
+/* Calendar scroll containers — webkit scrollbar hidden */
+.cal-scroll::-webkit-scrollbar {
+  display: none;
+}
