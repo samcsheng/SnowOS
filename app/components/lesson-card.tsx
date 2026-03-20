@@ -18,7 +18,7 @@ interface LessonCardProps {
 
 export function LessonCard({ lesson, template, guestCount, instructorNames, href }: LessonCardProps) {
   return (
-    <Link href={href}>
+    <Link href={href} className="block">
       <div className="bg-white rounded-xl p-4 hover:shadow-md transition-shadow cursor-pointer border border-[#CCCCCC]">
         <div className="flex items-start justify-between gap-3">
           <div className="flex-1 min-w-0">

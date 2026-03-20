@@ -42,7 +42,7 @@ export default function InstructorSchedulePage() {
       </div>
 
       {/* CM Tab-style Date Picker */}
-      <div className="bg-[#F8F8F8] rounded-xl p-1.5 flex gap-1 mb-6 overflow-x-auto">
+      <div className="bg-[#F8F8F8] rounded-xl p-2 flex gap-1 mb-6 overflow-x-auto">
         {dates.map(date => {
           const d = new Date(date + 'T00:00:00')
           const isSelected = date === selectedDate
