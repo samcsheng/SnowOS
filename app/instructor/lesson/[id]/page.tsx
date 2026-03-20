@@ -10,7 +10,7 @@ import { Button } from '@/components/ui/button'
 import { Checkbox } from '@/components/ui/checkbox'
 import { formatTimeRange, formatDate } from '@/app/lib/utils/date-helpers'
 import { LEVEL_LABELS } from '@/app/lib/utils/report-helpers'
-import { ArrowLeft, Play, CheckCircle, FileText, Users, MapPin, Clock } from 'lucide-react'
+import { ArrowLeft, Play, CheckCircle, FileText, Users, MapPin, Clock, ChevronRight } from 'lucide-react'
 import { toast } from 'sonner'
 import type { LessonStatus } from '@/app/lib/types'
 
@@ -160,26 +160,30 @@ export default function LessonDetailPage({ params }: { params: Promise<{ id: str
         </div>
         <div className="space-y-2">
           {guests.map(guest => (
-            <Link
+            <div
               key={guest.id}
-              href={`/instructor/guest/${guest.id}`}
-              className="flex items-center gap-3 p-3 rounded-xl bg-white border border-[#CCCCCC] hover:border-[#000000] transition-colors"
+              className="flex items-center gap-3 p-3 rounded-xl bg-white border border-[#CCCCCC]"
             >
               {(lesson.status === 'scheduled' || lesson.status === 'in_progress') && instructors.length > 1 && (
                 <Checkbox
                   checked={selectedGuests.has(guest.id)}
                   onCheckedChange={() => toggleGuest(guest.id)}
-                  onClick={(e) => e.stopPropagation()}
                 />
               )}
-              <div className="w-9 h-9 rounded-full bg-[#D5CDC2] text-[#000000] flex items-center justify-center text-sm font-bold">
+              <div className="w-9 h-9 rounded-full bg-[#D5CDC2] text-[#000000] flex items-center justify-center text-sm font-bold flex-shrink-0">
                 {guest.first_name.charAt(0)}{guest.last_name.charAt(0)}
               </div>
-              <div className="flex-1">
+              <div className="flex-1 min-w-0">
                 <p className="text-sm font-semibold text-[#000000]">{guest.first_name} {guest.last_name}</p>
                 <p className="text-xs text-[#666666]">Room {guest.room_number}</p>
               </div>
-            </Link>
+              <Link
+                href={`/instructor/guest/${guest.id}`}
+                className="flex items-center justify-center w-8 h-8 -mr-1 rounded-lg text-[#CCCCCC] hover:text-[#000000] hover:bg-[#F0F0F0] transition-colors flex-shrink-0"
+              >
+                <ChevronRight className="w-4 h-4" />
+              </Link>
+            </div>
           ))}
         </div>
       </div>
