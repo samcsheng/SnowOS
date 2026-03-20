@@ -51,9 +51,9 @@ export default function GuestProfilePage({ params }: { params: Promise<{ id: str
       </div>
 
       {/* Guest Info Card */}
-      <div className="bg-white rounded-xl border border-[#CCCCCC] p-5 mb-6">
+      <div className="bg-white rounded-xl border border-[#CCCCCC] p-4 mb-6">
         <div className="flex items-center gap-4">
-          <div className="w-14 h-14 rounded-full bg-[#FDBE00] text-[#000000] flex items-center justify-center text-xl font-bold">
+          <div className="w-10 h-10 rounded-full bg-[#FDBE00] text-[#000000] flex items-center justify-center text-base font-bold">
             {guest.first_name.charAt(0)}{guest.last_name.charAt(0)}
           </div>
           <div>
@@ -101,7 +101,7 @@ export default function GuestProfilePage({ params }: { params: Promise<{ id: str
                     <span className="font-semibold text-sm text-[#000000]">{template.name}</span>
                     <DisciplineBadge discipline={template.discipline_id} />
                   </div>
-                  <p className="text-xs text-[#666666] mt-0.5">
+                  <p className="text-xs text-[#666666] mt-1">
                     {formatDate(lesson.start_time)} &middot; {formatTimeRange(lesson.start_time, lesson.end_time)}
                   </p>
                 </div>
@@ -111,7 +111,7 @@ export default function GuestProfilePage({ params }: { params: Promise<{ id: str
                 <div className="mt-2 pt-2 border-t border-[#CCCCCC] text-sm">
                   <div className="flex items-center gap-2 mb-1">
                     <span className="text-[#666666]">Recommended:</span>
-                    <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold border border-[#CCCCCC] text-[#333333]">
+                    <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold border border-[#CCCCCC] text-[#333333]">
                       {LEVEL_LABELS[entry.recommended_level] || `L${entry.recommended_level}`}
                     </span>
                   </div>
