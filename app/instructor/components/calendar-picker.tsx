@@ -27,6 +27,8 @@ export interface CalendarPickerProps {
   rangeEnd: string
   today: string
   expanded: boolean  // controlled by parent
+  /** When true, the very first programmatic scroll uses 'instant' instead of 'smooth' */
+  instantFirst?: boolean
 }
 
 // ── Grid builder ─────────────────────────────────────────────────────
@@ -89,6 +91,7 @@ export function CalendarPicker({
   rangeEnd,
   today,
   expanded,
+  instantFirst = false,
 }: CalendarPickerProps) {
   const collapsedRef = useRef<HTMLDivElement>(null)
   const expandedRef = useRef<HTMLDivElement>(null)
@@ -96,6 +99,9 @@ export function CalendarPicker({
   const monthLabelRef = useRef<HTMLSpanElement>(null)
   const scrollEndTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   const isProg = useRef(false)
+  // Tracks whether the first programmatic scroll has fired yet.
+  // Starts as 'instant' when instantFirst=true (navigate-back restore), 'smooth' otherwise.
+  const nextScrollBehavior = useRef<ScrollBehavior>(instantFirst ? 'instant' : 'smooth')
 
   const weeks = useMemo(() => buildWeeks(rangeStart, rangeEnd), [rangeStart, rangeEnd])
 
@@ -112,9 +118,16 @@ export function CalendarPicker({
     if (!c) return
     const target = selectedWeekIdx * c.offsetWidth
     if (Math.abs(c.scrollLeft - target) < 2) return
+    const behavior = nextScrollBehavior.current
+    nextScrollBehavior.current = 'smooth'   // subsequent scrolls always smooth
     isProg.current = true
-    c.scrollTo({ left: target, behavior: 'smooth' })
-    setTimeout(() => { isProg.current = false }, 400)
+    if (behavior === 'instant') {
+      c.scrollLeft = target
+      isProg.current = false
+    } else {
+      c.scrollTo({ left: target, behavior: 'smooth' })
+      setTimeout(() => { isProg.current = false }, 400)
+    }
   }, [selectedDate, expanded, selectedWeekIdx])
 
   // ── Sync scroll: expanded → selected week (on selectedDate change only) ──
@@ -125,9 +138,16 @@ export function CalendarPicker({
     if (!c) return
     const target = selectedWeekIdx * ROW_HEIGHT
     if (Math.abs(c.scrollTop - target) < 2) return
+    const behavior = nextScrollBehavior.current
+    nextScrollBehavior.current = 'smooth'   // subsequent scrolls always smooth
     isProg.current = true
-    c.scrollTo({ top: target, behavior: 'smooth' })
-    setTimeout(() => { isProg.current = false }, 400)
+    if (behavior === 'instant') {
+      c.scrollTop = target
+      isProg.current = false
+    } else {
+      c.scrollTo({ top: target, behavior: 'smooth' })
+      setTimeout(() => { isProg.current = false }, 400)
+    }
   }, [selectedDate, expanded, selectedWeekIdx])
 
   // ── Expanded scroll → month overlay only (no selection change) ──────

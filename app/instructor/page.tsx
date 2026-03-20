@@ -39,6 +39,12 @@ export default function InstructorSchedulePage() {
   const [calendarExpanded, setCalendarExpanded] = useState<boolean>(() =>
     typeof window !== 'undefined' && sessionStorage.getItem(SS_EXPANDED) === 'true'
   )
+  // True when this mount is a navigate-back restore. Never flips — cards keep
+  // animation:none for the whole session so they don't re-animate on any re-render.
+  // (Changing animation-name from 'none'→'fadeInUp' on an existing DOM node restarts it.)
+  const [suppressAnimation] = useState<boolean>(() =>
+    typeof window !== 'undefined' && sessionStorage.getItem(SS_SCROLL) !== null
+  )
 
   // ── Refs ──────────────────────────────────────────────────────────────
 
@@ -236,6 +242,7 @@ export default function InstructorSchedulePage() {
               rangeEnd={RANGE_END}
               today={TODAY}
               expanded={calendarExpanded}
+              instantFirst={suppressAnimation}
             />
           </div>
 
@@ -313,7 +320,9 @@ export default function InstructorSchedulePage() {
                     return (
                       <div
                         key={lesson.id}
-                        style={{ animation: `fadeInUp 220ms cubic-bezier(0.25,1,0.5,1) ${idx * 40}ms both` }}
+                        style={suppressAnimation ? undefined : {
+                          animation: `fadeInUp 220ms cubic-bezier(0.25,1,0.5,1) ${idx * 40}ms both`,
+                        }}
                       >
                         <LessonCard
                           lesson={lesson}
