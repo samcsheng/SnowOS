@@ -5,10 +5,7 @@ import { useRouter } from 'next/navigation'
 import { useData } from '@/app/lib/store/use-data'
 import { StatusBadge } from '@/app/components/status-badge'
 import { DisciplineBadge } from '@/app/components/discipline-badge'
-import { Button } from '@/components/ui/button'
-import { Card, CardContent } from '@/components/ui/card'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
-import { Separator } from '@/components/ui/separator'
 import { formatTimeRange, formatDate } from '@/app/lib/utils/date-helpers'
 import { LEVEL_LABELS } from '@/app/lib/utils/report-helpers'
 import { ArrowLeft, UserPlus, Users, MapPin, Clock, X } from 'lucide-react'
@@ -29,7 +26,6 @@ export default function SupervisorLessonDetailPage({ params }: { params: Promise
 
   const [showAssign, setShowAssign] = useState(false)
 
-  // Available instructors for assignment
   const availableInstructors = useMemo(() => {
     if (!template) return []
     const assignedIds = new Set(instructors.map(i => i.id))
@@ -58,10 +54,10 @@ export default function SupervisorLessonDetailPage({ params }: { params: Promise
   if (!lesson || !template) {
     return (
       <div className="text-center py-12">
-        <p className="text-muted-foreground">Lesson not found</p>
-        <Button variant="ghost" onClick={() => router.back()} className="mt-4">
-          <ArrowLeft className="h-4 w-4 mr-2" /> Back
-        </Button>
+        <p className="text-[#666666]">Lesson not found</p>
+        <button onClick={() => router.back()} className="mt-4 px-4 py-2 rounded-full text-sm font-semibold border border-[#CCCCCC] hover:bg-[#F8F8F8] transition-colors">
+          <ArrowLeft className="h-4 w-4 inline mr-2" /> Back
+        </button>
       </div>
     )
   }
@@ -70,16 +66,21 @@ export default function SupervisorLessonDetailPage({ params }: { params: Promise
     <div className="max-w-3xl">
       {/* Header */}
       <div className="flex items-center gap-3 mb-6">
-        <Button variant="ghost" size="icon" onClick={() => router.back()}>
-          <ArrowLeft className="h-5 w-5" />
-        </Button>
+        <button
+          onClick={() => router.back()}
+          className="w-9 h-9 rounded-full border border-[#CCCCCC] flex items-center justify-center hover:bg-[#F8F8F8] transition-colors"
+        >
+          <ArrowLeft className="h-4 w-4 text-[#000000]" />
+        </button>
         <div className="flex-1">
-          <div className="flex items-center gap-2">
-            <h1 className="text-xl font-bold">{template.name}</h1>
+          <div className="flex items-center gap-2 flex-wrap">
+            <h1 className="text-xl font-bold text-[#000000]" style={{ fontFamily: 'var(--font-heading)' }}>
+              {template.name}
+            </h1>
             <DisciplineBadge discipline={template.discipline_id} />
             <StatusBadge status={lesson.status} />
           </div>
-          <p className="text-sm text-muted-foreground mt-0.5">
+          <p className="text-sm text-[#666666] mt-0.5">
             {formatDate(lesson.start_time)} &middot; {formatTimeRange(lesson.start_time, lesson.end_time)} &middot; {template.location}
           </p>
         </div>
@@ -87,97 +88,96 @@ export default function SupervisorLessonDetailPage({ params }: { params: Promise
 
       <div className="grid md:grid-cols-2 gap-6">
         {/* Instructors */}
-        <Card>
-          <CardContent className="p-4">
-            <div className="flex items-center justify-between mb-3">
-              <h2 className="font-semibold flex items-center gap-2">
-                <Users className="h-4 w-4" /> Instructors ({instructors.length})
-              </h2>
-              <Button variant="outline" size="sm" onClick={() => setShowAssign(!showAssign)}>
-                <UserPlus className="h-3.5 w-3.5 mr-1" /> Assign
-              </Button>
-            </div>
-
-            {showAssign && (
-              <div className="mb-3">
-                <Select onValueChange={handleAssign}>
-                  <SelectTrigger>
-                    <SelectValue placeholder="Select instructor..." />
-                  </SelectTrigger>
-                  <SelectContent>
-                    {availableInstructors.length === 0 ? (
-                      <SelectItem value="_none" disabled>No available instructors</SelectItem>
-                    ) : (
-                      availableInstructors.map(inst => {
-                        const user = state.users.find(u => u.id === inst.user_id)
-                        return (
-                          <SelectItem key={inst.id} value={inst.id}>
-                            {user?.name} (L{inst.max_teaching_level})
-                          </SelectItem>
-                        )
-                      })
-                    )}
-                  </SelectContent>
-                </Select>
-              </div>
-            )}
-
-            <div className="space-y-2">
-              {instructors.map(inst => (
-                <div key={inst.id} className="flex items-center justify-between p-2 rounded-lg bg-muted/50">
-                  <div className="flex items-center gap-3">
-                    <div className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center text-sm font-medium">
-                      {inst.user?.name?.charAt(0) || '?'}
-                    </div>
-                    <div>
-                      <p className="text-sm font-medium">{inst.user?.name}</p>
-                      <p className="text-xs text-muted-foreground capitalize">
-                        {inst.assignment.role} &middot; L{inst.max_teaching_level}
-                      </p>
-                    </div>
-                  </div>
-                  <Button
-                    variant="ghost" size="icon" className="h-7 w-7"
-                    onClick={() => handleRemoveAssignment(inst.assignment.id)}
-                  >
-                    <X className="h-3.5 w-3.5" />
-                  </Button>
-                </div>
-              ))}
-              {instructors.length === 0 && (
-                <p className="text-sm text-muted-foreground text-center py-4">No instructor assigned</p>
-              )}
-            </div>
-          </CardContent>
-        </Card>
-
-        {/* Guests */}
-        <Card>
-          <CardContent className="p-4">
-            <h2 className="font-semibold flex items-center gap-2 mb-3">
-              <Users className="h-4 w-4" /> Guests ({guests.length})
-              {template.max_capacity && (
-                <span className="text-xs text-muted-foreground font-normal">/ {template.max_capacity} max</span>
-              )}
+        <div className="bg-white rounded-xl border border-[#CCCCCC] p-4">
+          <div className="flex items-center justify-between mb-3">
+            <h2 className="font-bold text-[#000000] flex items-center gap-2" style={{ fontFamily: 'var(--font-heading)' }}>
+              <Users className="h-4 w-4" /> Instructors ({instructors.length})
             </h2>
-            <div className="space-y-2">
-              {guests.map(guest => (
-                <div key={guest.id} className="flex items-center gap-3 p-2 rounded-lg bg-muted/30">
-                  <div className="w-8 h-8 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center text-xs font-medium">
-                    {guest.first_name.charAt(0)}{guest.last_name.charAt(0)}
+            <button
+              onClick={() => setShowAssign(!showAssign)}
+              className="px-3 py-1.5 rounded-full text-xs font-semibold border border-[#000000] bg-white text-[#000000] hover:bg-[#F8F8F8] transition-colors flex items-center gap-1"
+            >
+              <UserPlus className="h-3.5 w-3.5" /> Assign
+            </button>
+          </div>
+
+          {showAssign && (
+            <div className="mb-3">
+              <Select onValueChange={handleAssign}>
+                <SelectTrigger className="rounded-full border-[#CCCCCC]">
+                  <SelectValue placeholder="Select instructor..." />
+                </SelectTrigger>
+                <SelectContent className="rounded-xl">
+                  {availableInstructors.length === 0 ? (
+                    <SelectItem value="_none" disabled>No available instructors</SelectItem>
+                  ) : (
+                    availableInstructors.map(inst => {
+                      const user = state.users.find(u => u.id === inst.user_id)
+                      return (
+                        <SelectItem key={inst.id} value={inst.id}>
+                          {user?.name} (L{inst.max_teaching_level})
+                        </SelectItem>
+                      )
+                    })
+                  )}
+                </SelectContent>
+              </Select>
+            </div>
+          )}
+
+          <div className="space-y-2">
+            {instructors.map(inst => (
+              <div key={inst.id} className="flex items-center justify-between p-2 rounded-xl bg-[#F8F8F8]">
+                <div className="flex items-center gap-3">
+                  <div className="w-8 h-8 rounded-full bg-[#FDBE00] flex items-center justify-center text-sm font-bold text-[#000000]">
+                    {inst.user?.name?.charAt(0) || '?'}
                   </div>
                   <div>
-                    <p className="text-sm font-medium">{guest.first_name} {guest.last_name}</p>
-                    <p className="text-xs text-muted-foreground">Room {guest.room_number}</p>
+                    <p className="text-sm font-semibold text-[#000000]">{inst.user?.name}</p>
+                    <p className="text-xs text-[#666666] capitalize">
+                      {inst.assignment.role} &middot; L{inst.max_teaching_level}
+                    </p>
                   </div>
                 </div>
-              ))}
-              {guests.length === 0 && (
-                <p className="text-sm text-muted-foreground text-center py-4">No guests booked</p>
-              )}
-            </div>
-          </CardContent>
-        </Card>
+                <button
+                  onClick={() => handleRemoveAssignment(inst.assignment.id)}
+                  className="w-7 h-7 rounded-full hover:bg-[#CCCCCC]/50 flex items-center justify-center transition-colors"
+                >
+                  <X className="h-3.5 w-3.5 text-[#666666]" />
+                </button>
+              </div>
+            ))}
+            {instructors.length === 0 && (
+              <p className="text-sm text-[#999999] text-center py-4">No instructor assigned</p>
+            )}
+          </div>
+        </div>
+
+        {/* Guests */}
+        <div className="bg-white rounded-xl border border-[#CCCCCC] p-4">
+          <h2 className="font-bold text-[#000000] flex items-center gap-2 mb-3" style={{ fontFamily: 'var(--font-heading)' }}>
+            <Users className="h-4 w-4" /> Guests ({guests.length})
+            {template.max_capacity && (
+              <span className="text-xs text-[#666666] font-normal">/ {template.max_capacity} max</span>
+            )}
+          </h2>
+          <div className="space-y-2">
+            {guests.map(guest => (
+              <div key={guest.id} className="flex items-center gap-3 p-2 rounded-xl bg-[#F8F8F8]">
+                <div className="w-8 h-8 rounded-full bg-[#D5CDC2] text-[#000000] flex items-center justify-center text-xs font-bold">
+                  {guest.first_name.charAt(0)}{guest.last_name.charAt(0)}
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-[#000000]">{guest.first_name} {guest.last_name}</p>
+                  <p className="text-xs text-[#666666]">Room {guest.room_number}</p>
+                </div>
+              </div>
+            ))}
+            {guests.length === 0 && (
+              <p className="text-sm text-[#999999] text-center py-4">No guests booked</p>
+            )}
+          </div>
+        </div>
       </div>
     </div>
   )

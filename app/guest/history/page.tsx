@@ -2,8 +2,6 @@
 
 import { useMemo } from 'react'
 import { useData } from '@/app/lib/store/use-data'
-import { Card, CardContent } from '@/components/ui/card'
-import { Badge } from '@/components/ui/badge'
 import { DisciplineBadge } from '@/app/components/discipline-badge'
 import { StatusBadge } from '@/app/components/status-badge'
 import { EmptyState } from '@/app/components/empty-state'
@@ -27,8 +25,10 @@ export default function GuestHistoryPage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold mb-1">Lesson History</h1>
-      <p className="text-sm text-muted-foreground mb-6">{history.length} lessons</p>
+      <h1 className="text-2xl font-bold text-[#000000] mb-1" style={{ fontFamily: 'var(--font-heading)' }}>
+        Lesson History
+      </h1>
+      <p className="text-sm text-[#666666] mb-6">{history.length} lessons</p>
 
       {history.length === 0 ? (
         <EmptyState
@@ -41,48 +41,50 @@ export default function GuestHistoryPage() {
           {[...history].reverse().map(({ lesson, template, report, entry }) => {
             const instructors = getInstructorsForLesson(lesson.id)
             return (
-              <Card key={lesson.id}>
-                <CardContent className="p-4">
-                  <div className="flex items-start justify-between mb-2">
-                    <div>
-                      <div className="flex items-center gap-2">
-                        <span className="font-semibold text-sm">{template.name}</span>
-                        <DisciplineBadge discipline={template.discipline_id} />
-                      </div>
-                      <p className="text-xs text-muted-foreground mt-0.5">
-                        {formatDate(lesson.start_time)} &middot; {formatTimeRange(lesson.start_time, lesson.end_time)}
-                      </p>
+              <div key={lesson.id} className="bg-white rounded-xl border border-[#CCCCCC] p-4">
+                <div className="flex items-start justify-between mb-2">
+                  <div>
+                    <div className="flex items-center gap-2 flex-wrap">
+                      <span className="font-bold text-sm text-[#000000]" style={{ fontFamily: 'var(--font-heading)' }}>
+                        {template.name}
+                      </span>
+                      <DisciplineBadge discipline={template.discipline_id} />
                     </div>
-                    <StatusBadge status={lesson.status} />
-                  </div>
-
-                  {instructors.length > 0 && (
-                    <p className="text-xs text-muted-foreground mb-2">
-                      Instructor: {instructors.map(i => i.user?.name).join(', ')}
+                    <p className="text-xs text-[#666666] mt-0.5">
+                      {formatDate(lesson.start_time)} &middot; {formatTimeRange(lesson.start_time, lesson.end_time)}
                     </p>
-                  )}
+                  </div>
+                  <StatusBadge status={lesson.status} />
+                </div>
 
-                  {entry && (
-                    <div className="mt-2 pt-2 border-t">
-                      <div className="flex items-center gap-2 mb-1">
-                        <span className="text-xs text-muted-foreground">Level:</span>
-                        <Badge variant="outline" className="text-xs">
-                          {LEVEL_LABELS[entry.recommended_level] || `L${entry.recommended_level}`}
-                        </Badge>
-                      </div>
-                      <p className="text-sm text-muted-foreground">{entry.progress_notes}</p>
-                    </div>
-                  )}
+                {instructors.length > 0 && (
+                  <p className="text-xs text-[#999999] mb-2">
+                    Instructor: {instructors.map(i => i.user?.name).join(', ')}
+                  </p>
+                )}
 
-                  {report && report.terrain_skied.length > 0 && (
-                    <div className="flex flex-wrap gap-1 mt-2">
-                      {report.terrain_skied.map(t => (
-                        <Badge key={t} variant="secondary" className="text-xs">{t}</Badge>
-                      ))}
+                {entry && (
+                  <div className="mt-2 pt-2 border-t border-[#F8F8F8]">
+                    <div className="flex items-center gap-2 mb-1">
+                      <span className="text-xs text-[#666666]">Level:</span>
+                      <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold border border-[#CCCCCC] text-[#333333]">
+                        {LEVEL_LABELS[entry.recommended_level] || `L${entry.recommended_level}`}
+                      </span>
                     </div>
-                  )}
-                </CardContent>
-              </Card>
+                    <p className="text-sm text-[#666666]">{entry.progress_notes}</p>
+                  </div>
+                )}
+
+                {report && report.terrain_skied.length > 0 && (
+                  <div className="flex flex-wrap gap-1 mt-2">
+                    {report.terrain_skied.map(t => (
+                      <span key={t} className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-[#F8F8F8] border border-[#CCCCCC] text-[#333333]">
+                        {t}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </div>
             )
           })}
         </div>
