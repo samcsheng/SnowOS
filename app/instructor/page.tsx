@@ -216,19 +216,47 @@ export default function InstructorSchedulePage() {
       {/* ── Fixed top: header + calendar ── */}
       <div className="flex-none px-4 pt-5">
         <div className="mb-3">
-          <h1
-            className="text-2xl font-bold text-[#000000]"
-            style={{ fontFamily: 'var(--font-heading)' }}
-          >
-            {currentUser ? `Hi, ${currentUser.name.split(' ')[0]}` : 'Schedule'}
-          </h1>
-          <p className="text-[#666666] text-sm mt-0.5">
-            {selectedLessons.length} lesson{selectedLessons.length !== 1 ? 's' : ''}&ensp;·&ensp;
-            {totalGuests} guest{totalGuests !== 1 ? 's' : ''}&ensp;·&ensp;
-            <span key={selectedDate} style={{ animation: 'fadeIn 200ms ease both' }}>
+          {/* Row 1: name  ·  date */}
+          <div className="flex items-baseline justify-between">
+            <h1
+              className="text-2xl font-bold text-[#000000]"
+              style={{ fontFamily: 'var(--font-heading)' }}
+            >
+              {currentUser ? `Hi, ${currentUser.name.split(' ')[0]}` : 'Schedule'}
+            </h1>
+            <span
+              key={selectedDate}
+              className="text-sm font-semibold text-[#333333]"
+              style={{ animation: suppressAnimation ? undefined : 'fadeIn 200ms ease both' }}
+            >
               {formatDate(selectedDate)}
             </span>
-          </p>
+          </div>
+
+          {/* Row 2: stats  ·  Today button (active only when not on today) */}
+          <div className="flex items-center justify-between mt-0.5">
+            <p className="text-[#666666] text-sm">
+              {selectedLessons.length} lesson{selectedLessons.length !== 1 ? 's' : ''}&ensp;·&ensp;
+              {totalGuests} guest{totalGuests !== 1 ? 's' : ''}
+            </p>
+            <button
+              onClick={() => setSelectedDate(TODAY)}
+              className="text-xs font-semibold px-3 py-1 rounded-full border transition-colors"
+              style={selectedDate === TODAY ? {
+                borderColor: '#CCCCCC',
+                color: '#BBBBBB',
+                cursor: 'default',
+              } : {
+                borderColor: '#000000',
+                color: '#000000',
+                backgroundColor: 'transparent',
+              }}
+              disabled={selectedDate === TODAY}
+              aria-label="Go to today"
+            >
+              Today
+            </button>
+          </div>
         </div>
 
         {/* Calendar picker + handle overlapping bottom border */}
